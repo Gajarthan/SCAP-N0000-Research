@@ -49,7 +49,7 @@ flowchart TB
 
 **මූලාශ්‍ර සටහන්:** [SCAP-AR-2025](../../../sources/records/SCAP-AR-2025.md) · [SCAP-FY2026-YE-INTERIM](../../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SLIFE-Q2-2026-REGISTER](../../../sources/records/SLIFE-Q2-2026-REGISTER.md) · [SCAP-AR-2026-CATALOGUE](../../../sources/records/SCAP-AR-2026-CATALOGUE.md).
 
-[Original SCAP 2025 audited group structure p.4](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) · [SCAP 2025 collateral note p.149](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) · [Life 30 Jun 2026 shareholder note p.19]([object Object]) · [SCAP 2026 interim](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
+[Original SCAP 2025 audited group structure p.4](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) · [SCAP 2025 collateral note p.149](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) · [Life 30 Jun 2026 shareholder note p.19](https://cdn.cse.lk/cmt/upload_report_file/364_1786443015903.%20Interim%20Financial%20Statements%20-%20For%20the_Period%20ended%2030%20June%202026-CSE.pdf) · [SCAP 2026 interim](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
 
 ## ⚠️ තවදුරටත් පරීක්ෂා කළ යුතු කරුණු
 
@@ -60,3 +60,21 @@ flowchart TB
 [මධ්‍යම මූලාශ්‍ර ලැයිස්තුව](../../../sources/SOURCE-REGISTER.md) · [පර්යේෂණ අනුපිළිවෙළ](../../../si/RESEARCH-QUEUE.md)
 
 **Scope:** Research documents distinct dated entities and accounting sources, not an investment recommendation.
+## හිමිකාරීත්වය, ඓතිහාසික ඇප සහ ලාභාංශ ගණනය — 2026-09-30
+
+මෙම සංසන්දනය **වෙනස් දින තුනක නිකුත්කරු මූලාශ්‍ර** මත පදනම් වේ: [SCAP FY2025 විගණිත note 39.1.2, PDF පි.149](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf), [Life 2026-06-30 අතුරු කොටස් හිමියන්ගේ note 19, පි.19](https://cdn.cse.lk/cmt/upload_report_file/364_1786443015903.%20Interim%20Financial%20Statements%20-%20For%20the_Period%20ended%2030%20June%202026-CSE.pdf), [Life 2026-06-22 ලාභාංශ නිවේදනය](https://cdn.cse.lk/cmt/announcement_portal_prod/INTERIM%20DIVIDEND%20ANNOUNCEMENT_4994263359860578.pdf). මුල් PDF ගොනු බාහිරව ඇත; GitHub තුළ ගබඩා කර නැත. මෙය **ලැබුණු මුදල් හෝ 2026 ඇප තත්ත්වය තහවුරු කිරීමක් නොවේ**.
+
+| මිනුම | ගණනය | ප්‍රතිඵලය / සීමාව |
+|---|---|---|
+| 2025-03-31 NDB ඇපයට දුන් Life කොටස් | FY2025 විගණිත පි.149 | **48,559,000**; වත්මන් තත්ත්වය නොදනී |
+| 2025-03-31 DFCC ඇපයට දුන් Life කොටස් | FY2025 විගණිත පි.149 | **32,490,704**; වත්මන් තත්ත්වය නොදනී |
+| ඓතිහාසික ඇප කොටස් එකතුව | 48,559,000 + 32,490,704 | **81,049,704**; අතිච්ඡාදනය/නිදහස් කිරීම පරීක්ෂා කළ යුතුය |
+| 2026-06-30 SCAP සතු Life කොටස් | Life note 19 | **158,714,972 / 50.16%**; හිමිකම මිස ඇප ලේඛනය නොවේ |
+| වෙනස් දිනවල සංසන්දනාත්මක අනුපාතය | 81,049,704 ÷ 158,714,972 | **51.07%**; **වත්මන් ඇප අනුපාතය නොවේ** |
+| වෙනස් දිනවල ගණිතමය ඉතිරිය | 158,714,972 − 81,049,704 | **77,665,268**; නිදහස් කොටස් බව තහවුරු නොවේ |
+| 2026-07-03 වාර්තා දිනයේ එම කොටස් පැවති බව උපකල්පනය කළ දළ ලාභාංශය | 158,714,972 × LKR 5.30 | **LKR 841,189,351.60 (841.189m)**; සැබෑ ලැබීම්/බදු තහවුරු නැත |
+| ඓතිහාසික ඇප කොටස්වලට ගණිතමය වශයෙන් අදාළ දළ ලාභාංශය | 81,049,704 × 5.30 | **LKR 429,563,431.20 (429.563m)**; 2026 දී බැංකුවට ගෙවූ හෝ අවහිර වූ මුදලක් බවට සාක්ෂි නොවේ |
+
+**මව් සමාගමේ මුදල් තත්ත්වය:** Life විසින් ප්‍රකාශ කළ ලාභාංශය, SCAP හි වාර්තා දින අයිතිය, රඳවාගත් බදු, ණය ඇප කොන්දේසි සහ SCAP ස්වාධීන බැංකු ගිණුමට සැබෑ මුදල් ලැබීම **වෙන වෙනම** පරීක්ෂා කළ යුතුය. FY2025 SCAP ස්වාධීන මුළු ණය **LKR 14,797.333m** (විගණිත පි.148); මෙහි උපකල්පිත ලාභාංශය වත්මන් ණය-සේවා අනුපාතයක් නොවේ.
+
+**ඊළඟ සාක්ෂි:** SCAP FY2026 අවසන් විගණිත ණය/ඇප සටහන්; NDB/DFCC ඇප නිදහස් කිරීම; **2026-07-03** සැබෑ කොටස් ලේඛනය; SCAP බැංකු ලැබීම් හා බදු; SCAP 2026 ජූනි මුල් අතුරු වාර්තාව. **හිමිකම PARTIAL; ඇප නිදහස් කිරීම සහ මුදල් ලැබීම් OPEN.**

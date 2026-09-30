@@ -49,7 +49,7 @@ flowchart TB
 
 **ஆதாரப் பதிவுகள்:** [SCAP-AR-2025](../../../sources/records/SCAP-AR-2025.md) · [SCAP-FY2026-YE-INTERIM](../../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SLIFE-Q2-2026-REGISTER](../../../sources/records/SLIFE-Q2-2026-REGISTER.md) · [SCAP-AR-2026-CATALOGUE](../../../sources/records/SCAP-AR-2026-CATALOGUE.md).
 
-[Original SCAP 2025 audited group structure p.4](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) · [SCAP 2025 collateral note p.149](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) · [Life 30 Jun 2026 shareholder note p.19]([object Object]) · [SCAP 2026 interim](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
+[Original SCAP 2025 audited group structure p.4](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) · [SCAP 2025 collateral note p.149](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) · [Life 30 Jun 2026 shareholder note p.19](https://cdn.cse.lk/cmt/upload_report_file/364_1786443015903.%20Interim%20Financial%20Statements%20-%20For%20the_Period%20ended%2030%20June%202026-CSE.pdf) · [SCAP 2026 interim](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
 
 ## ⚠️ இன்னும் சரிபார்க்க வேண்டியது
 
@@ -60,3 +60,21 @@ flowchart TB
 [மத்திய ஆதாரப் பட்டியல்](../../../sources/SOURCE-REGISTER.md) · [ஆய்வு வரிசை](../../../ta/RESEARCH-QUEUE.md)
 
 **Scope:** Research documents distinct dated entities and accounting sources, not an investment recommendation.
+## பங்குரிமை, வரலாற்று அடமானம் மற்றும் ஈவுத்தொகை கணக்குப் பாலம் — 30-09-2026
+
+இவை **மூன்று வெவ்வேறு தேதிகளின் அசல் வெளியீட்டாளர் ஆதாரங்கள்**: [SCAP FY2025 தணிக்கை குறிப்பு 39.1.2, PDF ப.149](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf), [Softlogic Life 30-06-2026 இடைக்கால பங்குதாரர் குறிப்பு 19, ப.19](https://cdn.cse.lk/cmt/upload_report_file/364_1786443015903.%20Interim%20Financial%20Statements%20-%20For%20the_Period%20ended%2030%20June%202026-CSE.pdf), [22-06-2026 Life ஈவுத்தொகை அறிவிப்பு](https://cdn.cse.lk/cmt/announcement_portal_prod/INTERIM%20DIVIDEND%20ANNOUNCEMENT_4994263359860578.pdf). அசல் PDF-கள் வெளித் தளத்தில் உள்ளன; GitHub-இல் சேமிக்கப்படவில்லை. கீழுள்ள கணக்குகள் **உண்மையான பணவரவு அல்லது 2026-இல் அடமானம் தொடர்வதற்கான ஆதாரம் அல்ல**.
+
+| அளவீடு | கணக்கீடு | முடிவு / வரம்பு |
+|---|---|---|
+| 31-03-2025 NDB-க்கு அடமான Life பங்குகள் | FY2025 தணிக்கை ப.149 | **48,559,000**; தற்போதைய நிலை தெரியாது |
+| 31-03-2025 DFCC-க்கு அடமான Life பங்குகள் | FY2025 தணிக்கை ப.149 | **32,490,704**; தற்போதைய நிலை தெரியாது |
+| வரலாற்று அடமானப் பங்குகளின் கூட்டுத்தொகை | 48,559,000 + 32,490,704 | **81,049,704**; இரட்டைப் பதிவு/விடுவிப்பு சரிபார்க்க வேண்டும் |
+| 30-06-2026 SCAP வைத்திருந்த Life பங்குகள் | Life குறிப்பு 19 | **158,714,972 / 50.16%**; உரிமை மட்டுமே, அடமானப் பதிவு அல்ல |
+| இரு வேறு தேதிகளை ஒப்பிட்ட விகிதம் | 81,049,704 ÷ 158,714,972 | **51.07%**; **தற்போதைய அடமான விகிதம் அல்ல** |
+| இரு வேறு தேதிகளின் எஞ்சிய பங்குகள் | 158,714,972 − 81,049,704 | **77,665,268**; தடையற்ற பங்குகள் என்று உறுதி செய்ய முடியாது |
+| 03-07-2026 பதிவுத் தேதியிலும் அதே பங்குகள் இருந்ததாகக் கருதும் மொத்த ஈவுத்தொகை | 158,714,972 × LKR 5.30 | **LKR 841,189,351.60 (841.189m)**; உண்மையான பெற்ற தொகை/வரி தெரியாது |
+| பழைய அடமானப் பங்குகளுக்கான கற்பனையான மொத்த ஈவுத்தொகைப் பகுதி | 81,049,704 × 5.30 | **LKR 429,563,431.20 (429.563m)**; வங்கிக்கு செலுத்தப்பட்டது அல்லது முடக்கப்பட்டது என்பதற்கான ஆதாரம் அல்ல |
+
+**பணப்புழக்க விளக்கம்:** Life அறிவித்த ஈவுத்தொகை, SCAP-ன் பதிவுத் தேதி உரிமை, பிடித்தம் செய்யப்படும் வரி, வங்கிக் கட்டுப்பாடுகள், SCAP தனி நிறுவனத்தின் வங்கிக் கணக்கில் உண்மையில் வந்த பணம் ஆகியவை தனித்தனியாகச் சரிபார்க்கப்பட வேண்டும். FY2025 SCAP தனி நிறுவனத்தின் மொத்தக் கடன் **LKR 14,797.333m** (தணிக்கை ப.148); இந்தக் கற்பனையான ஈவுத்தொகையை தற்போதைய கடன்-சேவை விகிதமாகப் பயன்படுத்தக் கூடாது.
+
+**அடுத்த சான்றுகள்:** FY2026 SCAP இறுதி audited கடன்/அடமானக் குறிப்பு; NDB/DFCC விடுவிப்பு ஆவணங்கள்; **03-07-2026** உண்மைப் பங்குதாரர் பதிவு; SCAP வங்கி வரவு, வரி, கடன் கணக்கிற்கு மாற்றம்; SCAP ஜூன் 2026 அசல் இடைக்காலம். **உரிமை PARTIAL; அடமான விடுவிப்பு/பணப்புழக்கம் OPEN.**

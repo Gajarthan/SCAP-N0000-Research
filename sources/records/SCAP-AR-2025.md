@@ -52,3 +52,7 @@ Original CSE document [2024/25 audited annual PDF](https://cdn.cse.lk/cmt/upload
 | 161 & 168, notes 44 and 47.4 | FY2025 parent guarantees **75m**, note 47.4 identifies Stockbrokers; 2024 comparators 150m. FY2025 Life subsidiary dividend income to SCAP **3,273.546m**. |
 
 **Contemporary limitation:** The latest SCAP final FY2026 audited report's original PDF and 30 June 2026 original SCAP interim were not opened in this pass; historic findings are not today's pledge, refinancing, audited equity or cash availability.
+
+## 2026-09-30 — cross-date ownership/pledge/dividend arithmetic (NOT a current charge assertion)
+
+Using audited SCAP FY2025 note 39.1.2 PDF p.149, NDB Life-share pledge 48,559,000 + DFCC Life-share pledge 32,490,704 = **81,049,704 historical pledged shares**. Comparing with the **separate** Life interim 30 June 2026 note 19 holding **158,714,972 shares**, the illustrative cross-date ratio is **51.07%**, with mathematical residual **77,665,268**. Neither is a 2026 free-share/pledge count. Life's 22 June 2026 notice announced **LKR 5.30/share**, record date **3 July 2026**; conditional gross SCAP entitlement **LKR 841,189,351.60** if holdings unchanged on record date; mathematical historical pledged-block equivalent **LKR 429,563,431.20**, NOT evidence of a bank sweep or restriction. SCAP cash receipt, withholding, record-date ownership, charges and releases remain OPEN. [Full three-language bridge](../../01-Fundamental-Analysis/10-Shareholding/README.md). Original PDFs remain **external original, not stored locally**.

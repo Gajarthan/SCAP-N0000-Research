@@ -58,3 +58,7 @@
 ### 2026-09-30 — SCAP FY2026 அசல் ஆவணத் தேடல்
 
 [SCAP ஆண்டு அறிக்கைகள்](https://softlogiccapital.lk/financials/), [காலாண்டு அறிக்கைகள்](https://softlogiccapital.lk/quarterly-data/) மற்றும் [மூன்றாம் தரப்புப் பட்டியல்](https://nanayojana.com/company/SCAP.N0000) சரிபார்க்கப்பட்டன. SCAP `1100` FY2026 இறுதி audit PDF, ஜூன் 2026 அசல் இடைக்கால PDF **கிடைக்கவில்லை**. Holdings `1075`, Life `364` வேறு நிறுவனங்கள். [ஆதாரப் பதிவு](../sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md); [ஆண்டு தேடல்](../sources/records/SCAP-AR-2026-DISCOVERY.md); [காலாண்டுத் தேடல்](../sources/records/SCAP-FY2027-Q1-DISCOVERY.md). புதிய audit எண்ணிக்கை இல்லை; அசல் PDF சேமிப்பு இல்லை.
+
+### 2026-09-30 — வரலாற்று அடமானம் / புதிய Life பங்குரிமை ஒப்பீடு
+
+[SCAP FY2025 ப.149](../sources/records/SCAP-AR-2025.md), [Life 2026 ஜூன் ப.19](../sources/records/SLIFE-Q2-2026-REGISTER.md), [ஈவுத்தொகை அறிவிப்பு](../sources/records/SLIFE-JUN2026-DIVIDEND.md): பழைய அடமானம் **81,049,704** பங்குகள்; புதிய Life பங்குரிமை **158,714,972**; இரு தேதிகளின் கணித விகிதம் **51.07%**; பதிவுத் தேதியில் அதே உரிமை இருந்தால் கற்பனையான மொத்த ஈவுத்தொகை **LKR 841.189m**. [முழு தமிழ் ஆய்வு](01-Fundamental-Analysis/10-Shareholding/README.md). தற்போதைய அடமானம்/பணவரவு **OPEN**; அசல் PDF-கள் வெளியில் மட்டுமே.

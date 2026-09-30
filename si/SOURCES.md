@@ -58,3 +58,7 @@
 ### 2026-09-30 — SCAP FY2026 මුල් ගොනු සෙවීම
 
 [SCAP වාර්ෂික](https://softlogiccapital.lk/financials/), [කාර්තු](https://softlogiccapital.lk/quarterly-data/) සහ [තෙවන පාර්ශ්ව නාමාවලිය](https://nanayojana.com/company/SCAP.N0000) පරීක්ෂා කරන ලදී. SCAP `1100` FY2026 අවසන් විගණිත PDF හා 2026 ජූනි මුල් අතුරු PDF **ලැබුණේ නැත**. Holdings `1075` සහ Life `364` වෙනත් නිකුත්කරුවන්ය. [සෙවුම් සටහන](../sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md); [වාර්ෂික සෙවීම](../sources/records/SCAP-AR-2026-DISCOVERY.md); [කාර්තු සෙවීම](../sources/records/SCAP-FY2027-Q1-DISCOVERY.md). නව විගණිත සංඛ්‍යා නොමැත; මුල් PDF ගබඩා කර නැත.
+
+### 2026-09-30 — ඓතිහාසික ඇප / පසුව Life හිමිකම් සංසන්දනය
+
+[SCAP FY2025 පි.149](../sources/records/SCAP-AR-2025.md), [Life 2026 ජූනි පි.19](../sources/records/SLIFE-Q2-2026-REGISTER.md), [ලාභාංශ නිවේදනය](../sources/records/SLIFE-JUN2026-DIVIDEND.md): පැරණි ඇප **81,049,704** කොටස්; පසුව Life හිමිකම **158,714,972**; වෙනස් දිනවල ගණිත අනුපාතය **51.07%**; වාර්තා දිනයේ එම හිමිකම තිබුණහොත් උපකල්පිත දළ ලාභාංශය **LKR 841.189m**. [සම්පූර්ණ සිංහල විශ්ලේෂණය](01-Fundamental-Analysis/10-Shareholding/README.md). වත්මන් ඇප/මුදල් ලැබීම් **OPEN**; මුල් PDF ගොනු බාහිරව පමණි.

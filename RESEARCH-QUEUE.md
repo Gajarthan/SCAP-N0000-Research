@@ -102,3 +102,7 @@ Primary starting points: [SCAP CSE annual FY2025](https://cdn.cse.lk/cmt/upload_
 ### 2026-09-30 — GSD source-retrieval slice (OPEN)
 
 Fresh searches of the [SCAP issuer annual index](https://softlogiccapital.lk/financials/), [SCAP quarterly index](https://softlogiccapital.lk/quarterly-data/) and [third-party SCAP catalogue](https://nanayojana.com/company/SCAP.N0000) did **not** yield SCAP issuer-1100 original signed FY2026 audit or 30 June 2026 interim PDF. [Source discovery evidence](sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md) distinguishes issuer `1100` from Holdings `1075` and Life `364`. The catalogue lists the two reports, but does not replace primary originals. **No FY2026 audit or June figures newly verified; 9 PARTIAL, 11 addendum-only, 0 FILLED; 23 source records and zero archived PDFs.** Next: locate direct SCAP issuer-1100 filing URLs, then inspect originals and reconcile.
+
+### 2026-09-30 — Shareholding substantial reconciliation slice
+
+[English shareholding bridge](01-Fundamental-Analysis/10-Shareholding/README.md) compares **81,049,704** FY2025 historical pledged Life shares with **158,714,972** June 2026 Life shares (cross-date **51.07%**, not current pledge status) and computes conditional Life gross dividend **LKR 841.189m** at LKR 5.30/share. Matched Tamil/Sinhala chapters and source records. **Shareholding remains PARTIAL**, no extra FILLED topic; SCAP receipt, charges and FY2026 original audited documents OPEN.

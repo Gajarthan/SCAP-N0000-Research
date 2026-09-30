@@ -100,3 +100,7 @@ ChatGPT කාර්යය සෑම ධාවනයකදීම මෙම statu
 ### 2026-09-30 — GSD මුල් වාර්තා සෙවීම (OPEN)
 
 [SCAP වාර්ෂික දර්ශකය](https://softlogiccapital.lk/financials/), [කාර්තු දර්ශකය](https://softlogiccapital.lk/quarterly-data/) සහ [තෙවන පාර්ශ්ව නාමාවලිය](https://nanayojana.com/company/SCAP.N0000) නැවත පරීක්ෂා කළෙමු. SCAP නිකුත්කරු `1100` සඳහා FY2026 අත්සන් කළ විගණිත PDF හෝ 2026 ජූනි 30 මුල් අතුරු PDF **ලැබුණේ නැත**. Holdings `1075` සහ Life `364` වෙනත් නිකුත්කරුවන්ය. [මූලාශ්‍ර සෙවුම් සටහන](../sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md). නව විගණිත අගයන් තහවුරු කර නැත; **9 PARTIAL, 11 addendum-only, 0 FILLED**; මූලාශ්‍ර සටහන් **23**, මුල් PDF **0**. ඊළඟට SCAP මුල් CSE ගොනුව සොයන්න.
+
+### 2026-09-30 — හිමිකම් ගණිතමය සංසන්දනය
+
+[සිංහල විශ්ලේෂණය](01-Fundamental-Analysis/10-Shareholding/README.md): FY2025 ඓතිහාසික ඇප කොටස් **81,049,704**, 2026 ජූනි Life හිමිකම **158,714,972**, වෙනස් දිනවල අනුපාතය **51.07%**; උපකල්පිත දළ ලාභාංශය **LKR 841.189m**. වත්මන් ඇප/SCAP මුදල් ලැබීම තහවුරු නැත. **PARTIAL** තවමත්; FILLED වෙනසක් නැත.

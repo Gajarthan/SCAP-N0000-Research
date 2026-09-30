@@ -31,3 +31,11 @@
 - **One bounded maintenance slice:** reconcile source-index references to **23 current Markdown source records / 0 original PDF binaries** in English, Tamil and Sinhala; preserve 20-record counts only as explicitly labelled historical snapshots. Record the user's later **direct-to-main authorization** in [DECISIONS](DECISIONS.md), superseding prior PR-only language for this repository.
 - **Research statuses unchanged:** 9 PARTIAL, 11 addendum-only awaiting evidence, 0 FILLED. No audit opinion or interim figures upgraded.
 - **Next task:** verify official SCAP issuer-1100 original filings if found; otherwise work on a distinct source-backed topic. Check the new commit's own CI before reporting it as passed.
+
+## GSD substantive slice — 2026-09-30: Life share collateral and dividend bridge
+
+- **Inspected main:** `2678da8f63c319753db9ed2366512dfcfebfad16`; existing CI success; open PRs zero. Direct-to-main permission D008 applies.
+- **One topic:** Shareholding. Three language chapters now calculate historical NDB + DFCC Life-share pledges **81,049,704**, June 2026 Life holdings **158,714,972**, cross-date illustrative **51.07%**, residual **77,665,268** and conditional gross July dividend **LKR 841,189,351.60**. These do NOT establish 2026 security, actual parent cash, withholding or lender sweep.
+- **Sources:** reused and extended three registered issuer records (FY2025 audited SCAP p.149, Life June interim note 19 p.19, Life June dividend notice). No new original PDFs, no new source IDs; corrected invalid Life PDF links in all three chapters.
+- **Status:** Shareholding PARTIAL, overall 9 PARTIAL / 11 addendum-only / 0 FILLED; 23 evidence cards / 0 PDF binaries.
+- **Next:** locate SCAP FY2026 signed audit and June original; obtain parent cash receipt and lender charge-release records for substantive cash-access tie-out. This slice is not a verified current pledge or dividend receipt.
