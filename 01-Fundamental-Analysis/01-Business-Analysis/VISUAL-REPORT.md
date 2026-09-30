@@ -1,5 +1,7 @@
 # 📊 SCAP.N0000 — Business Analysis: 16 data-backed visuals
 
+**Evidence archive**: [Stable source register](../../sources/SOURCE-REGISTER.md) · [SCAP-FY2026-YE-INTERIM](../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SLIFE-AR-2025](../../sources/records/SLIFE-AR-2025.md) · [SLIFE-FY2025-RESULTS](../../sources/records/SLIFE-FY2025-RESULTS.md) · [SCAP-STOCKANALYSIS](../../sources/records/SCAP-STOCKANALYSIS.md). Original PDF links are recorded; full PDF files have not been mirrored in GitHub.
+
 [← Business Analysis](README.md) · [தமிழ்](../../../ta/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [සිංහල](../../../si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)
 
 > **Scope:** 16 editable GitHub Markdown visualizations built from SCAP's March 2026 CSE **year-end interim**, Softlogic Life's **calendar-year 2025** disclosures, issuer web pages and clearly identified secondary observations. **Reviewed 30 Sep 2026.** Numbers have different reporting periods and legal-entity scopes; figures are **not** a live quote or an investment recommendation.

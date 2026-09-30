@@ -1,5 +1,7 @@
 # 01 · ව්‍යාපාර විශ්ලේෂණය — Softlogic Capital PLC
 
+**මූලාශ්‍ර ගබඩාව**: [Stable source register](../../../sources/SOURCE-REGISTER.md) · [SCAP-FY2026-YE-INTERIM](../../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SCAP-AR-2025](../../../sources/records/SCAP-AR-2025.md) · [SCAP-SUBSIDIARY-WEBSITE](../../../sources/records/SCAP-SUBSIDIARY-WEBSITE.md). මුල් PDF සබැඳි සුරැකි නමුත් සම්පූර්ණ PDF GitHub වෙත පිටපත් කර නැත.
+
 **[🧭 SWOT — සාක්ෂි සහිත ශක්තීන්, දුර්වලතා, අවස්ථා සහ අවදානම්](SWOT-ANALYSIS.md)**
 
 **[📊 දත්ත සහිත දෘශ්‍ය වාර්තා 15 බලන්න — හිමිකාරීත්වය, ආදායම, ලාභය, අවදානම් සහ වෙළෙඳපොළ](VISUAL-REPORT.md)**

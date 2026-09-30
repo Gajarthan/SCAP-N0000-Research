@@ -1,5 +1,7 @@
 # 📊 SCAP.N0000 — வணிகப் பகுப்பாய்வு: தரவுடன் 16 காட்சி அறிக்கைகள்
 
+**ஆதாரக் களஞ்சியம்**: [Stable source register](../../../sources/SOURCE-REGISTER.md) · [SCAP-FY2026-YE-INTERIM](../../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SLIFE-AR-2025](../../../sources/records/SLIFE-AR-2025.md) · [SLIFE-FY2025-RESULTS](../../../sources/records/SLIFE-FY2025-RESULTS.md) · [SCAP-STOCKANALYSIS](../../../sources/records/SCAP-STOCKANALYSIS.md). அசல் PDF இணைப்புகள் பதிவு செய்யப்பட்டுள்ளன; முழு PDF கோப்புகள் GitHub-இல் mirror செய்யப்படவில்லை.
+
 [← வணிகப் பகுப்பாய்வு](README.md) · [English](../../../01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [සිංහල](../../../si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)
 
 > **ஆய்வுத் தேதி: 30-09-2026.** SCAP-ன் **31 மார்ச் 2026 இடைக்கால CSE** அறிக்கை, Softlogic Life-ன் **2025 டிசம்பர் முடியும்** அறிக்கை, நிறுவனம் வெளியிட்ட தகவல்கள், தனியாகக் குறிக்கப்பட்ட இரண்டாம் நிலை ஆதாரங்கள் ஆகியவற்றை வைத்து உருவாக்கப்பட்ட Markdown/Mermaid வரைபடங்கள். **வெவ்வேறு நிறுவனத்தின்/காலத்தின் எண்களை ஒன்றாகக் கூட்டக்கூடாது.** இது live பங்குவிலையோ வாங்க/விற்க பரிந்துரையோ அல்ல.

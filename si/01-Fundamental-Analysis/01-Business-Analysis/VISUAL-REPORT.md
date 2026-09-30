@@ -1,5 +1,7 @@
 # 📊 SCAP.N0000 — ව්‍යාපාර විශ්ලේෂණය: දත්ත සහිත දෘශ්‍ය වාර්තා 16ක්
 
+**මූලාශ්‍ර ගබඩාව**: [Stable source register](../../../sources/SOURCE-REGISTER.md) · [SCAP-FY2026-YE-INTERIM](../../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SLIFE-AR-2025](../../../sources/records/SLIFE-AR-2025.md) · [SLIFE-FY2025-RESULTS](../../../sources/records/SLIFE-FY2025-RESULTS.md) · [SCAP-STOCKANALYSIS](../../../sources/records/SCAP-STOCKANALYSIS.md). මුල් PDF සබැඳි සුරැකි නමුත් සම්පූර්ණ PDF GitHub වෙත පිටපත් කර නැත.
+
 [← ව්‍යාපාර විශ්ලේෂණය](README.md) · [English](../../../01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [தமிழ்](../../../ta/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)
 
 > **පර්යේෂණ දිනය: 2026-09-30.** SCAP-න් **2026 මාර්තු 31 අවසන් CSE අතුරු** වාර්තාව, Softlogic Life-න් **2025 දෙසැම්බර්** වාර්තාව, නිකුත්කරුගේ වෙබ් පිටු සහ පැහැදිලිව සලකුණු කළ ද්විතීයික තොරතුරු භාවිතයෙන් සකස් කළ Markdown/Mermaid රූප සටහන්. **වෙනස් ව්‍යාපාර හා කාලසීමාවල අගයන් එකට එකතු නොකරන්න.** මෙය වත්මන් මිලක් හෝ ආයෝජන නිර්දේශයක් නොවේ.

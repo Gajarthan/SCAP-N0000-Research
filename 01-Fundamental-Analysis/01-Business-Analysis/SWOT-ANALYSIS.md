@@ -1,5 +1,7 @@
 # 🧭 SCAP.N0000 — Business SWOT analysis
 
+**Evidence archive**: [Stable source register](../../sources/SOURCE-REGISTER.md) · [SCAP-FY2026-YE-INTERIM](../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SLIFE-FY2025-RESULTS](../../sources/records/SLIFE-FY2025-RESULTS.md) · [SFIN-UPDATE-2026](../../sources/records/SFIN-UPDATE-2026.md) · [DIAMOND-LIFE-ACQUISITION-2026](../../sources/records/DIAMOND-LIFE-ACQUISITION-2026.md). Original PDF links are recorded; full PDF files have not been mirrored in GitHub.
+
 [← Business Analysis](README.md) · [16-view visual report](VISUAL-REPORT.md) · **English** · [தமிழ்](../../../ta/01-Fundamental-Analysis/01-Business-Analysis/SWOT-ANALYSIS.md) · [සිංහල](../../../si/01-Fundamental-Analysis/01-Business-Analysis/SWOT-ANALYSIS.md)
 
 > **Research as at 30 September 2026.** Company: **Softlogic Capital PLC (SCAP.N0000)**. This evaluates the business structure, **not** the share price or an investment recommendation. The March 2026 SCAP figures below were published in a **27 May 2026 year-end interim** and are **subject to audit**. The insurer's metrics have a different **December 2025** year-end; the July 2026 Bangladesh acquisition is subsequent to SCAP's March balance-sheet date.

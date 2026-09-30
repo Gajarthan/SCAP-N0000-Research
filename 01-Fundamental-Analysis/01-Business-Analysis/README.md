@@ -1,5 +1,7 @@
 # 01 · Business Analysis — Softlogic Capital PLC
 
+**Evidence archive**: [Stable source register](../../sources/SOURCE-REGISTER.md) · [SCAP-FY2026-YE-INTERIM](../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SCAP-AR-2025](../../sources/records/SCAP-AR-2025.md) · [SCAP-SUBSIDIARY-WEBSITE](../../sources/records/SCAP-SUBSIDIARY-WEBSITE.md). Original PDF links are recorded; full PDF files have not been mirrored in GitHub.
+
 **[🧭 SWOT Analysis — dated strengths, weaknesses, opportunities and threats](SWOT-ANALYSIS.md)**
 
 **[📊 Open the complete Business Visual Report: 16 source-labelled charts, ownership diagrams, money flows and market maps](VISUAL-REPORT.md)**

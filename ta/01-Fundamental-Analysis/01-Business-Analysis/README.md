@@ -1,5 +1,7 @@
 # 01 · வணிகப் பகுப்பாய்வு — Softlogic Capital PLC
 
+**ஆதாரக் களஞ்சியம்**: [Stable source register](../../../sources/SOURCE-REGISTER.md) · [SCAP-FY2026-YE-INTERIM](../../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SCAP-AR-2025](../../../sources/records/SCAP-AR-2025.md) · [SCAP-SUBSIDIARY-WEBSITE](../../../sources/records/SCAP-SUBSIDIARY-WEBSITE.md). அசல் PDF இணைப்புகள் பதிவு செய்யப்பட்டுள்ளன; முழு PDF கோப்புகள் GitHub-இல் mirror செய்யப்படவில்லை.
+
 **[🧭 SWOT — ஆதாரமுள்ள பலங்கள், பலவீனங்கள், வாய்ப்புகள், அபாயங்கள்](SWOT-ANALYSIS.md)**
 
 **[📊 தரவுடன் 16 காட்சி அறிக்கைகளைத் திறக்கவும் — பங்குரிமை, வருமானம், இலாபம், இடர்கள், சந்தை பங்கு](VISUAL-REPORT.md)**

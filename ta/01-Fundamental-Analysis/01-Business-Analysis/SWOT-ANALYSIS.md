@@ -1,5 +1,7 @@
 # 🧭 SCAP.N0000 — வணிக SWOT பகுப்பாய்வு
 
+**ஆதாரக் களஞ்சியம்**: [Stable source register](../../../sources/SOURCE-REGISTER.md) · [SCAP-FY2026-YE-INTERIM](../../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SLIFE-FY2025-RESULTS](../../../sources/records/SLIFE-FY2025-RESULTS.md) · [SFIN-UPDATE-2026](../../../sources/records/SFIN-UPDATE-2026.md) · [DIAMOND-LIFE-ACQUISITION-2026](../../../sources/records/DIAMOND-LIFE-ACQUISITION-2026.md). அசல் PDF இணைப்புகள் பதிவு செய்யப்பட்டுள்ளன; முழு PDF கோப்புகள் GitHub-இல் mirror செய்யப்படவில்லை.
+
 [← வணிகப் பகுப்பாய்வு](README.md) · [16 காட்சி அறிக்கைகள்](VISUAL-REPORT.md) · [English](../../../01-Fundamental-Analysis/01-Business-Analysis/SWOT-ANALYSIS.md) · **தமிழ்** · [සිංහල](../../../si/01-Fundamental-Analysis/01-Business-Analysis/SWOT-ANALYSIS.md)
 
 > **ஆய்வு நிலை: 30 செப்டம்பர் 2026.** நிறுவனம்: **Softlogic Capital PLC (SCAP.N0000)**. இது **வணிகத்தின்** SWOT; பங்குவிலை மதிப்பீடு அல்லது வாங்க/விற்க பரிந்துரை அல்ல. கீழே உள்ள SCAP மார்ச் 2026 எண்கள் **27 மே 2026 இடைக்கால அறிக்கை**; அந்த ஆண்டு எண்கள் **தணிக்கைக்கு உட்பட்டவை**. காப்பீட்டு நிறுவனத்தின் ஆண்டு **டிசம்பர் 2025** முடியும்; வங்காளதேசக் கையகப்படுத்தல் 2026 மார்ச்சுக்குப் பிந்தையது.
