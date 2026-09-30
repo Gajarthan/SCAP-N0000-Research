@@ -13,12 +13,11 @@ concurrency:
   cancel-in-progress: false
 
 # Deployment can be triggered by docs changes or manually from Actions.
-# This uses a self-hosted Linux runner, as requested for GitHub automation.
-# The runner must be installed, registered with this repository and online.
+# Uses a GitHub-hosted Ubuntu runner; no self-hosted runner is required.
 jobs:
   deploy:
     name: Publish static docs to GitHub Pages
-    runs-on: [self-hosted, linux]
+    runs-on: ubuntu-latest
     permissions:
       contents: read
       pages: write

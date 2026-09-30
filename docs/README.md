@@ -11,7 +11,7 @@ As of 30 September 2026 the public repository has a GitHub Pages site enabled (`
 
 1. Open [Settings → Pages](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages) and make sure **Build and deployment → Source = GitHub Actions**, not **Deploy from a branch**.
 2. Open [Actions → Publish SCAP Research website](https://github.com/Gajarthan/SCAP-N0000-Research/actions/workflows/deploy-pages.yml). Select **Run workflow → main → Run workflow** if an automatic run has not started.
-3. Ensure an **online self-hosted Linux Actions runner** is assigned to this repository with labels `self-hosted` and `linux`. Check [Settings → Actions → Runners](https://github.com/Gajarthan/SCAP-N0000-Research/settings/actions/runners). If no matching runner is available, the job remains queued; it does not switch to a GitHub-hosted runner.
+3. The workflow uses **GitHub-hosted `ubuntu-latest`**. No self-hosted runner setup is necessary. Check the workflow run for its automatic runner assignment.
 4. Verify the run: **Check out → Check website files → Configure Pages → Upload artifact → Deploy**. Then open the reported deployment URL in Settings → Pages.
 
 The workflow triggers automatically on pushes to `main` that change `docs/**` or the workflow file itself, and supports manual `workflow_dispatch`. Research-only Markdown commits outside `docs/` do not trigger a deployment: the website fetches those reports directly from the public GitHub `main` branch when opened.
@@ -37,9 +37,9 @@ The original research is maintained in the three-language Markdown folders and `
 
 - [x] Static website files committed in `main/docs`.
 - [x] Pages site is enabled at the repository level.
-- [x] GitHub Pages Actions workflow authored for self-hosted Linux runner.
+- [x] GitHub Pages Actions workflow configured for GitHub-hosted `ubuntu-latest`.
 - [ ] Pages publishing source is **GitHub Actions** (requires confirmation in Settings).
-- [ ] Matching self-hosted Linux runner is available and online.
+- [x] GitHub-hosted `ubuntu-latest` runner configured; no self-hosted runner needed.
 - [ ] At least one deployment run succeeds.
 - [ ] The published URL is checked in English, Tamil and Sinhala with Markdown and Mermaid reports.
 
