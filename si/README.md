@@ -1,6 +1,6 @@
 # SCAP.N0000 — සිංහල ආයෝජන පර්යේෂණය
 
-**🌐 GitHub Pages වෙබ් අඩවිය — ප්‍රකාශන සැකසුම ඉතිරිව ඇත:** [GitHub Pages සක්‍රිය කරන්න](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages) → **main → /docs**. [වෙබ් අඩවි ගොනු](../docs/) · [මාර්ගෝපදේශය](../docs/README.md). GitHub Pages සජීවී අඩවිය තවම තහවුරු කර නැත.
+**🌐 GitHub Pages + Actions:** [ප්‍රකාශන workflow](../.github/workflows/deploy-pages.yml) · [Actions ධාවන](https://github.com/Gajarthan/SCAP-N0000-Research/actions/workflows/deploy-pages.yml) · [Pages සැකසුම්](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages). **සාර්ථක ප්‍රකාශනය තවමත් තහවුරු කළ යුතුයි.** [උපදෙස්](../docs/README.md).
 
 **[📚 GitHub තුළ සුරැකි මූලාශ්‍ර සටහන්](../sources/SOURCE-REGISTER.md)** — Markdown මූලාශ්‍ර 11ක්; මුල් PDF තවම බාහිර සබැඳි පමණි.
 

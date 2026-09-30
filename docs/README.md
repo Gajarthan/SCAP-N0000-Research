@@ -1,44 +1,46 @@
-# SCAP Research — GitHub Pages
+# SCAP Research — GitHub Pages via GitHub Actions
 
-**Publishing target:** GitHub Pages for [Gajarthan/SCAP-N0000-Research](https://github.com/Gajarthan/SCAP-N0000-Research).
+**Repository:** [Gajarthan/SCAP-N0000-Research](https://github.com/Gajarthan/SCAP-N0000-Research)  
+**Expected Pages URL, subject to live verification:** https://gajarthan.github.io/SCAP-N0000-Research/
 
-**Status checked on 30 September 2026:** the repository is public and the website files are already committed under main → /docs. The GitHub repository currently has **has_pages = false**. Publishing is **not enabled or live yet**.
+## Current configuration
 
-## Enable GitHub Pages
+As of 30 September 2026 the public repository has a GitHub Pages site enabled (`has_pages = true`), and all static site files are committed in `main/docs`. A dedicated workflow is now stored at [`.github/workflows/deploy-pages.yml`](../.github/workflows/deploy-pages.yml). A successful publishing run and the actual public URL must still be confirmed before declaring the site live.
 
-1. Open [Settings → Pages](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages) while signed in with repository administrator permissions.
-2. Under **Build and deployment**, choose **Deploy from a branch**.
-3. Choose branch **main** and folder **/docs**.
-4. Click **Save**.
-5. Once GitHub confirms publication, open its website URL and check the homepage, all three languages, charts and original-source links.
+## Run it with GitHub Actions
 
-**Expected URL after enabling, not yet confirmed live:** https://gajarthan.github.io/SCAP-N0000-Research/
+1. Open [Settings → Pages](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages) and make sure **Build and deployment → Source = GitHub Actions**, not **Deploy from a branch**.
+2. Open [Actions → Publish SCAP Research website](https://github.com/Gajarthan/SCAP-N0000-Research/actions/workflows/deploy-pages.yml). Select **Run workflow → main → Run workflow** if an automatic run has not started.
+3. Ensure an **online self-hosted Linux Actions runner** is assigned to this repository with labels `self-hosted` and `linux`. Check [Settings → Actions → Runners](https://github.com/Gajarthan/SCAP-N0000-Research/settings/actions/runners). If no matching runner is available, the job remains queued; it does not switch to a GitHub-hosted runner.
+4. Verify the run: **Check out → Check website files → Configure Pages → Upload artifact → Deploy**. Then open the reported deployment URL in Settings → Pages.
 
-GitHub Pages runs a **GitHub-managed internal Actions deployment** even for branch-based publishing. There are **no custom GitHub Actions workflow YAML files** in this repository, and you do not need to create any.
+The workflow triggers automatically on pushes to `main` that change `docs/**` or the workflow file itself, and supports manual `workflow_dispatch`. Research-only Markdown commits outside `docs/` do not trigger a deployment: the website fetches those reports directly from the public GitHub `main` branch when opened.
 
-## Files ready to publish
+GitHub's official recommended Pages actions are `actions/checkout`, `actions/configure-pages@v5`, `actions/upload-pages-artifact@v4` and `actions/deploy-pages@v4`, with permissions `contents: read`, `pages: write`, and `id-token: write`. The workflow uploads only `docs/` as the site artifact; it does not publish private or unrelated repository files.
 
-- [index.html](index.html) — accessible, responsive public dashboard.
-- [assets/site.css](assets/site.css) — dark/light layout and mobile navigation.
-- [assets/config.js](assets/config.js) — all 20 subjects, English / தமிழ் / සිංහල labels.
-- [assets/app.js](assets/app.js) — report library, financial comparisons, Markdown reader and Mermaid rendering.
+## Ready website files
+
+- [index.html](index.html) — responsive multilingual research homepage.
+- [assets/site.css](assets/site.css) — accessible dark/light website layout.
+- [assets/config.js](assets/config.js) — 20 topics, English / தமிழ் / සිංහල labels.
+- [assets/app.js](assets/app.js) — topic search, financial comparisons, Markdown reader and Mermaid diagrams.
 - [assets/favicon.svg](assets/favicon.svg) — project icon.
-- .nojekyll — skip Jekyll processing.
+- `.nojekyll` — disables unnecessary Jekyll processing.
 
-The website uses the existing Markdown reports and source records from this same public repository as the authoritative research. It fetches readable Markdown on main from raw.githubusercontent.com and reads the current research-queue and source-register files on site load. A GitHub fallback opens the original report when CDN dependencies are unavailable.
+## Data and security
 
-## Evidence limits
+The original research is maintained in the three-language Markdown folders and `sources/` in the same repository. The site reads those public files from GitHub raw URLs and includes links to original publishers. Source records should not be mistaken for stored original PDF binaries.
 
-The homepage FY2025 figures come from audited issuer statements; FY2026 figures are from the 27 May 2026 year-end **interim, subject to audit**, not verified final audited statements. This is not live pricing or investment advice. The public source register holds Markdown provenance records, not mirrored complete original PDFs.
+**Financial caveat:** FY2025 audited and FY2026 year-end **interim (subject to audit)** are different evidence classes. Financial figures are historical, not live prices or buy/sell instructions. Do not disclose personal trading credentials or customer data in the repository.
 
-## Publication checklist
+## Verify publishing
 
-- [x] Site source code committed to main/docs.
-- [x] Relative site asset links suitable for GitHub Pages subdirectory.
-- [x] Canonical URL now points to the proposed GitHub Pages URL.
-- [ ] Enable Pages using **main → /docs** in GitHub Settings.
-- [ ] Confirm GitHub displays the published URL.
-- [ ] Check Tamil, Sinhala and English reports plus Mermaid diagrams.
-- [ ] Confirm the GitHub repository's has_pages property is true.
+- [x] Static website files committed in `main/docs`.
+- [x] Pages site is enabled at the repository level.
+- [x] GitHub Pages Actions workflow authored for self-hosted Linux runner.
+- [ ] Pages publishing source is **GitHub Actions** (requires confirmation in Settings).
+- [ ] Matching self-hosted Linux runner is available and online.
+- [ ] At least one deployment run succeeds.
+- [ ] The published URL is checked in English, Tamil and Sinhala with Markdown and Mermaid reports.
 
-The connected GitHub tools used in this chat can commit website files, but currently do **not** provide a GitHub Pages settings/write action.
+**If the setup workflow fails at Configure GitHub Pages:** ensure the Pages source is **GitHub Actions**. `GITHUB_TOKEN` alone cannot be used by `configure-pages` to enable a previously disabled Pages site using its optional `enablement` input; a separately privileged token is required. The repository-level Pages flag was already enabled during this setup.

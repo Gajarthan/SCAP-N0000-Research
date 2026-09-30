@@ -1,6 +1,6 @@
 # SCAP.N0000 — Investment Research
 
-**🌐 GitHub Pages website — setup pending:** [Enable GitHub Pages](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages) using **main → /docs**. [Website source](docs/) · [Publishing instructions](docs/README.md). The GitHub Pages URL is **not yet verified live**.
+**🌐 GitHub Pages with Actions:** [Deployment workflow](.github/workflows/deploy-pages.yml) · [View Actions runs](https://github.com/Gajarthan/SCAP-N0000-Research/actions/workflows/deploy-pages.yml) · [Choose publishing source](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages). Site publishing is **pending a successful run**. [Website setup](docs/README.md).
 
 **[📚 Stored source records](sources/SOURCE-REGISTER.md)** — 11 stable-ID evidence files; full original PDFs remain externally linked, not mirrored.
 

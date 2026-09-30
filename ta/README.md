@@ -1,6 +1,6 @@
 # SCAP.N0000 — தமிழ் முதலீட்டு ஆய்வு
 
-**🌐 GitHub Pages இணையதளம் — வெளியிடும் அமைப்பு மீதமுள்ளது:** [GitHub Pages-ஐ இயக்கவும்](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages) → **main → /docs**. [இணையதள மூலக் கோப்புகள்](../docs/) · [வழிமுறை](../docs/README.md). GitHub Pages இணையதளம் இன்னும் நேரடியாகச் சரிபார்க்கப்படவில்லை.
+**🌐 GitHub Pages + Actions:** [வெளியீட்டு workflow](../.github/workflows/deploy-pages.yml) · [Actions இயக்கங்கள்](https://github.com/Gajarthan/SCAP-N0000-Research/actions/workflows/deploy-pages.yml) · [Pages அமைப்புகள்](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages). **வெற்றிகரமான deployment இன்னும் உறுதி செய்ய வேண்டும்.** [வழிமுறை](../docs/README.md).
 
 **[📚 GitHub-இல் சேமித்த ஆதாரப் பதிவுகள்](../sources/SOURCE-REGISTER.md)** — 11 Markdown ஆதாரங்கள்; அசல் PDF கோப்புகள் இன்னும் வெளிப்புற இணைப்புகள் மட்டுமே.
 

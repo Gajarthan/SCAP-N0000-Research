@@ -1,0 +1,53 @@
+name: Publish SCAP Research website
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - ".github/workflows/deploy-pages.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+# Deployment can be triggered by docs changes or manually from Actions.
+# This uses a self-hosted Linux runner, as requested for GitHub automation.
+# The runner must be installed, registered with this repository and online.
+jobs:
+  deploy:
+    name: Publish static docs to GitHub Pages
+    runs-on: [self-hosted, linux]
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Check website files
+        shell: bash
+        run: |
+          test -f docs/index.html
+          test -f docs/.nojekyll
+          test -f docs/assets/site.css
+          test -f docs/assets/config.js
+          test -f docs/assets/app.js
+          test -f docs/assets/favicon.svg
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload the static website
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: ./docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
