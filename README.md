@@ -2,7 +2,7 @@
 
 **🌐 GitHub Pages with Actions:** [Deployment workflow](.github/workflows/deploy-pages.yml) · [View Actions runs](https://github.com/Gajarthan/SCAP-N0000-Research/actions/workflows/deploy-pages.yml) · [Choose publishing source](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages). The GitHub Pages deployment workflow has completed successfully; public URL should be checked independently. [Website setup](docs/README.md).
 
-**[📚 Stored source records](sources/SOURCE-REGISTER.md)** — 20 Markdown source/evidence cards (including 2 discovery-only records); full original PDFs remain externally linked, not mirrored.
+**[🔎 Homepage source-trust disclosure](https://gajarthan.github.io/SCAP-N0000-Research/?view=overview)** — transparent evidence status in English, Tamil and Sinhala; **no unsupported numerical trust rating** until a published methodology and original-source verification exist.\n\n**[📚 Stored source records](sources/SOURCE-REGISTER.md)** — 23 Markdown source/evidence cards (including 2 discovery-only records); full original PDFs remain externally linked, not mirrored.
 
 **[📋 Research coverage & scheduled fill queue — 20 topics / 3 languages](RESEARCH-QUEUE.md)**
 

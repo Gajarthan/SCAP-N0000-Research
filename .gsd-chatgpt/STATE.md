@@ -39,3 +39,7 @@
 - **Sources:** reused and extended three registered issuer records (FY2025 audited SCAP p.149, Life June interim note 19 p.19, Life June dividend notice). No new original PDFs, no new source IDs; corrected invalid Life PDF links in all three chapters.
 - **Status:** Shareholding PARTIAL, overall 9 PARTIAL / 11 addendum-only / 0 FILLED; 23 evidence cards / 0 PDF binaries.
 - **Next:** locate SCAP FY2026 signed audit and June original; obtain parent cash receipt and lender charge-release records for substantive cash-access tie-out. This slice is not a verified current pledge or dividend receipt.
+
+## Website trust transparency — 2026-09-30
+
+Added a multilingual homepage **Source trust & verification** panel, distinguishing historical FY2025 audited issuer evidence, FY2026 subject-to-audit interim, the missing signed FY2026 and June 2026 SCAP originals, and current topic completion (9 PARTIAL / 11 pending / 0 FILLED). Explicitly **NOT YET SCORED**: no arbitrary numerical confidence score is assigned to incomplete original verification. Links point to the registered sources, research queue and evidence standards. No financial results changed; no workflow changes. Next: develop a reproducible, per-claim verification rubric before publishing a numerical score.
