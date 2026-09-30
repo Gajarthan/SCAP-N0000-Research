@@ -3,11 +3,11 @@
 
 ## 30-09-2026 — புதிய ஆதாரப் பதிவுகள்
 
-[SCAP 2026 audited index மட்டும்](../sources/records/SCAP-AR-2026-CATALOGUE.md), [SCAP June original இன்னும் OPEN](../sources/records/SCAP-JUN2026-CATALOGUE.md), [Life June ownership](../sources/records/SLIFE-Q2-2026-REGISTER.md), [Life dividend அறிவிப்பு](../sources/records/SLIFE-JUN2026-DIVIDEND.md), [Union CAR](../sources/records/UA-AR-2025-CAR.md), [CBSL finance sector](../sources/records/CBSL-FC-Q1-2026.md), [Finance issuer](../sources/records/SFIN-UPDATE-JUL2026.md) ஆகியவை சேர்க்கப்பட்டன. மொத்தம் **20 Markdown** பதிவுகள், PDF நகல் 0. SCAP FY2025 அடமானப் பங்கு மற்றும் provider revenue gap குறித்த முதன்மை ஆய்வு பதிவுகள் புதுப்பிக்கப்பட்டன.
+[SCAP 2026 audited index மட்டும்](../sources/records/SCAP-AR-2026-CATALOGUE.md), [SCAP June original இன்னும் OPEN](../sources/records/SCAP-JUN2026-CATALOGUE.md), [Life June ownership](../sources/records/SLIFE-Q2-2026-REGISTER.md), [Life dividend அறிவிப்பு](../sources/records/SLIFE-JUN2026-DIVIDEND.md), [Union CAR](../sources/records/UA-AR-2025-CAR.md), [CBSL finance sector](../sources/records/CBSL-FC-Q1-2026.md), [Finance issuer](../sources/records/SFIN-UPDATE-JUL2026.md) ஆகியவை சேர்க்கப்பட்டன. அந்தப் பதிவின் போது **20 Markdown** பதிவுகள்; தற்போது மையப் பதிவேட்டில் **23 பதிவுகள்**, PDF நகல் 0. SCAP FY2025 அடமானப் பங்கு மற்றும் provider revenue gap குறித்த முதன்மை ஆய்வு பதிவுகள் புதுப்பிக்கப்பட்டன.
 
 ## GitHub-இல் சேமித்த அசல் ஆதாரப் பதிவுகள்
 
-**[20 ஆதாரக் கோப்புகளின் மையப் பட்டியல்](../sources/SOURCE-REGISTER.md)** · [ஆதாரக் களஞ்சிய வழிகாட்டி](../sources/README.md). அசல் URL, காலம், கணக்குப் பிரிவு, தொடர்புடைய பக்கம், முன்பு பதிவான உண்மைகள் ஆகியவை Markdown பதிவுகளில் உள்ளன. **முழு அசல் PDF-கள் GitHub-இல் mirror செய்யப்படவில்லை**; சட்ட அனுமதியும் உண்மையான பதிவேற்றமும் உறுதி செய்யப்பட்ட பின்னரே அது செய்யப்படும்.
+**[தற்போதைய 23 ஆதாரக் கோப்புகளின் மையப் பட்டியல்](../sources/SOURCE-REGISTER.md)** · [ஆதாரக் களஞ்சிய வழிகாட்டி](../sources/README.md). அசல் URL, காலம், கணக்குப் பிரிவு, தொடர்புடைய பக்கம், முன்பு பதிவான உண்மைகள் ஆகியவை Markdown பதிவுகளில் உள்ளன. **முழு அசல் PDF-கள் GitHub-இல் mirror செய்யப்படவில்லை**; சட்ட அனுமதியும் உண்மையான பதிவேற்றமும் உறுதி செய்யப்பட்ட பின்னரே அது செய்யப்படும்.
 
 
 

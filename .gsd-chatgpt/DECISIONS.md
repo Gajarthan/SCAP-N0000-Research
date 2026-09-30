@@ -27,3 +27,7 @@ Use focused branches and draft PRs; no auto-merge or production changes. No new 
 ## D007 · Separate historical queue status from evidence progress (2026-09-30)
 
 The original queue's 7 PARTIAL / 13 TEMPLATE count was a **historical snapshot**. Addendums were later added to 13 template-era topics; Valuation and Industry also received substantive partial evidence. A source-backed addendum is not automatically a complete chapter. Update current progress notes without falsely marking all 13 FILLED, and keep SCAP signed FY2026 audit and original June quarter OPEN.
+
+## D008 · Explicit direct-main research authorization (2026-09-30)
+
+The user subsequently instructed: **“in future directly commit to main”** for `Gajarthan/SCAP-N0000-Research`. This **supersedes D004 and D006 only on branch/PR routing for routine SCAP research documentation**. Future hourly GSD runs may commit one bounded, verified source-backed research slice **directly to `main`** without opening a draft PR. Inspect latest `main` before editing and check for concurrent changes; never force-push, overwrite others' work, merge unrelated PRs, deploy, alter permissions or create/modify GitHub workflows. Existing CI may run; its results must be reported accurately. This permission is repository-specific, not a blanket authorization for other repositories.

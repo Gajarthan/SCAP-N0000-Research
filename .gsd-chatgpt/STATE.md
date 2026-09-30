@@ -23,3 +23,11 @@
 - **Next:** obtain direct issuer-1100 CSE original PDF URLs; inspect auditor opinion and original June filing before reconciling numbers. If retrieval still fails, move to a separate, sourced topic in a future run rather than repeat unsupported figures.
 - **Checks:** this branch's commit/PR and existing CI must be verified separately; the green baseline CI is **not** a branch test.
 - **Automation:** hourly ChatGPT task is now enabled by explicit user request; no GitHub workflow created or changed.
+
+## GSD execution slice — 2026-09-30: source-index count integrity
+
+- **Inspected main:** `fc8fa67864db025326fd7fdb1a53943b5fe60581`; existing validation **completed/success**. Open PRs: **zero**.
+- **Original-source check:** new public CSE issuer-1100 PDF-domain searches for signed SCAP FY2026 audit and June 2026 interim returned no matching originals. A Softlogic Holdings `1075` report and Softlogic Life `364` interim are **not** SCAP `1100` original financial statements; both SCAP originals remain **OPEN**. No new financial data introduced.
+- **One bounded maintenance slice:** reconcile source-index references to **23 current Markdown source records / 0 original PDF binaries** in English, Tamil and Sinhala; preserve 20-record counts only as explicitly labelled historical snapshots. Record the user's later **direct-to-main authorization** in [DECISIONS](DECISIONS.md), superseding prior PR-only language for this repository.
+- **Research statuses unchanged:** 9 PARTIAL, 11 addendum-only awaiting evidence, 0 FILLED. No audit opinion or interim figures upgraded.
+- **Next task:** verify official SCAP issuer-1100 original filings if found; otherwise work on a distinct source-backed topic. Check the new commit's own CI before reporting it as passed.
