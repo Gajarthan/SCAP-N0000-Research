@@ -50,3 +50,7 @@ Always store: publication date, reporting period, retrieved date, page/note, val
 ## 30 September 2026 — industry original-source and CI reconciliation
 
 New stable records: [SCAP issuer financial indexes](sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md), [IRCSL sector statistics (calendar 2024 provisional and Q1 2025)](sources/records/IRCSL-INSURANCE-SECTOR-2024-Q1-2025.md), and [CBSL calendar-2025 financial-sector commentary](sources/records/CBSL-FINANCIAL-SECTOR-PERFORMANCE-2025.md). [Industry evidence](01-Fundamental-Analysis/04-Industry/INDUSTRY-EVIDENCE-2026-09-30.md). Register contains **23 records**, all originals **external original, not stored locally**; original audited SCAP FY2026 and June 2026 SCAP interim remain **OPEN**. No PDF binary was archived.
+
+### 30 Sep 2026 — Valuation evidence scope
+
+[English valuation bridge](01-Fundamental-Analysis/03-Valuation/README.md) references [FY2025 SCAP audited annual report](sources/records/SCAP-AR-2025.md) and [FY2026 SCAP year-end interim](sources/records/SCAP-FY2026-YE-INTERIM.md). **LKR million**, FY2025 audited vs FY2026 subject-to-audit interim; group owners' profit/equity, NCI and standalone parent debt/cash must not be combined as if one legal entity. No new original inspected or archived; signed FY2026 audit remains OPEN.

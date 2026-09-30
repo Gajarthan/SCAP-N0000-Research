@@ -50,3 +50,7 @@
 ## 2026-09-30 — කර්මාන්ත මූලාශ්‍ර සහ සත්‍යාපනය
 
 [SCAP නිල වාර්තා දර්ශකය](../sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md), [IRCSL රක්ෂණ කර්මාන්ත දත්ත](../sources/records/IRCSL-INSURANCE-SECTOR-2024-Q1-2025.md), [CBSL මූල්‍ය ක්ෂේත්‍ර තොරතුරු](../sources/records/CBSL-FINANCIAL-SECTOR-PERFORMANCE-2025.md), [සිංහල කර්මාන්ත අධ්‍යයනය](01-Fundamental-Analysis/04-Industry/INDUSTRY-EVIDENCE-2026-09-30.md). **මූලාශ්‍ර සටහන් 23ක්**; මුල් ලේඛන බාහිර URL පමණි. SCAP FY2026 අවසන් විගණනය සහ 2026 ජූනි මුල් වාර්තාව **OPEN**.
+
+### 2026-09-30 — වටිනාකම් මූලාශ්‍ර සීමාව
+
+[වටිනාකම් සාක්ෂි](01-Fundamental-Analysis/03-Valuation/README.md) · [FY2025 විගණිත](../sources/records/SCAP-AR-2025.md) · [FY2026 අතුරු](../sources/records/SCAP-FY2026-YE-INTERIM.md). සමූහ හිමිකරු, සුළුතර සහ මව් සමාගම් ගිණුම් වෙන වෙනම සලකන්න; FY2026 අවසාන විගණනය **OPEN**.

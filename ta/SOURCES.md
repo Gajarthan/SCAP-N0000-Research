@@ -50,3 +50,7 @@
 ## 30-09-2026 — தொழிற்துறை மற்றும் ஆதாரச் சரிபார்ப்பு
 
 [SCAP இணையச் சுட்டி](../sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md), [IRCSL காப்பீட்டுத் தொழிற்துறை புள்ளிவிவரங்கள்](../sources/records/IRCSL-INSURANCE-SECTOR-2024-Q1-2025.md), [CBSL நிதித் தொழிற்துறை தகவல்](../sources/records/CBSL-FINANCIAL-SECTOR-PERFORMANCE-2025.md), [தமிழ் தொழிற்துறை ஆய்வு](01-Fundamental-Analysis/04-Industry/INDUSTRY-EVIDENCE-2026-09-30.md). மொத்தம் **23 ஆதாரப் பதிவுகள்**; அசல் ஆவணங்கள் வெளிப்புற URL-கள் மட்டுமே. SCAP FY2026 இறுதி audit, June 2026 அசல் அறிக்கை இன்னும் **OPEN**.
+
+### 30-09-2026 — மதிப்பீட்டு ஆதார வரம்பு
+
+[மதிப்பீட்டு ஒப்பீடு](01-Fundamental-Analysis/03-Valuation/README.md) · [FY2025 தணிக்கை](../sources/records/SCAP-AR-2025.md) · [FY2026 இடைக்காலம்](../sources/records/SCAP-FY2026-YE-INTERIM.md). குழும உரிமையாளர், சிறுபான்மை மற்றும் தாய் நிறுவனம் தனித்தனி கணக்குகள்; FY2026 இறுதி audit **OPEN**.
