@@ -2,7 +2,7 @@
 
 [← Source archive guide](README.md) · [← Research queue](../RESEARCH-QUEUE.md) · [English sources](../SOURCES.md) · [தமிழ்](../ta/SOURCES.md) · [සිංහල](../si/SOURCES.md)
 
-**Initialized:** 2026-09-30. Entries below are **stored Markdown source/evidence records** in this GitHub repository. **None of the original PDFs or full copyrighted website articles is currently mirrored in GitHub.** For each, follow the original publisher link. A source card can be complete as a citation record while its *financial tie-out* still remains OPEN.
+**Initialized:** 2026-09-30 · **18 provenance records (11 original + 7 new).** Entries below are **stored Markdown source/evidence records** in this GitHub repository. **None of the original PDFs or full copyrighted website articles is currently mirrored in GitHub.** For each, follow the original publisher link. A source card can be complete as a citation record while its *financial tie-out* still remains OPEN.
 
 | Stable ID | Original work | Entity / date | Evidence type | Repo record | Raw document in GitHub? |
 |---|---|---|---|---|---|
@@ -18,6 +18,14 @@
 | `DIAMOND-LIFE-ACQUISITION-2026` | [Diamond Life / Softlogic Life — Bangladesh acquisition descriptions](https://diamondlifebd.com/overview/) | Softlogic Life acquisition; indirectly relevant to SCAP, not a direct 100% SCAP investment; Acquisition reported July 2026 | Company/authority article; financial contribution not verified in SCAP audited statements | [View evidence](records/DIAMOND-LIFE-ACQUISITION-2026.md) | **No — external original** |
 | `SCAP-STOCKANALYSIS` | [StockAnalysis — SCAP.N0000 standardized financials](https://stockanalysis.com/quote/cose/SCAP.N0000/financials/) | Provider-normalized SCAP figures, not issuer-source accounting definitions; Provider periods vary by requested financial-statement view | SECONDARY — never label as audited filing | [View evidence](records/SCAP-STOCKANALYSIS.md) | **No — external original** |
 
+| `SCAP-AR-2026-CATALOGUE` | [SCAP 2026 annual original source index](https://nanayojana.com/company/SCAP.N0000?document_type=annual_report&year=2026) | SCAP FY26 · catalogue only | CATALOGUE: audited PDF/open tie-out pending | [View evidence](records/SCAP-AR-2026-CATALOGUE.md) | **No — external original** |
+| `SCAP-JUN2026-CATALOGUE` | [SCAP 30 June 2026 quarterly original index](https://nanayojana.com/company/SCAP.N0000) | SCAP June 2026 · catalogue only | CATALOGUE: original CSE PDF outstanding | [View evidence](records/SCAP-JUN2026-CATALOGUE.md) | **No — external original** |
+| `SLIFE-Q2-2026-REGISTER` | [Softlogic Life 30 June 2026 ownership (note 19)](https://cdn.cse.lk/cmt/upload_report_file/364_1786443015903.%20Interim%20Financial%20Statements%20-%20For%20the_Period%20ended%2030%20June%202026-CSE.pdf) | Life insurer · 30 June 2026 | ORIGINAL CSE interim shareholder register | [View evidence](records/SLIFE-Q2-2026-REGISTER.md) | **No — external original** |
+| `SLIFE-JUN2026-DIVIDEND` | [Life voting-share dividend Rs 5.30 announced 22 June 2026](https://cdn.cse.lk/cmt/announcement_portal_prod/INTERIM%20DIVIDEND%20ANNOUNCEMENT_4994263359860578.pdf) | Life insurer · announced 22 June 2026 | ORIGINAL CSE announcement; parent receipt unverified | [View evidence](records/SLIFE-JUN2026-DIVIDEND.md) | **No — external original** |
+| `UA-AR-2025-CAR` | [Union Assurance 2025 insurer CAR 215%](https://unionassurance.com/DigitalAnnualReport2025/Union-Assurance-AR-2025.pdf) | Insurance peer · 31 December 2025 | ISSUER annual report peer CAR | [View evidence](records/UA-AR-2025-CAR.md) | **No — external original** |
+| `CBSL-FC-Q1-2026` | [CBSL Q1 2026 finance-company sector CAR 18.4%](https://www.cbsl.gov.lk/en/node/20440) | Finance-company SECTOR · 31 March 2026 | REGULATOR release, company/sector difference | [View evidence](records/CBSL-FC-Q1-2026.md) | **No — external original** |
+| `SFIN-UPDATE-JUL2026` | [Softlogic Finance issuer 28 July 2026 capital and funding statement](https://softlogicfinance.lk/news/building-a-stronger-more-resilient-softlogic-finance/) | Softlogic Finance · FY2025/26 | ISSUER management update, not standalone SCAP | [View evidence](records/SFIN-UPDATE-JUL2026.md) | **No — external original** |
+
 ## Source priority and exception handling
 
 1. **Issuer or regulator original** for historical and current claims; separate SCAP group/parent/insurer/finance accounts.
@@ -30,9 +38,9 @@
 
 ## Current high-priority OPEN sources
 
-- **SCAP FY2025/26 final audited report**: direct original SCAP issuer PDF and signed auditor's opinion, not yet reconciled; do not substitute a Softlogic Holdings, Softlogic Finance or Softlogic Life report.
-- **SCAP quarter ended 30 June 2026**: obtain original filing and reassess original figures.
-- **Current SCAP shareholdings and exact subsidiary structures**: date-stamped original disclosures.
+- **SCAP FY2025/26 final audited report**: third-party catalogue entry now recorded as `SCAP-AR-2026-CATALOGUE`, but direct original SCAP PDF and signed auditor's opinion **not yet reconciled**; do not substitute Holdings, Finance or Life filings.
+- **SCAP quarter ended 30 June 2026**: catalogue entry now recorded as `SCAP-JUN2026-CATALOGUE`, original **SCAP** CSE PDF and subsequent-event notes still OPEN (the **Life** June 2026 issuer shareholder register is a separate verified document).
+- **Updated structures/pledges:** Life 30 June 2026 issuer shareholder register is now linked (158,714,972 SCAP voting shares / 50.16%); broker and asset-manager latest stakes, and NDB/DFCC pledge release status, remain OPEN. FY2025 audited group chain is source-backed but historical.
 - **Timestamped licensed SCAP.N0000 OHLCV data**: required before creating real technical indicators.
 
 **Current raw-PDF archival status: 0 verified originals stored.** This is intentional and transparent. These source cards are durable citation and evidence records, not a binary document mirror.

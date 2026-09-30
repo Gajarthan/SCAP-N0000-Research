@@ -35,3 +35,20 @@
 - [01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT](../../01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md)
 
 The data above is a *provenance record of existing research*, **not** confirmation that the original PDF has been newly downloaded, re-audited or mirrored. Follow the official source and recheck against later filings before presenting any claim as current.
+
+## 30 September 2026 original-audit detail refresh
+
+Original CSE document [2024/25 audited annual PDF](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) was read at the relevant original pages in this research pass. **Document remains externally hosted, not mirrored.**
+
+| PDF page | Issuer disclosures / exact period |
+|---|---|
+| 4, group structure | Holdings → SCAP **69.35%**; SCAP → SCAP One / SR One **100%**; SCAP One → Stockbrokers **80.10%**, Asset Management **100%**; Life **51.00%**, Finance **94.61%**, all FY2025. |
+| 63, income | Group FY2025 'Total operating income' **LKR 42,383,724,027**; FY2024 **36,729,682,098**; COMPANY FY2025 **4,093,983,636**. |
+| 70, parent cash | Standalone operating CFO **−4,605.10m**; dividends received **+3,273.55m**; cash interest paid **−2,549.88m** (distinct from accrual expense). |
+| 71, going concern 2.1.2 | Management anticipated interest service through subsidiary dividends and commercial-paper refinancing, describing commercial-paper renewal experience **approximately 82%**. This is management commentary, not a forecast. |
+| 148, note 39 | FY2025 parent bank loans **1,950.217m**, lease creditors **15.930m**, securitisation **1,154.542m**, commercial papers **11,676.644m**; parent TOTAL **14,797.333m**, Group TOTAL **19,467.968m**. |
+| 149, note 39.1 | Parent bank loans within 1 year **426.016m**, thereafter **1,524.201m**; Life shares pledged **48,559,000** for NDB and **32,490,704** for DFCC facilities. **2026 status OPEN.** |
+| 157, note 41.7 | Life one-off surplus regulatory restrictions: **798.004m** 2025, subject to IRCSL conditions; not a blanket prohibition on all Life dividends. |
+| 161 & 168, notes 44 and 47.4 | FY2025 parent guarantees **75m**, note 47.4 identifies Stockbrokers; 2024 comparators 150m. FY2025 Life subsidiary dividend income to SCAP **3,273.546m**. |
+
+**Contemporary limitation:** The latest SCAP final FY2026 audited report's original PDF and 30 June 2026 original SCAP interim were not opened in this pass; historic findings are not today's pledge, refinancing, audited equity or cash availability.

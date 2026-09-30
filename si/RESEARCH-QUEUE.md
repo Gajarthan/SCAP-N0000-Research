@@ -2,15 +2,15 @@
 
 ## පර්යේෂණ සමඟ GitHub හි ගබඩා කරන මූලාශ්‍ර
 
-**[ස්ථිර මූලාශ්‍ර සටහන් 11ක්](../sources/SOURCE-REGISTER.md)** තිබේ. මුල් PDF තවම GitHub තුළ නොමැත. එක් එක් hourly පර්යේෂණයේදී `sources/records/` යාවත්කාලීන කරන්න; නීත්‍යානුකූල අවසරය, සාර්ථක upload හා checksum තහවුරු කළ පසු පමණක් PDF copy කරන්න.
+**[ස්ථිර මූලාශ්‍ර සටහන් 18ක්](../sources/SOURCE-REGISTER.md)** තිබේ. මුල් PDF තවම GitHub තුළ නොමැත. එක් එක් hourly පර්යේෂණයේදී `sources/records/` යාවත්කාලීන කරන්න; නීත්‍යානුකූල අවසරය, සාර්ථක upload හා checksum තහවුරු කළ පසු පමණක් PDF copy කරන්න.
 
 
 
 [← සිංහල මුල් පිටුව](README.md) · [English](../RESEARCH-QUEUE.md) · [தமிழ்](../ta/RESEARCH-QUEUE.md) · **සිංහල**
 
-> **පරීක්ෂණ දිනය: 2026-09-30.** සම්පූර්ණයෙන් **පර්යේෂණ මාතෘකා 20 × භාෂා 3 = මූලික මාර්ගෝපදේශ 60ක්**. මෙය ලේඛන තත්ත්ව අගයකි; කොටස් ශ්‍රේණිගත කිරීමක් නොවේ. ව්‍යාපාර හා මූල්‍ය වාර්තා දෙකක් දත්ත සහිතව පවතින නමුත් අවසන් FY2026 විගණිත ලේඛන සමඟ තවත් ගළපා ගත යුතුය; අනෙකුත් 18 ප්‍රධාන වශයෙන් හිස් ක්‍රමවේද ආකෘති වේ. මෙය පොදු GitHub repo එකකි.
+> **පරීක්ෂණ දිනය: 2026-09-30.** සම්පූර්ණයෙන් **පර්යේෂණ මාතෘකා 20 × භාෂා 3 = මූලික මාර්ගෝපදේශ 60ක්**. මෙය ලේඛන තත්ත්ව අගයකි; කොටස් ශ්‍රේණිගත කිරීමක් නොවේ. ව්‍යාපාර හා මූල්‍ය වාර්තා දෙකක් දත්ත සහිතව පවතින නමුත් අවසන් FY2026 විගණිත ලේඛන සමඟ තවත් ගළපා ගත යුතුය; අනෙකුත් 13 ප්‍රධාන වශයෙන් හිස් ක්‍රමවේද ආකෘති වේ. මෙය පොදු GitHub repo එකකි.
 
-**වත්මන් තත්ත්වය:** කොටස් වශයෙන් පර්යේෂණ කළ මාතෘකා 2ක්; පුරවිය යුතු ආකෘති 18ක්; මුළුමනින්ම ගළපා අවසන් කළ 0ක්. Business visual report හි රූප සටහන් 16ක්, Financial report හි 12ක්, SWOT වෙනම ලේඛනයක් ලෙස ඇත.
+**වත්මන් තත්ත්වය:** PARTIAL විෂයයන් 7ක් (business, financial, ownership, dividend, risk, peers, forensic), TEMPLATE විෂයයන් 13ක්, අවසන් FY26 මුල් ලේඛන නොගැළපූ නිසා සම්පූර්ණ කළ 0ක්. Business visual report හි රූප සටහන් 16ක්, Financial report හි 12ක්, SWOT වෙනම ලේඛනයක් ලෙස ඇත.
 
 ## මාතෘකා අනුව තත්ත්වය
 
@@ -20,14 +20,14 @@
 | [මූල්‍ය ප්‍රකාශන](01-Fundamental-Analysis/02-Financial-Statements/README.md) | **අර්ධ පර්යේෂණ — මූලාශ්‍ර නැවත පරීක්ෂාව** | 12 charts; final audited FY2026 and June quarter need tie-out |
 | [වටිනාකම් තක්සේරුව](01-Fundamental-Analysis/03-Valuation/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Parent NAV / minorities / debt / audited inputs |
 | [කර්මාන්තය](01-Fundamental-Analysis/04-Industry/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Insurance, NBFI, brokerage market structure |
-| [තරඟකරුවන්](01-Fundamental-Analysis/05-Competitors/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Like-for-like peer metric comparisons |
+| [තරඟකරුවන්](01-Fundamental-Analysis/05-Competitors/README.md) | **අර්ධ පර්යේෂණ — අතීත මුල් සාක්ෂි; නව මුල් ගොනු OPEN** | Like-for-like peer metric comparisons |
 | [සාර්ව ආර්ථිකය](01-Fundamental-Analysis/06-Macroeconomics/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Sri Lanka rates, FX, inflation and segment transmission |
 | [කළමනාකරණය සහ පාලනය](01-Fundamental-Analysis/07-Management-Governance/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Board changes, audit committees, related parties |
-| [අවදානම](01-Fundamental-Analysis/08-Risk/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Parent refinancing, credit losses, insurer solvency |
-| [ලාභාංශ](01-Fundamental-Analysis/09-Dividends/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Paid vs proposed; subsidiary cash vs parent payouts |
-| [හිමිකාරීත්වය](01-Fundamental-Analysis/10-Shareholding/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Current dated ownership, direct vs indirect stakes |
+| [අවදානම](01-Fundamental-Analysis/08-Risk/README.md) | **අර්ධ පර්යේෂණ — අතීත මුල් සාක්ෂි; නව මුල් ගොනු OPEN** | Parent refinancing, credit losses, insurer solvency |
+| [ලාභාංශ](01-Fundamental-Analysis/09-Dividends/README.md) | **අර්ධ පර්යේෂණ — අතීත මුල් සාක්ෂි; නව මුල් ගොනු OPEN** | Paid vs proposed; subsidiary cash vs parent payouts |
+| [හිමිකාරීත්වය](01-Fundamental-Analysis/10-Shareholding/README.md) | **අර්ධ පර්යේෂණ — අතීත මුල් සාක්ෂි; නව මුල් ගොනු OPEN** | Current dated ownership, direct vs indirect stakes |
 | [ආයතනික ක්‍රියා](01-Fundamental-Analysis/11-Corporate-Actions/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | CSE notices, rights, acquisitions and effective dates |
-| [විමර්ශනාත්මක ගිණුම්](01-Fundamental-Analysis/12-Forensic-Accounting/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Original-versus-vendor discrepancies; restatements |
+| [විමර්ශනාත්මක ගිණුම්](01-Fundamental-Analysis/12-Forensic-Accounting/README.md) | **අර්ධ පර්යේෂණ — අතීත මුල් සාක්ෂි; නව මුල් ගොනු OPEN** | Original-versus-vendor discrepancies; restatements |
 | [නියාමනය](01-Fundamental-Analysis/13-Regulatory/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Latest CBSL/IRCSL/SEC/CSE entity-specific notices |
 | [අවස්ථා / සංවේදීතාව](01-Fundamental-Analysis/14-Scenario-Analysis/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Conditional verified inputs, no unsupported probabilities |
 | [මූලික ප්‍රමාණාත්මක](01-Fundamental-Analysis/15-Quantitative/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Period-consistent time series and robustness checks |
@@ -36,6 +36,9 @@
 | [පරිමාව / ද්‍රවශීලතාව](02-Technical-Analysis/03-Volume-Liquidity/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | No-trade days, turnover, bid/ask depth and slippage |
 | [රටා සහ දර්ශක](02-Technical-Analysis/04-Patterns-Indicators/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Reproducible rules, costs and out-of-sample checks |
 | [ප්‍රමාණාත්මක / මනෝභාව](02-Technical-Analysis/05-Quantitative-Sentiment/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Dated events, objective tests, no future leaks |
+
+
+**2026-09-30 යාවත්කාලීන කිරීම:** තවත් මාතෘකා 5ක් PARTIAL; SCAP FY2026 audited අවසන් හා SCAP June මුල් PDF ප්‍රමුඛ OPEN; [source register](../sources/SOURCE-REGISTER.md).
 
 ## ඉටුකිරීමේ අනුපිළිවෙළ
 

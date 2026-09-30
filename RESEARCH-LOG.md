@@ -1,5 +1,11 @@
 # Research log — SCAP.N0000
 
+## 30 Sep 2026 — Share pledges, original reports, insurer/finance peers
+
+**New records:** [SCAP FY2026 final report catalogue](sources/records/SCAP-AR-2026-CATALOGUE.md), [SCAP June 2026 quarter catalogue](sources/records/SCAP-JUN2026-CATALOGUE.md), [Life 30 June 2026 SCAP holding register](sources/records/SLIFE-Q2-2026-REGISTER.md), [Life Rs 5.30 dividend notice](sources/records/SLIFE-JUN2026-DIVIDEND.md), [Union Assurance 2025 capital](sources/records/UA-AR-2025-CAR.md), [CBSL finance-company CAR](sources/records/CBSL-FC-Q1-2026.md), and [Softlogic Finance management update](sources/records/SFIN-UPDATE-JUL2026.md). **18 Markdown evidence cards total; no raw copyrighted PDFs mirrored.**
+
+**Evidence controls:** FY2025 SCAP original shows NDB **48,559,000** and DFCC **32,490,704** Life shares pledged on p.149; the Life **30 Jun 2026** register shows SCAP **158,714,972 shares / 50.16%** but cannot prove pledge release. Life 2026 dividend Rs 5.30/share was **announced**, not independently checked as parent cash receipt. FY2025 original Group income **42,383.724m** versus provider normalized **39,794m**: numerical difference **2,589.724m** but its accounting bridge **OPEN**. Final SCAP FY2026 auditor opinion and original SCAP June quarter remain **OPEN**. Links: [Shareholding](01-Fundamental-Analysis/10-Shareholding/README.md), [Dividends](01-Fundamental-Analysis/09-Dividends/README.md), [Risk](01-Fundamental-Analysis/08-Risk/README.md), [Competitors](01-Fundamental-Analysis/05-Competitors/README.md), [Forensic Accounting](01-Fundamental-Analysis/12-Forensic-Accounting/README.md).
+
 ## 30 September 2026 — GitHub source provenance archive
 
 Initialized [11 stable-ID source records](sources/SOURCE-REGISTER.md) and cross-linked the Business and Financial Statements research across all three languages. The records store publisher links, reporting dates, prior page-level findings and verification caveats; **no PDF binaries were mirrored or claimed as downloaded**. The hourly research task has been updated to archive each new source record, with binary copies allowed only when public redistribution and verified GitHub upload are feasible.

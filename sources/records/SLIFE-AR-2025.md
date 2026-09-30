@@ -33,3 +33,7 @@
 - [01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT](../../01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)
 
 The data above is a *provenance record of existing research*, **not** confirmation that the original PDF has been newly downloaded, re-audited or mirrored. Follow the official source and recheck against later filings before presenting any claim as current.
+
+## 2025 original insurer capital cross-check (30 September 2026)
+
+[Softlogic Life original calendar-2025 issuer annual PDF](https://softlogiclife.lk/wp-content/uploads/sites/3/2026/03/Softlogic-Life-Integrated-Annual-Report-2025.pdf) and [Life annual interactive dashboard](https://annualreport.softlogiclife.lk/) report insurer risk-based CAR **245%** at **31 December 2025** and customer retention **89%** on the issuer dashboard. **Customer retention is not automatically the same policy-cohort persistency definition used by a competing insurer**. This CAR is Life regulatory insurance capital, not parent SCAP cash or Softlogic Finance company capital. The Life original year-end shareholder table records **158,714,972 SCAP-held shares / 50.16%**; the later **30 June 2026 Life interim** independently repeats that ownership percentage (see [SLIFE-Q2-2026-REGISTER](SLIFE-Q2-2026-REGISTER.md)).

@@ -1,5 +1,11 @@
 # පර්යේෂණ සටහන් — SCAP.N0000
 
+## 2026-09-30 — කොටස් ඇප, insurer/finance peers සහ නව මූලාශ්‍ර 7ක්
+
+[SCAP FY2026 annual index](../sources/records/SCAP-AR-2026-CATALOGUE.md) සහ [SCAP June quarter index](../sources/records/SCAP-JUN2026-CATALOGUE.md) මුල් audited වාර්තා තවම නොවේ. [Life June 2026 register](../sources/records/SLIFE-Q2-2026-REGISTER.md), [Life Rs 5.30 dividend](../sources/records/SLIFE-JUN2026-DIVIDEND.md), [Union insurer CAR](../sources/records/UA-AR-2025-CAR.md), [CBSL finance CAR](../sources/records/CBSL-FC-Q1-2026.md), [Finance issuer update](../sources/records/SFIN-UPDATE-JUL2026.md) එක්වී ඇත. **Markdown source cards 18ක්, මුල් PDF copies 0ක්.**
+
+FY2025 audited SCAP පි.149 NDB සඳහා **48,559,000**, DFCC සඳහා **32,490,704** Life shares pledged බව තිබුණි. Life 2026 ජූනි register SCAP **158,714,972 / 50.16%**; වත්මන් pledge status **OPEN**. FY25 audited group income **42,383.724m** vs third-party **39,794m**; වෙනස **2,589.724m**, provider definition reconciliation **OPEN**. යාවත්කාලීන ලේඛන: [හිමිකාරීත්වය](01-Fundamental-Analysis/10-Shareholding/README.md) · [ලාභාංශ](01-Fundamental-Analysis/09-Dividends/README.md) · [අවදානම](01-Fundamental-Analysis/08-Risk/README.md) · [Peers](01-Fundamental-Analysis/05-Competitors/README.md) · [Accounting](01-Fundamental-Analysis/12-Forensic-Accounting/README.md).
+
 ## 2026-09-30 — GitHub මූලාශ්‍ර ගබඩාව
 
 [ස්ථිර මූලාශ්‍ර සටහන් 11ක්](../sources/SOURCE-REGISTER.md) අලුතෙන් එක් කර භාෂා තුනේ Business සහ Financial විශ්ලේෂණ සමඟ සම්බන්ධ කර ඇත. මුල් URL, දිනය, පසුගිය පිටු සටහන් සහ සීමාවන් ඇතුළත් වේ; **සම්පූර්ණ මුල් PDF GitHub වෙත පිටපත් කර නැත.** Hourly කාර්යය එක් එක් අලුත් මූලාශ්‍රය සටහන් කිරීමට යාවත්කාලීන කර ඇත.

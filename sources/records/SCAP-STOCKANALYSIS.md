@@ -34,3 +34,7 @@
 - [01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT](../../01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)
 
 The data above is a *provenance record of existing research*, **not** confirmation that the original PDF has been newly downloaded, re-audited or mirrored. Follow the official source and recheck against later filings before presenting any claim as current.
+
+## 30 September 2026 issuer-versus-provider revenue bridge (INCOMPLETE)
+
+[StockAnalysis financial overview](https://stockanalysis.com/quote/cose/SCAP.N0000/financials/) displays **FY2025 normalized 'Revenue' 39,794m** and **FY2024 35,927m**, while [SCAP's original audited income statement p.63](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) reports **FY2025 Group 'Total operating income' 42,383.724m** and **FY2024 36,729.682m**. Differences (original minus rounded provider): **FY2025 2,589.724m**, **FY2024 802.682m**. **The actual classification bridge explaining why remains OPEN**; do not assume a specific netting adjustment without provider/source mapping. Previous repo charts in `reports/financial-pulse.md`, trilingual financial snapshots and Mermaid financial reports already use original issuer FY2025 42,383.72m; 39,794 survives as a disclosed former comparator/error, not preferred issuer data. The provider's FY2026 headline is not the final SCAP signed auditor report.

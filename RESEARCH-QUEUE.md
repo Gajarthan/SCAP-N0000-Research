@@ -2,15 +2,15 @@
 
 ## Sources stored alongside research
 
-**[Source register with 11 durable evidence cards](sources/SOURCE-REGISTER.md)** is active. Original PDFs are externally linked, **not** currently copied into GitHub. On each hourly run, save source metadata and facts in `sources/records/`, link reports and all language source lists, and mirror intact binaries in `sources/documents/` only if licensed and technically feasible. The source record must show exact path and checksum when mirrored.
+**[Source register with 18 durable evidence cards](sources/SOURCE-REGISTER.md)** is active. Original PDFs are externally linked, **not** currently copied into GitHub. On each hourly run, save source metadata and facts in `sources/records/`, link reports and all language source lists, and mirror intact binaries in `sources/documents/` only if licensed and technically feasible. The source record must show exact path and checksum when mirrored.
 
 
 
 [← Repository](README.md) · **English** · [தமிழ்](ta/RESEARCH-QUEUE.md) · [සිංහල](si/RESEARCH-QUEUE.md)
 
-> **Audit date: 30 September 2026.** This is the maintenance tracker for all **20 research topics × 3 languages = 60 core guides**. It records *document completion*, not investment merit. Existing business and financial research is substantial but still requires a final-audit refresh; the other 18 topics are mainly generic templates. The repository is public.
+> **Audit date: 30 September 2026.** This is the maintenance tracker for all **20 research topics × 3 languages = 60 core guides**. It records *document completion*, not investment merit. Existing business and financial research is substantial but still requires a final-audit refresh; the other 13 topics are mainly generic templates. The repository is public.
 
-**Current coverage:** 2 partially researched topics, 18 template-only topics, 0 fully source-reconciled topics. Nine supplemental visual/SWOT files exist across the three languages: Business VISUAL-REPORT (16 Mermaid diagrams per language), Financial Statements VISUAL-REPORT (12 diagrams per language), and the separate Business SWOT reports (one visual each).
+**Current coverage:** **7 PARTIAL research topics** (Business, Financial, Shareholding, Dividends, Risk, Competitors, Forensic Accounting), **13 TEMPLATE topics**, **0 fully source-reconciled** because major FY2026 originals remain OPEN. Nine supplemental visual/SWOT files exist across the three languages: Business VISUAL-REPORT (16 Mermaid diagrams per language), Financial Statements VISUAL-REPORT (12 diagrams per language), and the separate Business SWOT reports (one visual each).
 
 ## Topic-by-topic status
 
@@ -20,14 +20,14 @@
 | [Financial Statements](01-Fundamental-Analysis/02-Financial-Statements/README.md) | **PARTIAL — source refresh** | 12 charts; final audited FY2026 and June quarter need tie-out |
 | [Valuation](01-Fundamental-Analysis/03-Valuation/README.md) | **TEMPLATE — not filled** | Parent NAV / minorities / debt / audited inputs |
 | [Industry](01-Fundamental-Analysis/04-Industry/README.md) | **TEMPLATE — not filled** | Insurance, NBFI, brokerage market structure |
-| [Competitors](01-Fundamental-Analysis/05-Competitors/README.md) | **TEMPLATE — not filled** | Like-for-like peer metric comparisons |
+| [Competitors](01-Fundamental-Analysis/05-Competitors/README.md) | **PARTIAL — original historical evidence, later filings OPEN** | Like-for-like peer metric comparisons |
 | [Macroeconomics](01-Fundamental-Analysis/06-Macroeconomics/README.md) | **TEMPLATE — not filled** | Sri Lanka rates, FX, inflation and segment transmission |
 | [Management & Governance](01-Fundamental-Analysis/07-Management-Governance/README.md) | **TEMPLATE — not filled** | Board changes, audit committees, related parties |
-| [Risk](01-Fundamental-Analysis/08-Risk/README.md) | **TEMPLATE — not filled** | Parent refinancing, credit losses, insurer solvency |
-| [Dividends](01-Fundamental-Analysis/09-Dividends/README.md) | **TEMPLATE — not filled** | Paid vs proposed; subsidiary cash vs parent payouts |
-| [Shareholding](01-Fundamental-Analysis/10-Shareholding/README.md) | **TEMPLATE — not filled** | Current dated ownership, direct vs indirect stakes |
+| [Risk](01-Fundamental-Analysis/08-Risk/README.md) | **PARTIAL — original historical evidence, later filings OPEN** | Parent refinancing, credit losses, insurer solvency |
+| [Dividends](01-Fundamental-Analysis/09-Dividends/README.md) | **PARTIAL — original historical evidence, later filings OPEN** | Paid vs proposed; subsidiary cash vs parent payouts |
+| [Shareholding](01-Fundamental-Analysis/10-Shareholding/README.md) | **PARTIAL — original historical evidence, later filings OPEN** | Current dated ownership, direct vs indirect stakes |
 | [Corporate Actions](01-Fundamental-Analysis/11-Corporate-Actions/README.md) | **TEMPLATE — not filled** | CSE notices, rights, acquisitions and effective dates |
-| [Forensic Accounting](01-Fundamental-Analysis/12-Forensic-Accounting/README.md) | **TEMPLATE — not filled** | Original-versus-vendor discrepancies; restatements |
+| [Forensic Accounting](01-Fundamental-Analysis/12-Forensic-Accounting/README.md) | **PARTIAL — original historical evidence, later filings OPEN** | Original-versus-vendor discrepancies; restatements |
 | [Regulatory](01-Fundamental-Analysis/13-Regulatory/README.md) | **TEMPLATE — not filled** | Latest CBSL/IRCSL/SEC/CSE entity-specific notices |
 | [Scenarios & Sensitivities](01-Fundamental-Analysis/14-Scenario-Analysis/README.md) | **TEMPLATE — not filled** | Conditional verified inputs, no unsupported probabilities |
 | [Fundamental Quantitative](01-Fundamental-Analysis/15-Quantitative/README.md) | **TEMPLATE — not filled** | Period-consistent time series and robustness checks |
@@ -36,6 +36,9 @@
 | [Volume & Liquidity](02-Technical-Analysis/03-Volume-Liquidity/README.md) | **TEMPLATE — not filled** | No-trade days, turnover, bid/ask depth and slippage |
 | [Patterns & Indicators](02-Technical-Analysis/04-Patterns-Indicators/README.md) | **TEMPLATE — not filled** | Reproducible rules, costs and out-of-sample checks |
 | [Quantitative & Sentiment](02-Technical-Analysis/05-Quantitative-Sentiment/README.md) | **TEMPLATE — not filled** | Dated events, objective tests, no future leaks |
+
+
+**30 Sep follow-up:** Five further topics are now evidence-backed but **PARTIAL**, with source cards for Life 2026 ownership/dividend, 2025 pledge and parent financing, insurer capital peers, and audited-vs-provider revenue. **First priority remains SCAP final audited FY2026 and original SCAP June quarter**, despite their catalogue listings. All such source status is recorded in the [source register](sources/SOURCE-REGISTER.md).
 
 ## Planned execution order
 

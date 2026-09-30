@@ -2,15 +2,15 @@
 
 ## ஆய்வுடன் GitHub-இல் சேமிக்கப்படும் ஆதாரங்கள்
 
-**[11 நிரந்தர ஆதாரப் பதிவுகள்](../sources/SOURCE-REGISTER.md)** உள்ளன. முழு PDF இன்னும் GitHub-இல் இல்லை. ஒவ்வொரு hourly ஆய்விலும் `sources/records/`-இல் அசல் தகவல் பதிவிட்டு, மூன்று மொழி ஆவணங்களிலும் இணைக்கவும்; உரிமம், உண்மையான upload மற்றும் checksum இருந்தால் மட்டுமே PDF mirror செய்யவும்.
+**[18 நிரந்தர ஆதாரப் பதிவுகள்](../sources/SOURCE-REGISTER.md)** உள்ளன. முழு PDF இன்னும் GitHub-இல் இல்லை. ஒவ்வொரு hourly ஆய்விலும் `sources/records/`-இல் அசல் தகவல் பதிவிட்டு, மூன்று மொழி ஆவணங்களிலும் இணைக்கவும்; உரிமம், உண்மையான upload மற்றும் checksum இருந்தால் மட்டுமே PDF mirror செய்யவும்.
 
 
 
 [← தமிழ் முகப்பு](README.md) · [English](../RESEARCH-QUEUE.md) · **தமிழ்** · [සිංහල](../si/RESEARCH-QUEUE.md)
 
-> **ஆய்வு தேதி: 30-09-2026.** மொத்தம் **20 ஆய்வுத் தலைப்புகள் × 3 மொழிகள் = 60 வழிகாட்டிகள்**. இது ஆவண முன்னேற்ற அட்டவணை; பங்கு மதிப்பெண் அல்ல. வணிகம் மற்றும் நிதி அறிக்கைகள் ஆய்வு செய்யப்பட்டுள்ளன, ஆனால் இறுதி FY2026 audited ஆதாரங்களுடன் ஒப்பிட வேண்டியுள்ளது; மற்ற 18 பெரும்பாலும் காலியான வழிகாட்டிகளாக உள்ளன. இது பொது GitHub repo.
+> **ஆய்வு தேதி: 30-09-2026.** மொத்தம் **20 ஆய்வுத் தலைப்புகள் × 3 மொழிகள் = 60 வழிகாட்டிகள்**. இது ஆவண முன்னேற்ற அட்டவணை; பங்கு மதிப்பெண் அல்ல. வணிகம் மற்றும் நிதி அறிக்கைகள் ஆய்வு செய்யப்பட்டுள்ளன, ஆனால் இறுதி FY2026 audited ஆதாரங்களுடன் ஒப்பிட வேண்டியுள்ளது; மற்ற 13 பெரும்பாலும் காலியான வழிகாட்டிகளாக உள்ளன. இது பொது GitHub repo.
 
-**தற்போதைய நிலை:** 2 பகுதி ஆய்வு, 18 நிரப்ப வேண்டிய வழிகாட்டிகள், முழுமையாக ஒப்புச்சரிபார்த்தது 0. Business visual report-இல் 16 வரைபடங்கள், Financial visual report-இல் 12 வரைபடங்கள் உள்ளன; SWOT-க்கும் தனி ஆவணம் உள்ளது.
+**தற்போதைய நிலை:** 7 PARTIAL ஆய்வுகள் (வணிகம், நிதி, உரிமை, dividend, risk, peers, forensic), 13 TEMPLATE வழிகாட்டிகள், இறுதி FY26 அசல்கள் ஒப்பிடப்படாததால் முழுமையாக ஒப்புச்சரிபார்த்தது 0. Business visual report-இல் 16 வரைபடங்கள், Financial visual report-இல் 12 வரைபடங்கள் உள்ளன; SWOT-க்கும் தனி ஆவணம் உள்ளது.
 
 ## ஒவ்வொரு ஆய்வின் நிலை
 
@@ -20,14 +20,14 @@
 | [நிதி அறிக்கைகள்](01-Fundamental-Analysis/02-Financial-Statements/README.md) | **பகுதி ஆய்வு — ஆதாரம் புதுப்பிக்க வேண்டும்** | 12 charts; final audited FY2026 and June quarter need tie-out |
 | [மதிப்பீடு](01-Fundamental-Analysis/03-Valuation/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Parent NAV / minorities / debt / audited inputs |
 | [தொழில்துறை](01-Fundamental-Analysis/04-Industry/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Insurance, NBFI, brokerage market structure |
-| [போட்டியாளர்கள்](01-Fundamental-Analysis/05-Competitors/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Like-for-like peer metric comparisons |
+| [போட்டியாளர்கள்](01-Fundamental-Analysis/05-Competitors/README.md) | **பகுதி ஆய்வு — பழைய அசல் ஆதாரம்; புதிய அறிக்கை OPEN** | Like-for-like peer metric comparisons |
 | [பேரியல் பொருளாதாரம்](01-Fundamental-Analysis/06-Macroeconomics/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Sri Lanka rates, FX, inflation and segment transmission |
 | [நிர்வாகம் மற்றும் நல்லாட்சி](01-Fundamental-Analysis/07-Management-Governance/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Board changes, audit committees, related parties |
-| [இடர்](01-Fundamental-Analysis/08-Risk/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Parent refinancing, credit losses, insurer solvency |
-| [இலாபப் பங்கீடு](01-Fundamental-Analysis/09-Dividends/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Paid vs proposed; subsidiary cash vs parent payouts |
-| [பங்குரிமை](01-Fundamental-Analysis/10-Shareholding/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Current dated ownership, direct vs indirect stakes |
+| [இடர்](01-Fundamental-Analysis/08-Risk/README.md) | **பகுதி ஆய்வு — பழைய அசல் ஆதாரம்; புதிய அறிக்கை OPEN** | Parent refinancing, credit losses, insurer solvency |
+| [இலாபப் பங்கீடு](01-Fundamental-Analysis/09-Dividends/README.md) | **பகுதி ஆய்வு — பழைய அசல் ஆதாரம்; புதிய அறிக்கை OPEN** | Paid vs proposed; subsidiary cash vs parent payouts |
+| [பங்குரிமை](01-Fundamental-Analysis/10-Shareholding/README.md) | **பகுதி ஆய்வு — பழைய அசல் ஆதாரம்; புதிய அறிக்கை OPEN** | Current dated ownership, direct vs indirect stakes |
 | [நிறுவன நடவடிக்கைகள்](01-Fundamental-Analysis/11-Corporate-Actions/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | CSE notices, rights, acquisitions and effective dates |
-| [கணக்கியல் தடய ஆய்வு](01-Fundamental-Analysis/12-Forensic-Accounting/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Original-versus-vendor discrepancies; restatements |
+| [கணக்கியல் தடய ஆய்வு](01-Fundamental-Analysis/12-Forensic-Accounting/README.md) | **பகுதி ஆய்வு — பழைய அசல் ஆதாரம்; புதிய அறிக்கை OPEN** | Original-versus-vendor discrepancies; restatements |
 | [ஒழுங்குமுறை](01-Fundamental-Analysis/13-Regulatory/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Latest CBSL/IRCSL/SEC/CSE entity-specific notices |
 | [சூழல் / உணர்திறன்](01-Fundamental-Analysis/14-Scenario-Analysis/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Conditional verified inputs, no unsupported probabilities |
 | [அடிப்படை அளவியல்](01-Fundamental-Analysis/15-Quantitative/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Period-consistent time series and robustness checks |
@@ -36,6 +36,9 @@
 | [பரிவர்த்தனை அளவு / liquidity](02-Technical-Analysis/03-Volume-Liquidity/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | No-trade days, turnover, bid/ask depth and slippage |
 | [வடிவங்கள் மற்றும் குறியீடுகள்](02-Technical-Analysis/04-Patterns-Indicators/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Reproducible rules, costs and out-of-sample checks |
 | [அளவியல் மற்றும் sentiment](02-Technical-Analysis/05-Quantitative-Sentiment/README.md) | **வழிகாட்டி மட்டும் — நிரப்ப வேண்டும்** | Dated events, objective tests, no future leaks |
+
+
+**30-09 ஆய்வு:** மேலும் ஐந்து தலைப்புகள் ஆதாரங்களுடன் PARTIAL; இறுதி SCAP FY2026 audited மற்றும் ஜூன் அசல் SCAP PDF இன்னும் முதலிடம்; [ஆதாரப் பட்டியல்](../sources/SOURCE-REGISTER.md).
 
 ## திட்டமிட்ட ஆய்வு வரிசை
 

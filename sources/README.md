@@ -6,9 +6,14 @@ This `sources/` directory is the source-of-record **provenance archive** for the
 
 ### What's stored here now
 
-- **11 source records**, each saved as a Markdown file in `sources/records/`, with original URLs, publisher, period, entity, assurance status, page/section references, key facts and outstanding checks.
+- **18 source records**, each saved as a Markdown file in `sources/records/`, with original URLs, publisher, period, entity, assurance status, page/section references, key facts and outstanding checks.
 - One central **[SOURCE-REGISTER.md](SOURCE-REGISTER.md)** with stable IDs for use in English, Tamil and Sinhala.
 - **No raw PDFs or full web articles stored yet.** Original document links are retained; a source's being publicly accessible is not itself proof that reposting a full copy in a public GitHub repository is permitted. This directory does not assert that its source documents have been newly downloaded or independently reaudited.
+
+
+### 30 September 2026 follow-up
+
+Seven further provenance cards have been saved covering SCAP FY2026 annual and June interim *catalogue-only* leads; the Life 30 June 2026 shareholder register and Life Rs 5.30 dividend announcement; Union Assurance 2025 insurer CAR; CBSL March 2026 finance-company sector CAR; and a Softlogic Finance issuer capital statement. **18 Markdown source cards are in the repo, but raw PDF copies remain zero.** A listed-but-unretrieved audited document remains OPEN.
 
 ### Required process for every hourly research task
 
