@@ -4,7 +4,7 @@
 
 > **Audit date: 30 September 2026.** This is the maintenance tracker for all **20 research topics × 3 languages = 60 core guides**. It records *document completion*, not investment merit. Existing business and financial research is substantial but still requires a final-audit refresh; the other 18 topics are mainly generic templates. The repository is public.
 
-**Current coverage:** 2 partially researched topics, 18 template-only topics, 0 fully source-reconciled topics. Six subject-level English/Tamil/Sinhala visual report files are present (three visual types in three languages: Business, Financial Statements, and Business SWOT; Business visuals contain 16 diagrams; Financial visuals contain 12 diagrams).
+**Current coverage:** 2 partially researched topics, 18 template-only topics, 0 fully source-reconciled topics. Nine supplemental visual/SWOT files exist across the three languages: Business VISUAL-REPORT (16 Mermaid diagrams per language), Financial Statements VISUAL-REPORT (12 diagrams per language), and the separate Business SWOT reports (one visual each).
 
 ## Topic-by-topic status
 
