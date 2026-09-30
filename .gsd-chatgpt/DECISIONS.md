@@ -19,3 +19,11 @@ Use focused branches and draft PRs; no auto-merge or production changes. No new 
 ## D005 · Status vocabulary (2026-09-30)
 
 **TEMPLATE:** framework with no sufficiently verified topic-specific evidence. **PARTIAL:** some source-backed SCAP/sector evidence exists but mandatory reconciliation is missing. **FILLED:** the research queue's original-source, legal-scope, language parity, charts and validation checklist is satisfied; it does **not** mean every risk is resolved. Do not retroactively claim all 13 topics are FILLED because an addendum was committed.
+
+## D006 · Merged baseline and direct-main scope (2026-09-30)
+
+[PR #1](https://github.com/Gajarthan/SCAP-N0000-Research/pull/1) merged into `main` at commit `d9ee582d7c373a45e43d4575155706229d0f7bb0`, with successful existing CI. The user explicitly authorized this **GSD status/tracker update on main**, so its direct commit is scoped to documentation synchronization only. Future substantive research changes still use focused reviewable PRs unless separately authorized. This decision clarifies D004; it does not authorize auto-merge or deploy.
+
+## D007 · Separate historical queue status from evidence progress (2026-09-30)
+
+The original queue's 7 PARTIAL / 13 TEMPLATE count was a **historical snapshot**. Addendums were later added to 13 template-era topics; Valuation and Industry also received substantive partial evidence. A source-backed addendum is not automatically a complete chapter. Update current progress notes without falsely marking all 13 FILLED, and keep SCAP signed FY2026 audit and original June quarter OPEN.

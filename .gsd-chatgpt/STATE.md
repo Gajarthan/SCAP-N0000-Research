@@ -1,15 +1,15 @@
 # SCAP research — GSD-inspired state
 
 - **As of:** 2026-09-30
-- **Repository:** `Gajarthan/SCAP-N0000-Research`
-- **Work branch:** `docs/gsd-chatgpt-research-plan`
-- **Current task:** Bootstrap GSD-inspired research planning/state files; this branch contains **no new financial fact claims**.
-- **Last inspected main SHA:** `20dbbef7e54b3a49b4908e828dc5487dda85ebc6` (valuation owner/NCI/parent debt reconciliation).
-- **Last inspected CI:** two runs on `20dbbef7` were completed **successfully** (run IDs `36687974491` and `36687974321`). This does **not** prove the new plan branch passes until its own run completes.
-- **Source baseline:** [source register](../sources/SOURCE-REGISTER.md) records **23** Markdown evidence cards and **0** mirrored original PDF binaries as of the last inspected main.
-- **Coverage baseline:** the [queue](../RESEARCH-QUEUE.md) still has a historical 7 PARTIAL / 13 TEMPLATE summary; later addendums and valuation/industry evidence do **not** establish 13 FILLED topics. Treat this as a tracker consistency task, not an assertion that research was completed.
-- **Blockers:** SCAP original signed FY2025/26 audited report and original 30 June 2026 SCAP interim not reconciled; contemporary owner stakes, parent maturities and legal pledge releases not verified; licensed timestamped OHLCV not archived.
-- **Next bounded research slice:** retrieve the **SCAP-specific** signed FY2025/26 audit and June 2026 interim, or produce an explicit failed-retrieval record. Reconcile original vs interim **before** adding new numerical claims to Valuation and Industry.
-- **Existing automation:** prior hourly SCAP ChatGPT task was disabled; merely using this skill does **not** restart it. Do not schedule without explicit user approval.
-- **Execution constraints:** no auto-merge, no deploy, no new GitHub Actions or hosted runner; use draft PR and existing checks.
-- **Completion state:** GSD scaffolding only. Financial research remains PARTIAL / OPEN.
+- **Repository and active baseline:** `Gajarthan/SCAP-N0000-Research`, **`main`**.
+- **GSD planning PR:** [#1](https://github.com/Gajarthan/SCAP-N0000-Research/pull/1) **MERGED** on 2026-09-30 at 08:22:02 UTC; merge commit `d9ee582d7c373a45e43d4575155706229d0f7bb0`. The old `docs/gsd-chatgpt-research-plan` branch is **not** the active baseline.
+- **Validation at inspected baseline:** the GitHub Actions run for `d9ee582d7c373a45e43d4575155706229d0f7bb0` reported **completed / success**. This verifies that merge commit's existing checks, **not** this subsequent state update until its own CI finishes.
+- **Current task:** synchronize the GSD plan and progress tracker with merged `main`; no new SCAP original financial evidence obtained by this metadata change.
+- **Source register:** [23 source/evidence Markdown records](../sources/SOURCE-REGISTER.md); **0** verified original PDF binaries stored in this public repository.
+- **20-topic baseline:** 7 historically PARTIAL and 13 historically TEMPLATE. Since that snapshot, the 13 template-era topics received short addendums, and **Valuation** and **Industry** received more substantive evidence updates. These are **PARTIAL**, not **FILLED**. The other 11 addendum-only topics have not been independently accepted as PARTIAL or FILLED under the queue's evidence checklist.
+- **Outstanding originals:** SCAP FY2025/26 signed audited annual report and original quarter ended 30 June 2026 **OPEN**; parent maturities, current legal stakes/pledge releases and lawful timestamped SCAP.N0000 OHLCV also **OPEN**.
+- **Current milestone:** M01 original-source reconciliation **BLOCKED / OPEN**; M02 financial reconciliation **OPEN**; M03 fundamental chapters **PARTIAL**; M04 technical chapters **BLOCKED on OHLCV**; M05 multilingual/source validation **IN PROGRESS**.
+- **Next bounded research slice:** seek **SCAP-specific** FY2025/26 signed audit and 30 June 2026 original; if unavailable, record attempted issuer/CSE URLs, dates and retrieval limitations without claiming audited figures. Then reconcile Valuation and Industry original-vs-interim claims.
+- **Task automation:** the prior hourly ChatGPT SCAP research task was previously disabled. A GSD skill or repository merge **does not restart it**; schedule only upon explicit request.
+- **Execution policy:** the user explicitly requested **this GSD tracking update on main**. This is not a blanket authorization to push all future research to main, auto-merge, create GitHub workflows, or deploy. Future research slices follow [PLAN](PLAN.md) and [DECISIONS](DECISIONS.md).
+- **Completion status:** GSD planning is merged; the 20-topic research program is **NOT COMPLETE**.

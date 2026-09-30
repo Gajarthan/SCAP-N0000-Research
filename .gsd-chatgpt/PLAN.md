@@ -1,6 +1,6 @@
 # SCAP research — GSD-inspired execution plan
 
-**Repository:** `Gajarthan/SCAP-N0000-Research` · **Plan created:** 2026-09-30 · **Status:** IN PROGRESS
+**Repository:** `Gajarthan/SCAP-N0000-Research` · **Plan created:** 2026-09-30 · **Active baseline:** `main` after merged [PR #1](https://github.com/Gajarthan/SCAP-N0000-Research/pull/1) · **Status:** IN PROGRESS
 
 ## Goal and boundaries
 
@@ -20,7 +20,7 @@ Bring the existing **20 research topics × English/Tamil/Sinhala** to evidence-b
 
 ## One-topic-at-a-time sequence
 
-The existing 13 template-era topics have research addendums, **not** 13 verified completions. Work in this order, skipping only a topic already fully reconciled on the latest branch:
+The existing 13 template-era topics have research addendums, **not** 13 verified completions. The valuation and industry topics additionally have evidence-based updates and are **PARTIAL**; the remaining 11 addendum-only topics must pass their own acceptance review before status promotion. Work in this order, skipping only a topic already fully reconciled on the latest branch:
 
 1. Valuation — prior evidence bridge added, **PARTIAL**; integrate audit and complete owner/NCI/debt inputs.
 2. Industry — regulator sector evidence added, **PARTIAL**; obtain company-period matched market comparisons.
@@ -47,10 +47,14 @@ For **each** topic:
 3. Obtain primary originals where accessible; compare with existing source cards. Mark unretrieved or inconsistent claims **OPEN**, not verified.
 4. Edit **one focused topic** in English/Tamil/Sinhala, its relevant source record(s), three language source indexes, central research log and queue. Preserve stable IDs and numeric parity.
 5. Run existing validation if an actual test runner is available; otherwise use existing CI run results and state precisely what was not executed. Verify source registration, links, Mermaid fences and commit.
-6. Update STATE with verified SHA/PR, actual checks, blockers and the next bounded task. Open a draft PR; do not merge automatically.
+6. Update STATE with verified SHA/PR, actual checks, blockers and the next bounded task. For future research changes, open a draft PR by default and do not merge automatically; direct edits to `main` require an explicit user request for that change.
 
 **Definition of done:** Reviewable diff; all changed factual claims cited to original pages/sections; matching translations and figures; no unresolved validation errors; honest PARTIAL/FILLED status; existing CI success or explicit pending/failure record. A committed plan alone does not advance a research topic.
 
 ## Rollback
 
 Use the topic's focused PR/commit to revert incorrect data; never rewrite audited figures without retaining the discrepancy and correction in the log. Stop the slice when primary sources cannot support it. Do not silently edit protected main or deploy anything.
+
+## Baseline sync after merged PR #1 (2026-09-30)
+
+The GSD planning PR [#1](https://github.com/Gajarthan/SCAP-N0000-Research/pull/1) is **merged**; merge SHA `d9ee582d7c373a45e43d4575155706229d0f7bb0` had **successful existing CI**. [STATE](STATE.md) supersedes obsolete references to the old planning branch. This documentation update to `main` was explicitly requested by the user; **future topic edits are not implicitly authorized for direct main pushes**. Source acquisition and research verification remain separate tasks.

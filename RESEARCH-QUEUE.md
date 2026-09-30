@@ -2,7 +2,7 @@
 
 ## Sources stored alongside research
 
-**[Source register with 20 evidence cards (including 2 discovery-only records)](sources/SOURCE-REGISTER.md)** is active. Original PDFs are externally linked, **not** currently copied into GitHub. On each hourly run, save source metadata and facts in `sources/records/`, link reports and all language source lists, and mirror intact binaries in `sources/documents/` only if licensed and technically feasible. The source record must show exact path and checksum when mirrored.
+**[Source register with 23 evidence cards (including 2 discovery-only records)](sources/SOURCE-REGISTER.md)** is active. Original PDFs are externally linked, **not** currently copied into GitHub. On each hourly run, save source metadata and facts in `sources/records/`, link reports and all language source lists, and mirror intact binaries in `sources/documents/` only if licensed and technically feasible. The source record must show exact path and checksum when mirrored.
 
 
 
@@ -10,7 +10,9 @@
 
 > **Audit date: 30 September 2026.** This is the maintenance tracker for all **20 research topics × 3 languages = 60 core guides**. It records *document completion*, not investment merit. Existing business and financial research is substantial but still requires a final-audit refresh; the other 13 topics are mainly generic templates. The repository is public.
 
-**Current coverage:** **7 PARTIAL research topics** (Business, Financial, Shareholding, Dividends, Risk, Competitors, Forensic Accounting), **13 TEMPLATE topics**, **0 fully source-reconciled** because major FY2026 originals remain OPEN. Nine supplemental visual/SWOT files exist across the three languages: Business VISUAL-REPORT (16 Mermaid diagrams per language), Financial Statements VISUAL-REPORT (12 diagrams per language), and the separate Business SWOT reports (one visual each).
+**Historical baseline (before the 30 Sep addendums; not a live completion count):** **7 PARTIAL research topics** (Business, Financial, Shareholding, Dividends, Risk, Competitors, Forensic Accounting), **13 TEMPLATE topics**, **0 fully source-reconciled** because major FY2026 originals remain OPEN. Nine supplemental visual/SWOT files exist across the three languages: Business VISUAL-REPORT (16 Mermaid diagrams per language), Financial Statements VISUAL-REPORT (12 diagrams per language), and the separate Business SWOT reports (one visual each).
+
+**Current minimum verified classification:** **9 PARTIAL** (the seven baseline topics plus Valuation and Industry), **11 TEMPLATE/addendum-only pending review**, **0 FILLED**. All 13 template-era topics have addendums; these do not by themselves satisfy the full research checklist. See [GSD state](.gsd-chatgpt/STATE.md).
 
 ## Topic-by-topic status
 
@@ -18,8 +20,8 @@
 |---|---|---|
 | [Business Analysis](01-Fundamental-Analysis/01-Business-Analysis/README.md) | **PARTIAL — source refresh** | 16 business visuals and SWOT exist; source refresh remains |
 | [Financial Statements](01-Fundamental-Analysis/02-Financial-Statements/README.md) | **PARTIAL — source refresh** | 12 charts; final audited FY2026 and June quarter need tie-out |
-| [Valuation](01-Fundamental-Analysis/03-Valuation/README.md) | **TEMPLATE — not filled** | Parent NAV / minorities / debt / audited inputs |
-| [Industry](01-Fundamental-Analysis/04-Industry/README.md) | **TEMPLATE — not filled** | Insurance, NBFI, brokerage market structure |
+| [Valuation](01-Fundamental-Analysis/03-Valuation/README.md) | **PARTIAL — evidence bridge; not filled** | Parent NAV / minorities / debt / signed FY2026 audited inputs |
+| [Industry](01-Fundamental-Analysis/04-Industry/README.md) | **PARTIAL — sector evidence; not filled** | Same-period SCAP-specific insurance, NBFI, brokerage and asset-management comparators |
 | [Competitors](01-Fundamental-Analysis/05-Competitors/README.md) | **PARTIAL — original historical evidence, later filings OPEN** | Like-for-like peer metric comparisons |
 | [Macroeconomics](01-Fundamental-Analysis/06-Macroeconomics/README.md) | **TEMPLATE — not filled** | Sri Lanka rates, FX, inflation and segment transmission |
 | [Management & Governance](01-Fundamental-Analysis/07-Management-Governance/README.md) | **TEMPLATE — not filled** | Board changes, audit committees, related parties |
@@ -83,7 +85,7 @@ Primary starting points: [SCAP CSE annual FY2025](https://cdn.cse.lk/cmt/upload_
 
 > **Reminder:** the SCAP March 2026 interim numbers are subject to audit; some older third-party FY2025 revenue and segment values were disputed or algebraically reconstructed. Source accuracy takes priority over making a dashboard appear complete.
 
-**Next step status:** `SOURCE-CHECK — QUEUED` · **Last source-audit date:** `2026-09-30`.
+**Next step status:** `SOURCE-CHECK — OPEN` · **Last source-audit date:** `2026-09-30`.
 
 ### 30 Sep 2026 — Industry source evidence / validation repair
 
@@ -92,3 +94,7 @@ Primary starting points: [SCAP CSE annual FY2025](https://cdn.cse.lk/cmt/upload_
 ### 30 Sep 2026 — Valuation evidence bridge
 
 [Valuation English](01-Fundamental-Analysis/03-Valuation/README.md) · [தமிழ்](ta/01-Fundamental-Analysis/03-Valuation/README.md) · [සිංහල](si/01-Fundamental-Analysis/03-Valuation/README.md) now include a **PARTIAL** FY2025 audited vs FY2026 interim bridge of SCAP-owner profit/equity, NCI and standalone parent borrowing/cash. Existing earlier topic-status table remains historical; do not promote valuation to FILLED until signed FY2026 audited original, June interim, current debt/stakes and dated share count/quote are verified. No target price, new original or workflow.
+
+### 30 Sep 2026 — GSD merge and current tracker reconciliation
+
+[GSD plan](.gsd-chatgpt/PLAN.md) · [current state](.gsd-chatgpt/STATE.md) · [decisions](.gsd-chatgpt/DECISIONS.md). [Planning PR #1](https://github.com/Gajarthan/SCAP-N0000-Research/pull/1) was merged into `main` at `d9ee582d7c373a45e43d4575155706229d0f7bb0` and existing CI passed. Historical 7 PARTIAL / 13 TEMPLATE status was superseded by 13 addendums and evidence-based **PARTIAL** Valuation/Industry updates: **9 PARTIAL, 11 addendum-only pending evidence review, 0 FILLED**. Source register **23** Markdown records; original PDF binaries **0**. The SCAP signed FY2026 audit and June 2026 original remain **OPEN**. No new financial data, workflow, or scheduler was added in this state-sync commit.
