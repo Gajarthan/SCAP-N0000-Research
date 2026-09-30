@@ -1,5 +1,7 @@
 # 02 · நிதி அறிக்கைப் பகுப்பாய்வு
 
+**ஆதாரக் களஞ்சியம்**: [Source register](../../../sources/SOURCE-REGISTER.md) · [SCAP-AR-2025](../../../sources/records/SCAP-AR-2025.md) · [SCAP-FY2026-YE-INTERIM](../../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SCAP-STOCKANALYSIS](../../../sources/records/SCAP-STOCKANALYSIS.md). அசல் PDF இணைப்புகள் உள்ளன; முழு PDF GitHub-இல் சேமிக்கப்படவில்லை.
+
 **[📊 12 நிதிக் காட்சி வரைபடங்கள்](VISUAL-REPORT.md)**
 
 [← அடிப்படைப் பகுப்பாய்வு](../README.md) · [English](../../../01-Fundamental-Analysis/02-Financial-Statements/README.md) · [தமிழ்](README.md) · [සිංහල](../../../si/01-Fundamental-Analysis/02-Financial-Statements/README.md)

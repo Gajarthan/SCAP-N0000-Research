@@ -1,5 +1,10 @@
 # Research log — SCAP.N0000
 
+## 30 September 2026 — GitHub source provenance archive
+
+Initialized [11 stable-ID source records](sources/SOURCE-REGISTER.md) and cross-linked the Business and Financial Statements research across all three languages. The records store publisher links, reporting dates, prior page-level findings and verification caveats; **no PDF binaries were mirrored or claimed as downloaded**. The hourly research task has been updated to archive each new source record, with binary copies allowed only when public redistribution and verified GitHub upload are feasible.
+
+
 ## 30 Sep 2026 — Completed three-language Financial Statement Analysis and 12-chart dashboards
 
 **New:** [English financial statement analysis](01-Fundamental-Analysis/02-Financial-Statements/README.md) and [12 sourced charts](01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md) with full [Tamil](ta/01-Fundamental-Analysis/02-Financial-Statements/README.md) and [Sinhala](si/01-Fundamental-Analysis/02-Financial-Statements/README.md) versions. The research differentiates Group, NCI, SCAP-owner, and SCAP standalone income/equity/borrowing/cash-flow accounts.

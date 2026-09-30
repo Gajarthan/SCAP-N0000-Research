@@ -1,5 +1,10 @@
 # ஆய்வு மாற்றப் பதிவு — SCAP.N0000
 
+## 30-09-2026 — GitHub ஆதாரக் களஞ்சியம்
+
+[11 நிரந்தர ஆதாரப் பதிவுகள்](../sources/SOURCE-REGISTER.md) சேர்க்கப்பட்டு, மூன்று மொழிகளின் வணிகம் மற்றும் நிதி ஆய்வுகளுடன் இணைக்கப்பட்டன. அசல் URL, அறிக்கை காலம், முன்பு சரிபார்த்த பக்கங்கள் மற்றும் வரம்புகள் பதிவாகியுள்ளன; **அசல் PDF கோப்புகள் GitHub-இல் mirror செய்யப்படவில்லை.** Hourly task புதிய ஆதாரங்களைச் சேர்க்குமாறு புதுப்பிக்கப்பட்டது.
+
+
 ## 30-09-2026 — மூன்று மொழிகளில் நிதி அறிக்கை ஆய்வும் 12 காட்சி வரைபடங்களும்
 
 **புதிய ஆவணம்:** [தமிழ் நிதி அறிக்கை ஆய்வு](01-Fundamental-Analysis/02-Financial-Statements/README.md), [12 Mermaid வரைபடங்கள்](01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md), [English](../01-Fundamental-Analysis/02-Financial-Statements/README.md) மற்றும் [සිංහල](../si/01-Fundamental-Analysis/02-Financial-Statements/README.md). Group, SCAP சாதாரணப் பங்குதாரர், minority மற்றும் SCAP தனி நிறுவன வருமானம்/கடன்/பணப்புழக்கம் வேறுபடுகின்றன.

@@ -1,5 +1,7 @@
 # 📊 SCAP நிதி அறிக்கைகள் — 12 ஆதாரம் கொண்ட Mermaid காட்சிகள்
 
+**ஆதாரக் களஞ்சியம்**: [Source register](../../../sources/SOURCE-REGISTER.md) · [SCAP-AR-2025](../../../sources/records/SCAP-AR-2025.md) · [SCAP-FY2026-YE-INTERIM](../../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SCAP-STOCKANALYSIS](../../../sources/records/SCAP-STOCKANALYSIS.md). அசல் PDF இணைப்புகள் உள்ளன; முழு PDF GitHub-இல் சேமிக்கப்படவில்லை.
+
 [← நிதி அறிக்கைப் பகுப்பாய்வு](README.md) · [English](../../../01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md) · [தமிழ்](VISUAL-REPORT.md) · [සිංහල](../../../si/01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md)
 
 > **ஆய்வு: 30 செப்டம்பர் 2026.** FY2024/FY2025 எண்கள் SCAP-ன் **FY2025 audited** அசல் ஆண்டு அறிக்கையிலிருந்து; FY2026 எண்கள் **27 மே 2026 ஆண்டு முடிவு இடைக்கால அறிக்கையிலிருந்து**, அவை **தணிக்கைக்கு உட்பட்டவை**. இறுதி FY2026 audited ஆண்டு அறிக்கையும் 2026 ஜூன் SCAP இடைக்காலமும் முழுமையாக ஒப்பிடப்படவில்லை. **அலகு: LKR மில்லியன்.** நடப்பு பங்குவிலை மதிப்பீடு அல்ல.

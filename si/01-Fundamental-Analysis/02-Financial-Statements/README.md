@@ -1,5 +1,7 @@
 # 02 · මූල්‍ය ප්‍රකාශන විශ්ලේෂණය
 
+**මූලාශ්‍ර ගබඩාව**: [Source register](../../../sources/SOURCE-REGISTER.md) · [SCAP-AR-2025](../../../sources/records/SCAP-AR-2025.md) · [SCAP-FY2026-YE-INTERIM](../../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SCAP-STOCKANALYSIS](../../../sources/records/SCAP-STOCKANALYSIS.md). මුල් PDF සබැඳි ඇත; සම්පූර්ණ PDF GitHub හි ගබඩා කර නැත.
+
 **[📊 මූල්‍ය දෘශ්‍ය සටහන් 12](VISUAL-REPORT.md)**
 
 [← මූලික විශ්ලේෂණය](../README.md) · [English](../../../01-Fundamental-Analysis/02-Financial-Statements/README.md) · [தமிழ்](../../../ta/01-Fundamental-Analysis/02-Financial-Statements/README.md) · [සිංහල](README.md)

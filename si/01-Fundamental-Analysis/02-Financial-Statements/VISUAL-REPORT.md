@@ -1,5 +1,7 @@
 # 📊 SCAP මූල්‍ය ප්‍රකාශන — මූලාශ්‍ර සහිත Mermaid දෘශ්‍ය 12ක්
 
+**මූලාශ්‍ර ගබඩාව**: [Source register](../../../sources/SOURCE-REGISTER.md) · [SCAP-AR-2025](../../../sources/records/SCAP-AR-2025.md) · [SCAP-FY2026-YE-INTERIM](../../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SCAP-STOCKANALYSIS](../../../sources/records/SCAP-STOCKANALYSIS.md). මුල් PDF සබැඳි ඇත; සම්පූර්ණ PDF GitHub හි ගබඩා කර නැත.
+
 [← මූල්‍ය ප්‍රකාශන විශ්ලේෂණය](README.md) · [English](../../../01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md) · [தமிழ்](../../../ta/01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md) · [සිංහල](VISUAL-REPORT.md)
 
 > **පරීක්ෂා කළ දිනය 2026-09-30.** FY2024/FY2025 අගයන් SCAP මුල් **FY2025 විගණිත** වාර්තාවෙන්; FY2026 අගයන් **2026 මැයි 27 අතුරු** වාර්තාවෙන් වන අතර **විගණනයට යටත්ය**. අවසන් FY2026 audited වාර්තාව සහ 2026 ජූනි SCAP අතුරු වාර්තාව මුල් ලේඛන සමඟ සම්පූර්ණයෙන් ගළපා නැත. **LKR මිලියන.** වත්මන් කොටස් වටිනාකමක් නොවේ.

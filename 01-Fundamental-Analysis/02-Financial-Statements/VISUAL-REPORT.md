@@ -1,5 +1,7 @@
 # 📊 SCAP Financial Statements — 12 source-labelled Mermaid visuals
 
+**Evidence archive**: [Source register](../../sources/SOURCE-REGISTER.md) · [SCAP-AR-2025](../../sources/records/SCAP-AR-2025.md) · [SCAP-FY2026-YE-INTERIM](../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SCAP-STOCKANALYSIS](../../sources/records/SCAP-STOCKANALYSIS.md). The original PDFs are linked in the archive but not mirrored in GitHub.
+
 [← Financial Statement Analysis](README.md) · [English](VISUAL-REPORT.md) · [தமிழ்](../../ta/01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md) · [සිංහල](../../si/01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md)
 
 > **Evidence cut-off 30 September 2026.** FY2024 and FY2025 comparative figures are from the original SCAP **audited** FY2025 annual report; FY2026 values come from the SCAP **27 May 2026 year-end interim**, explicitly **subject to audit**. The original final FY2026 audited annual report and June 2026 interim have not been fully tied out. **LKR millions unless shown otherwise.** No current valuation or buy/sell advice.

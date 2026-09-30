@@ -1,5 +1,10 @@
 # පර්යේෂණ සටහන් — SCAP.N0000
 
+## 2026-09-30 — GitHub මූලාශ්‍ර ගබඩාව
+
+[ස්ථිර මූලාශ්‍ර සටහන් 11ක්](../sources/SOURCE-REGISTER.md) අලුතෙන් එක් කර භාෂා තුනේ Business සහ Financial විශ්ලේෂණ සමඟ සම්බන්ධ කර ඇත. මුල් URL, දිනය, පසුගිය පිටු සටහන් සහ සීමාවන් ඇතුළත් වේ; **සම්පූර්ණ මුල් PDF GitHub වෙත පිටපත් කර නැත.** Hourly කාර්යය එක් එක් අලුත් මූලාශ්‍රය සටහන් කිරීමට යාවත්කාලීන කර ඇත.
+
+
 ## 2026-09-30 — භාෂා තුනෙන් මූල්‍ය ප්‍රකාශන විශ්ලේෂණය සහ දෘශ්‍ය සටහන් 12ක්
 
 **නව ලේඛන:** [සිංහල මූල්‍ය විශ්ලේෂණය](01-Fundamental-Analysis/02-Financial-Statements/README.md) සහ [Mermaid දෘශ්‍ය සටහන් 12](01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md), [English](../01-Fundamental-Analysis/02-Financial-Statements/README.md) සහ [தமிழ்](../ta/01-Fundamental-Analysis/02-Financial-Statements/README.md). Group, minority, SCAP ordinary holders හා මව් standalone ආදායම්/ණය/cash වෙන වෙනම සලකයි.

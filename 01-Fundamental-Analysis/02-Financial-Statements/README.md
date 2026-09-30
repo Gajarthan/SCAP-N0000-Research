@@ -1,5 +1,7 @@
 # 02 · Financial Statement Analysis
 
+**Evidence archive**: [Source register](../../sources/SOURCE-REGISTER.md) · [SCAP-AR-2025](../../sources/records/SCAP-AR-2025.md) · [SCAP-FY2026-YE-INTERIM](../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SCAP-STOCKANALYSIS](../../sources/records/SCAP-STOCKANALYSIS.md). The original PDFs are linked in the archive but not mirrored in GitHub.
+
 **[📊 Open 12 financial diagrams](VISUAL-REPORT.md)**
 
 [← Fundamental Analysis](../README.md) · [English](README.md) · [தமிழ்](../../ta/01-Fundamental-Analysis/02-Financial-Statements/README.md) · [සිංහල](../../si/01-Fundamental-Analysis/02-Financial-Statements/README.md)
