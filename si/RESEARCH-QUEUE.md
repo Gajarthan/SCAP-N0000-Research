@@ -2,7 +2,7 @@
 
 ## පර්යේෂණ සමඟ GitHub හි ගබඩා කරන මූලාශ්‍ර
 
-**[ස්ථිර මූලාශ්‍ර සටහන් 18ක්](../sources/SOURCE-REGISTER.md)** තිබේ. මුල් PDF තවම GitHub තුළ නොමැත. එක් එක් hourly පර්යේෂණයේදී `sources/records/` යාවත්කාලීන කරන්න; නීත්‍යානුකූල අවසරය, සාර්ථක upload හා checksum තහවුරු කළ පසු පමණක් PDF copy කරන්න.
+**[ස්ථිර මූලාශ්‍ර සටහන් 20ක්](../sources/SOURCE-REGISTER.md)** තිබේ. මුල් PDF තවම GitHub තුළ නොමැත. එක් එක් hourly පර්යේෂණයේදී `sources/records/` යාවත්කාලීන කරන්න; නීත්‍යානුකූල අවසරය, සාර්ථක upload හා checksum තහවුරු කළ පසු පමණක් PDF copy කරන්න.
 
 
 

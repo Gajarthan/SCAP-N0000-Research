@@ -2,7 +2,7 @@
 
 ## Sources stored alongside research
 
-**[Source register with 18 durable evidence cards](sources/SOURCE-REGISTER.md)** is active. Original PDFs are externally linked, **not** currently copied into GitHub. On each hourly run, save source metadata and facts in `sources/records/`, link reports and all language source lists, and mirror intact binaries in `sources/documents/` only if licensed and technically feasible. The source record must show exact path and checksum when mirrored.
+**[Source register with 20 evidence cards (including 2 discovery-only records)](sources/SOURCE-REGISTER.md)** is active. Original PDFs are externally linked, **not** currently copied into GitHub. On each hourly run, save source metadata and facts in `sources/records/`, link reports and all language source lists, and mirror intact binaries in `sources/documents/` only if licensed and technically feasible. The source record must show exact path and checksum when mirrored.
 
 
 

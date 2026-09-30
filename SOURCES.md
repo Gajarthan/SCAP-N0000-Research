@@ -3,13 +3,13 @@
 
 ## 30 Sep 2026 — added primary and regulator source records
 
-New records for [SCAP final 2026 **catalogue only**](sources/records/SCAP-AR-2026-CATALOGUE.md), [SCAP June 2026 **catalogue only**](sources/records/SCAP-JUN2026-CATALOGUE.md), [Life June 2026 shareholders](sources/records/SLIFE-Q2-2026-REGISTER.md), [Life dividend notice](sources/records/SLIFE-JUN2026-DIVIDEND.md), [Union Assurance annual CAR](sources/records/UA-AR-2025-CAR.md), [CBSL FC-sector CAR](sources/records/CBSL-FC-Q1-2026.md), and [Finance issuer update](sources/records/SFIN-UPDATE-JUL2026.md). **18 Markdown cards; no original PDFs rehosted.** SCAP's FY2025 audited debt and share collateral, and the **unexplained** provider-revenue difference, are recorded in the original audit and provider cards. Do not treat FY2026 index listings as an audited-original tie-out.
+New records for [SCAP final 2026 **catalogue only**](sources/records/SCAP-AR-2026-CATALOGUE.md), [SCAP June 2026 **catalogue only**](sources/records/SCAP-JUN2026-CATALOGUE.md), [Life June 2026 shareholders](sources/records/SLIFE-Q2-2026-REGISTER.md), [Life dividend notice](sources/records/SLIFE-JUN2026-DIVIDEND.md), [Union Assurance annual CAR](sources/records/UA-AR-2025-CAR.md), [CBSL FC-sector CAR](sources/records/CBSL-FC-Q1-2026.md), and [Finance issuer update](sources/records/SFIN-UPDATE-JUL2026.md). **20 Markdown records (including 2 secondary discovery notes); no original PDFs rehosted.** SCAP's FY2025 audited debt and share collateral, and the **unexplained** provider-revenue difference, are recorded in the original audit and provider cards. Do not treat FY2026 index listings as an audited-original tie-out.
 
 ## Source provenance records stored in this repository
 
 **[Stable-ID source register](sources/SOURCE-REGISTER.md)** · [Source archive guide](sources/README.md).
 
-The repository now stores **18 source provenance records** containing original URLs, reporting periods, issuer identity, page references, previously documented findings and unresolved checks. These are **Markdown source records, not rehosted original PDF files**. The hourly research task will grow this archive, and will only mark PDF binaries archived if public redistribution and GitHub upload are confirmed.
+The repository now stores **20 source/evidence records** containing original URLs, reporting periods, issuer identity, page references, previously documented findings and unresolved checks. These are **Markdown source records, not rehosted original PDF files**. The hourly research task will grow this archive, and will only mark PDF binaries archived if public redistribution and GitHub upload are confirmed.
 
 
 

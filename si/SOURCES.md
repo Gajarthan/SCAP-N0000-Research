@@ -3,11 +3,11 @@
 
 ## 2026-09-30 — නව මූලාශ්‍ර
 
-[SCAP FY2026 annual catalogue only](../sources/records/SCAP-AR-2026-CATALOGUE.md), [SCAP June report OPEN](../sources/records/SCAP-JUN2026-CATALOGUE.md), [Life June ownership](../sources/records/SLIFE-Q2-2026-REGISTER.md), [Life dividend notice](../sources/records/SLIFE-JUN2026-DIVIDEND.md), [Union CAR](../sources/records/UA-AR-2025-CAR.md), [CBSL FC](../sources/records/CBSL-FC-Q1-2026.md), [Finance issuer](../sources/records/SFIN-UPDATE-JUL2026.md). **Markdown records 18ක්; PDF files 0ක්.** FY2025 pledged shares සහ provider revenue mismatch මුල් audit සටහන්වල යාවත්කාලීන කර ඇත.
+[SCAP FY2026 annual catalogue only](../sources/records/SCAP-AR-2026-CATALOGUE.md), [SCAP June report OPEN](../sources/records/SCAP-JUN2026-CATALOGUE.md), [Life June ownership](../sources/records/SLIFE-Q2-2026-REGISTER.md), [Life dividend notice](../sources/records/SLIFE-JUN2026-DIVIDEND.md), [Union CAR](../sources/records/UA-AR-2025-CAR.md), [CBSL FC](../sources/records/CBSL-FC-Q1-2026.md), [Finance issuer](../sources/records/SFIN-UPDATE-JUL2026.md). **Markdown records 20ක් (2 discovery-only); PDF files 0ක්.** FY2025 pledged shares සහ provider revenue mismatch මුල් audit සටහන්වල යාවත්කාලීන කර ඇත.
 
 ## GitHub හි සුරැකි මුල් මූලාශ්‍ර සටහන්
 
-**[මූලාශ්‍ර සටහන් 18ක මධ්‍යම ලේඛනය](../sources/SOURCE-REGISTER.md)** · [ගබඩා උපදෙස්](../sources/README.md). මුල් URL, කාලය, නිකුත්කරු, පිටු සහ කලින් වාර්තා කළ කරුණු Markdown ගොනුවල ඇත. **සම්පූර්ණ මුල් PDF ගොනු GitHub වෙත පිටපත් කර නැත**; අවසර හා සාර්ථක ගබඩාකිරීම තහවුරු කළ පසු පමණක් එසේ සලකන්න.
+**[මූලාශ්‍ර සටහන් 20ක මධ්‍යම ලේඛනය](../sources/SOURCE-REGISTER.md)** · [ගබඩා උපදෙස්](../sources/README.md). මුල් URL, කාලය, නිකුත්කරු, පිටු සහ කලින් වාර්තා කළ කරුණු Markdown ගොනුවල ඇත. **සම්පූර්ණ මුල් PDF ගොනු GitHub වෙත පිටපත් කර නැත**; අවසර හා සාර්ථක ගබඩාකිරීම තහවුරු කළ පසු පමණක් එසේ සලකන්න.
 
 
 
