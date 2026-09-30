@@ -54,3 +54,7 @@
 ### 30-09-2026 — மதிப்பீட்டு ஆதார வரம்பு
 
 [மதிப்பீட்டு ஒப்பீடு](01-Fundamental-Analysis/03-Valuation/README.md) · [FY2025 தணிக்கை](../sources/records/SCAP-AR-2025.md) · [FY2026 இடைக்காலம்](../sources/records/SCAP-FY2026-YE-INTERIM.md). குழும உரிமையாளர், சிறுபான்மை மற்றும் தாய் நிறுவனம் தனித்தனி கணக்குகள்; FY2026 இறுதி audit **OPEN**.
+
+### 2026-09-30 — SCAP FY2026 அசல் ஆவணத் தேடல்
+
+[SCAP ஆண்டு அறிக்கைகள்](https://softlogiccapital.lk/financials/), [காலாண்டு அறிக்கைகள்](https://softlogiccapital.lk/quarterly-data/) மற்றும் [மூன்றாம் தரப்புப் பட்டியல்](https://nanayojana.com/company/SCAP.N0000) சரிபார்க்கப்பட்டன. SCAP `1100` FY2026 இறுதி audit PDF, ஜூன் 2026 அசல் இடைக்கால PDF **கிடைக்கவில்லை**. Holdings `1075`, Life `364` வேறு நிறுவனங்கள். [ஆதாரப் பதிவு](../sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md); [ஆண்டு தேடல்](../sources/records/SCAP-AR-2026-DISCOVERY.md); [காலாண்டுத் தேடல்](../sources/records/SCAP-FY2027-Q1-DISCOVERY.md). புதிய audit எண்ணிக்கை இல்லை; அசல் PDF சேமிப்பு இல்லை.

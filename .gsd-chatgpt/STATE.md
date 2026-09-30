@@ -13,3 +13,13 @@
 - **Task automation:** the prior hourly ChatGPT SCAP research task was previously disabled. A GSD skill or repository merge **does not restart it**; schedule only upon explicit request.
 - **Execution policy:** the user explicitly requested **this GSD tracking update on main**. This is not a blanket authorization to push all future research to main, auto-merge, create GitHub workflows, or deploy. Future research slices follow [PLAN](PLAN.md) and [DECISIONS](DECISIONS.md).
 - **Completion status:** GSD planning is merged; the 20-topic research program is **NOT COMPLETE**.
+
+## GSD execution slice — 2026-09-30: SCAP issuer original retrieval
+
+- **Inspected main:** `4f1ff99395e0e825e4fef8465ef1814972eafde9`; existing research validation run `36689412256` **completed/success**. **Open PRs at start: zero**.
+- **Branch:** `research/scap-fy2026-original-discovery-20260930` (branched from inspected main). This is a **discovery-only** change, not a new audited financial reconciliation.
+- **Source checks:** SCAP official annual and quarterly indexes, secondary Nanayojana catalogue, SCAP 1100 FY2026 interim, and separate issuer IDs Holdings 1075 and Life 364. Details in [SCAP issuer-index discovery record](../sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md).
+- **Outcome:** SCAP original signed FY2026 audit and June 2026 original **NOT RETRIEVED**. Third-party catalogue listing alone is not an audited primary PDF. **23 source records, 0 PDFs archived; 9 PARTIAL, 11 addendum-only, 0 FILLED**.
+- **Next:** obtain direct issuer-1100 CSE original PDF URLs; inspect auditor opinion and original June filing before reconciling numbers. If retrieval still fails, move to a separate, sourced topic in a future run rather than repeat unsupported figures.
+- **Checks:** this branch's commit/PR and existing CI must be verified separately; the green baseline CI is **not** a branch test.
+- **Automation:** hourly ChatGPT task is now enabled by explicit user request; no GitHub workflow created or changed.

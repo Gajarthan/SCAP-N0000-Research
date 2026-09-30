@@ -54,3 +54,7 @@
 ### 2026-09-30 — වටිනාකම් මූලාශ්‍ර සීමාව
 
 [වටිනාකම් සාක්ෂි](01-Fundamental-Analysis/03-Valuation/README.md) · [FY2025 විගණිත](../sources/records/SCAP-AR-2025.md) · [FY2026 අතුරු](../sources/records/SCAP-FY2026-YE-INTERIM.md). සමූහ හිමිකරු, සුළුතර සහ මව් සමාගම් ගිණුම් වෙන වෙනම සලකන්න; FY2026 අවසාන විගණනය **OPEN**.
+
+### 2026-09-30 — SCAP FY2026 මුල් ගොනු සෙවීම
+
+[SCAP වාර්ෂික](https://softlogiccapital.lk/financials/), [කාර්තු](https://softlogiccapital.lk/quarterly-data/) සහ [තෙවන පාර්ශ්ව නාමාවලිය](https://nanayojana.com/company/SCAP.N0000) පරීක්ෂා කරන ලදී. SCAP `1100` FY2026 අවසන් විගණිත PDF හා 2026 ජූනි මුල් අතුරු PDF **ලැබුණේ නැත**. Holdings `1075` සහ Life `364` වෙනත් නිකුත්කරුවන්ය. [සෙවුම් සටහන](../sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md); [වාර්ෂික සෙවීම](../sources/records/SCAP-AR-2026-DISCOVERY.md); [කාර්තු සෙවීම](../sources/records/SCAP-FY2027-Q1-DISCOVERY.md). නව විගණිත සංඛ්‍යා නොමැත; මුල් PDF ගබඩා කර නැත.

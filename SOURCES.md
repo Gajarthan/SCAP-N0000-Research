@@ -54,3 +54,7 @@ New stable records: [SCAP issuer financial indexes](sources/records/SCAP-OFFICIA
 ### 30 Sep 2026 — Valuation evidence scope
 
 [English valuation bridge](01-Fundamental-Analysis/03-Valuation/README.md) references [FY2025 SCAP audited annual report](sources/records/SCAP-AR-2025.md) and [FY2026 SCAP year-end interim](sources/records/SCAP-FY2026-YE-INTERIM.md). **LKR million**, FY2025 audited vs FY2026 subject-to-audit interim; group owners' profit/equity, NCI and standalone parent debt/cash must not be combined as if one legal entity. No new original inspected or archived; signed FY2026 audit remains OPEN.
+
+### 2026-09-30 — Original SCAP FY2026 / June 2026 retrieval recheck
+
+[SCAP issuer annual index](https://softlogiccapital.lk/financials/) and [quarterly index](https://softlogiccapital.lk/quarterly-data/) show historical reports, while [Nanayojana's third-party catalogue](https://nanayojana.com/company/SCAP.N0000) lists FY2026 annual and June 2026 interim without a verified SCAP issuer-1100 original PDF in this retrieval. [Detailed source card](sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md); [FY2026 annual discovery](sources/records/SCAP-AR-2026-DISCOVERY.md); [June-quarter discovery](sources/records/SCAP-FY2027-Q1-DISCOVERY.md). Softlogic Holdings `1075` and Life `364` are **different legal issuers**. Both SCAP originals remain **OPEN**, no new audit opinion or numeric restatement verified, no original PDF mirrored.
