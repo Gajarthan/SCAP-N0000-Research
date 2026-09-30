@@ -1,0 +1,41 @@
+name: Check English Tamil Sinhala parity
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "01-Fundamental-Analysis/**"
+      - "02-Technical-Analysis/**"
+      - "ta/01-Fundamental-Analysis/**"
+      - "ta/02-Technical-Analysis/**"
+      - "si/01-Fundamental-Analysis/**"
+      - "si/02-Technical-Analysis/**"
+      - "data/financial-facts.json"
+      - "scripts/translation_check.py"
+      - "scripts/tests/test_translation_check.py"
+      - ".github/workflows/translation-consistency.yml"
+  pull_request:
+    paths:
+      - "**/01-Fundamental-Analysis/**"
+      - "**/02-Technical-Analysis/**"
+      - "data/financial-facts.json"
+      - "scripts/translation_check.py"
+      - "scripts/tests/test_translation_check.py"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  translations:
+    name: Three-language coverage and financial figures
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Test translation checker
+        run: python3 -m unittest discover -s scripts/tests -p 'test_translation_check.py' -v
+      - name: Check all chapters and required figures
+        run: python3 scripts/translation_check.py
