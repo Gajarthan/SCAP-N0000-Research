@@ -6,6 +6,15 @@
 
 [தமிழ்](../ta/README.md) · [සිංහල](README.md) · [English](../en/README.md)
 
+## 🧭 ප්‍රධාන විශ්ලේෂණ අංශ දෙක
+
+| අංශය | අන්තර්ගතය |
+|---|---|
+| **[01 — මූලික විශ්ලේෂණය](01-Fundamental-Analysis/README.md)** | ව්‍යාපාරය, මූල්‍ය, valuation සහ අවදානම් ඇතුළු **සිංහල මාර්ගෝපදේශ 15ක්** |
+| **[02 — තාක්ෂණික විශ්ලේෂණය](02-Technical-Analysis/README.md)** | මිල, ප්‍රවණතා, volume සහ දර්ශක ඇතුළු **සිංහල මාර්ගෝපදේශ 5ක්** |
+
+සෑම ලේඛනයකම පරීක්ෂණ ප්‍රශ්න, checklist, Mermaid සටහන, SCAP සඳහා කාර්යය සහ මූලාශ්‍ර වගුව ඇත. [English](../en/README.md) · [தமிழ்](../ta/README.md). **මෙය පර්යේෂණ රාමුවක් පමණි; වත්මන් මිල ඇගයීමක් නොවේ.**
+
 ## 📊 දෘශ්‍ය පර්යේෂණ වාර්තා (Mermaid)
 
 **[සිංහල දෘශ්‍ය ප්‍රධාන වාර්තාව](reports/README.md)** · [ව්‍යාපාර සිතියම](reports/business-model.md) · [මූල්‍ය ප්‍රස්තාර](reports/financial-pulse.md) · [අවදානම් සිතියම](reports/risk-map.md) · [පර්යේෂණ සැලැස්ම](reports/research-roadmap.md).

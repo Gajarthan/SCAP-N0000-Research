@@ -1,4 +1,4 @@
-# 06 · பேரினப் பொருளாதாரப் பகுப்பாய்வு
+# 06 · பேரியல் பொருளாதாரப் பகுப்பாய்வு
 
 [← அடிப்படைப் பகுப்பாய்வு](../README.md) · [English](../../../01-Fundamental-Analysis/06-Macroeconomics/README.md) · [தமிழ்](README.md) · [සිංහල](../../../si/01-Fundamental-Analysis/06-Macroeconomics/README.md)
 

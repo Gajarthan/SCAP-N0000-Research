@@ -10,6 +10,15 @@ An evolving, public, **evidence-first** research notebook. The scope is delibera
 
 > **Research status (30 September 2026): preliminary.** Descriptions of businesses are based on issuer sources. The current SCAP annual and interim reports, ownership stakes, parent-attributable profit, recent announcements and market price have **not yet** been reconciled. Nothing here is a buy/sell recommendation.
 
+## 🧭 Two principal research branches
+
+| Branch | Coverage | Read in your language |
+|---|---|---|
+| **[01 — Fundamental Analysis](01-Fundamental-Analysis/README.md)** | **15 guides**: business, financial statements, valuation, governance, risk, dividends and more | [தமிழ்](ta/01-Fundamental-Analysis/README.md) · [සිංහල](si/01-Fundamental-Analysis/README.md) |
+| **[02 — Technical Analysis](02-Technical-Analysis/README.md)** | **5 guides**: price action, momentum, liquidity, chart rules and quantitative/sentiment research | [தமிழ்](ta/02-Technical-Analysis/README.md) · [සිංහල](si/02-Technical-Analysis/README.md) |
+
+Each of the **20 topics** has a complete English, Tamil and Sinhala `README.md`, an editable Mermaid research diagram, a concrete SCAP-specific research task and an evidence-recording table. **Earlier source notes and visual reports remain available below.** Portfolio-wide allocation and risk are cross-cutting considerations, not a third company-analysis branch.
+
 ## 📊 Visual research reports
 
 **[Open the visual dashboard](reports/README.md)** — editable Mermaid diagrams, financial charts, business-exposure maps, risk dependencies, and an evidence-driven research roadmap.

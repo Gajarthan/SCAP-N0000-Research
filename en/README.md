@@ -2,6 +2,13 @@
 
 [தமிழ்](../ta/README.md) · [සිංහල](../si/README.md) · [English](README.md)
 
+## 🧭 Two research branches
+
+- **[Fundamental Analysis — 15 topics](../01-Fundamental-Analysis/README.md)**
+- **[Technical Analysis — 5 topics](../02-Technical-Analysis/README.md)**
+
+Every topic has matching [Tamil](../ta/README.md) and [Sinhala](../si/README.md) documentation; these are research workflows, not verified current stock forecasts.
+
 ## 📊 Visual research reports
 
 [**Open the English visual dashboard**](../reports/README.md) · [Financial charts](../reports/financial-pulse.md) · [Business map](../reports/business-model.md) · [Risk map](../reports/risk-map.md) · [Research roadmap](../reports/research-roadmap.md)
