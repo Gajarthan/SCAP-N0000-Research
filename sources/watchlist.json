@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "issuer": "Softlogic Capital PLC",
+  "ticker": "SCAP.N0000",
+  "cse_issuer_id": "1100",
+  "poll": "daily 03:43 UTC (09:13 Asia/Colombo)",
+  "indexes": [
+    {
+      "name": "SCAP issuer annual reports",
+      "url": "https://softlogiccapital.lk/financials/"
+    },
+    {
+      "name": "SCAP issuer quarterly reports",
+      "url": "https://softlogiccapital.lk/quarterly-data/"
+    },
+    {
+      "name": "CSE SCAP company profile",
+      "url": "https://www.cse.lk/pages/company-profile/company-profile.component.html?symbol=SCAP.N0000"
+    },
+    {
+      "name": "SCAP catalog (discovery only)",
+      "url": "https://nanayojana.com/company/SCAP.N0000?document_type=annual_report&year=2026"
+    }
+  ],
+  "rules": "Only accessible, new SCAP issuer-1100 or softlogiccapital.lk PDF URLs with 2026-or-newer context trigger review Issues. No index HTML or third-party numbers are considered audited evidence."
+}
