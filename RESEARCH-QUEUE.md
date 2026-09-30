@@ -1,5 +1,11 @@
 # SCAP Research Coverage & Fill Queue
 
+## Sources stored alongside research
+
+**[Source register with 11 durable evidence cards](sources/SOURCE-REGISTER.md)** is active. Original PDFs are externally linked, **not** currently copied into GitHub. On each hourly run, save source metadata and facts in `sources/records/`, link reports and all language source lists, and mirror intact binaries in `sources/documents/` only if licensed and technically feasible. The source record must show exact path and checksum when mirrored.
+
+
+
 [← Repository](README.md) · **English** · [தமிழ்](ta/RESEARCH-QUEUE.md) · [සිංහල](si/RESEARCH-QUEUE.md)
 
 > **Audit date: 30 September 2026.** This is the maintenance tracker for all **20 research topics × 3 languages = 60 core guides**. It records *document completion*, not investment merit. Existing business and financial research is substantial but still requires a final-audit refresh; the other 18 topics are mainly generic templates. The repository is public.

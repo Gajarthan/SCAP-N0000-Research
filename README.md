@@ -1,5 +1,7 @@
 # SCAP.N0000 — Investment Research
 
+**[📚 Stored source records](sources/SOURCE-REGISTER.md)** — 11 stable-ID evidence files; full original PDFs remain externally linked, not mirrored.
+
 **[📋 Research coverage & scheduled fill queue — 20 topics / 3 languages](RESEARCH-QUEUE.md)**
 
 **[📈 Financial Statement Analysis — 12 sourced charts, audited FY2025 vs interim FY2026](01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md)** ([தமிழ்](ta/01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md) · [සිංහල](si/01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md)).

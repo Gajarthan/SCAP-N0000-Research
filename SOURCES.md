@@ -1,5 +1,13 @@
 # Sources and provenance
 
+## Source provenance records stored in this repository
+
+**[Stable-ID source register](sources/SOURCE-REGISTER.md)** · [Source archive guide](sources/README.md).
+
+The repository now stores **11 original-source citation records** containing original URLs, reporting periods, issuer identity, page references, previously documented findings and unresolved checks. These are **Markdown source records, not rehosted original PDF files**. The hourly research task will grow this archive, and will only mark PDF binaries archived if public redistribution and GitHub upload are confirmed.
+
+
+
 ## New primary source — SCAP FY2026 interim filing (30 September 2026 review)
 
 **[SCAP's original 20-page CSE filing — interim financial statements for year ended 31 March 2026, board-approved 27 May 2026](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).** Direct issuer primary source. **2026 figures are subject to audit unless stated otherwise**; FY2025 comparative columns are labelled audited. Use the PDF's numbered pages (e.g. p. 2 = group income, p. 3 = company-only income, p. 6 = group/company balance sheets, p. 10 = segment note, pp. 15–16 = SCAP shareholdings, p. 17 = related parties, p. 19 = subsidiary ownership). [Filled English business analysis](01-Fundamental-Analysis/01-Business-Analysis/README.md).
