@@ -1,5 +1,15 @@
 # පර්යේෂණ සටහන් — SCAP.N0000
 
+## 2026-09-30 — භාෂා තුනෙන් මූල්‍ය ප්‍රකාශන විශ්ලේෂණය සහ දෘශ්‍ය සටහන් 12ක්
+
+**නව ලේඛන:** [සිංහල මූල්‍ය විශ්ලේෂණය](01-Fundamental-Analysis/02-Financial-Statements/README.md) සහ [Mermaid දෘශ්‍ය සටහන් 12](01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md), [English](../01-Fundamental-Analysis/02-Financial-Statements/README.md) සහ [தமிழ்](../ta/01-Fundamental-Analysis/02-Financial-Statements/README.md). Group, minority, SCAP ordinary holders හා මව් standalone ආදායම්/ණය/cash වෙන වෙනම සලකයි.
+
+**මුල් සාක්ෂි:** [SCAP FY2025 audited report](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) හි EY unmodified මතය, key audit matters 4ක් (insurance liabilities, IT controls, ECL, borrowings), ලාභ පි.63, equity පි.65–66, cash flow පි.69–70 පරීක්ෂා කළෙමු. PDF screenshot සේවාව අසාර්ථක වූ නිසා රූප පරීක්ෂාව සාර්ථක වූ බව නොකියමු.
+
+**FY2026 සීමාව:** [2026 මැයි 27 අතුරු වාර්තාව](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) **විගණනයට යටත්**; අගයන් පෙර repository පරීක්ෂාවෙන් ගෙන ඇත. මෙවර මුල් PDF නැවත විවෘත කළ නොහැකි විය. FY2026 අවසන් audited සහ 2026 ජූනි මුල් SCAP ගොනු තවමත් ගළපා නැත.
+
+**FY2025 audited (LKR mn):** Group income **42,383.72**, Group PAT **+1,694.15**, SCAP owners PAT **−280.42**; මව් CFO **−4,605.10**, Group CFO **+427.54**; මව් ණය **14,797.33**, cash **27.89**, consolidated owners equity **−2,440.85**. Third-party 2025 normalized revenue **39,794** වෙනස් අර්ථකථනයකි; විසඳිය යුතුය.
+
 ## 2026-09-30 — ව්‍යාපාර දෘශ්‍ය වාර්තා 15ක් සහ අංශ ආදායම් නිවැරදි කිරීම
 
 **වාර්තා:** [සිංහල දත්ත සහිත Mermaid දෘශ්‍ය වාර්තා 15ක්](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [English](../01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [தமிழ்](../ta/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md). හිමිකාරීත්වය, ආදායම් මාර්ග, segment profit, මව් මුදල්, ඉතිහාසය, රක්ෂණ ගනුදෙනුකරුවන්, distribution, වෙළෙඳපොළ කොටස, related parties, නියාමනය සහ සාක්ෂි-පාදක සීමා සටහන් කර ඇත.
