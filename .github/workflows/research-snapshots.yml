@@ -1,0 +1,42 @@
+name: Daily SCAP research snapshot
+
+on:
+  schedule:
+    - cron: "47 18 * * *" # 00:17 Asia/Colombo next calendar day
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/research_snapshot.py"
+      - "scripts/tests/test_research_snapshot.py"
+      - ".github/workflows/research-snapshots.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: scap-daily-research-snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    name: Date-stamped research download
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Check arithmetic before snapshot
+        run: python3 scripts/financial_check.py
+      - name: Test snapshot generator
+        run: python3 -m unittest discover -s scripts/tests -p 'test_research_snapshot.py' -v
+      - name: Generate Markdown JSON and CSV downloads
+        run: python3 scripts/research_snapshot.py --output out/research-snapshot
+      - name: Upload dated research files
+        uses: actions/upload-artifact@v4
+        with:
+          name: scap-research-snapshot-${{ github.run_id }}
+          path: out/research-snapshot/
+          if-no-files-found: error
+          retention-days: 90
