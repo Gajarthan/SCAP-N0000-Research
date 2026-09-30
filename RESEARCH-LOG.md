@@ -80,3 +80,9 @@ Completed a full **three-language** shareholding quantitative addendum using alr
 ## 2026-09-30 — Holdings annual-report cross-check of SCAP business/restructuring
 
 Added primary CSE **Softlogic Holdings PLC FY2025/26 annual report p.56** as a new evidence record, without misclassifying it as SCAP's own audit. It corroborates rounded SCAP Company operating income **LKR 1.5bn**, reports Company assets **LKR 28.1bn vs 21.2bn**, and confirms the SR One asset-transfer restructuring context. It separately reports Holdings Financial Services sector **revenue 42.5bn, operating profit 5.5bn, PAT 3.7bn**; these are explicitly kept separate from SCAP Group **51.31bn revenue / 3.371bn PAT / 0.974bn owners' PAT** because consolidation perimeters differ. English/Tamil/Sinhala Business Analysis and all source indexes updated. SCAP issuer-1100 signed FY2026 audit and June original remain OPEN.
+
+
+## 2026-10-01 — Parent liquidity bridge
+- Reconciled SCAP standalone parent FY2025 audited borrowings/cash against FY2026 year-end interim: borrowings 14,797.33m → 17,324.26m (+2,526.93m / +17.08%); cash 27.89m → 32.07m; mechanical borrowings-less-cash 14,769.44m → 17,292.19m.
+- Separated FY2025 cash-flow evidence (3,273.55m dividends received; 2,549.88m interest paid; 1.28× historical ratio) from FY2026 accrual income/expense (635.18m / 1,810.84m; 0.35× mechanical ratio). Explicitly prohibited treating 0.35× as FY2026 cash debt-service coverage.
+- Updated Risk chapter in English, Tamil and Sinhala. No new source ID: calculations use existing SCAP-AR-2025 and SCAP-FY2026-YE-INTERIM records. Signed FY2026 audit, June original, CP maturities/covenants, standalone FY2026 cash flow and current collateral releases remain OPEN.

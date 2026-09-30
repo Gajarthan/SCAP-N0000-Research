@@ -64,3 +64,22 @@ flowchart LR
 [Primary sources](../../sources/SOURCE-REGISTER.md) · [Research queue](../../RESEARCH-QUEUE.md)
 
 This is evidence-based financial research, not a buy/sell recommendation.
+
+## FY2025 → FY2026 parent liquidity bridge (1 Oct 2026)
+
+This bridge deliberately compares the **SCAP standalone parent**, not the consolidated Group. FY2025 is audited; FY2026 remains the 27 May 2026 year-end interim and is **subject to audit**.
+
+| Parent metric | FY2025 audited | FY2026 interim | Change / interpretation |
+|---|---:|---:|---|
+| Interest-bearing borrowings (LKR mn) | 14,797.33 | 17,324.26 | **+2,526.93 / +17.08%** |
+| Cash and bank (LKR mn) | 27.89 | 32.07 | +4.18 |
+| Borrowings less cash (mechanical, LKR mn) | 14,769.44 | 17,292.19 | **+2,522.75 / +17.08%** |
+| Gross debt / cash | 530.56× | 540.20× | liquidity-warning indicator only; **not** a covenant ratio |
+
+The calculation does **not** establish insolvency, default or covenant breach. It shows that the parent entered the FY2026 year-end interim with materially more interest-bearing borrowing while reported cash remained small relative to borrowing. The FY2026 signed audit, debt maturity schedule and covenant definitions remain OPEN. [SCAP-AR-2025](../../sources/records/SCAP-AR-2025.md) · [SCAP-FY2026-YE-INTERIM](../../sources/records/SCAP-FY2026-YE-INTERIM.md).
+
+### Cash evidence must not be mixed with accrual income
+
+Audited FY2025 parent cash flow records **3,273.55m dividends received** and **2,549.88m interest paid**, a historical cash-receipt/interest-paid ratio of **1.28×**. The FY2026 interim instead reports **635.18m dividend income** and **1,810.84m interest expense**, mechanically **0.35×**. These ratios are **not like-for-like**: the first uses cash-flow lines, the second income-statement accrual lines. Therefore 0.35× must **not** be described as FY2026 cash debt-service coverage. A FY2026 standalone cash-flow statement is required before making that claim.
+
+**Diligence conclusion:** refinancing and subsidiary cash-upstream capacity remain material parent-level risks because FY2025 audited operating cash flow was **−4,605.10m**, FY2025 going-concern disclosure referenced subsidiary dividends and new commercial paper for servicing, and FY2026 interim parent borrowing increased 17.08%. This is a risk flag, not proof of payment failure. Next evidence required: signed FY2026 audit; parent CP tranche maturities/rates/covenants; FY2026 standalone cash flow; and current NDB/DFCC Life-share collateral-release status.

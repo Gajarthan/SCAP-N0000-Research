@@ -64,3 +64,22 @@ flowchart LR
 [මුල් මූලාශ්‍ර](../../../sources/SOURCE-REGISTER.md) · [පර්යේෂණ ප්‍රගතිය](../../../si/RESEARCH-QUEUE.md)
 
 මෙය මූල්‍ය සාක්ෂි පර්යේෂණයක් වන අතර කොටස් මිලදී/විකිණීමේ නිර්දේශයක් නොවේ.
+
+## FY2025 → FY2026 මව් සමාගම් liquidity bridge (2026-10-01)
+
+මෙම සැසඳීම **SCAP standalone parent** පමණක් භාවිතා කරයි; Group අගයන් මිශ්‍ර නොකරයි. FY2025 audited වන අතර FY2026 යනු 2026-05-27 year-end interim එකක් සහ තවමත් **subject to audit** ය.
+
+| Parent මිනුම | FY2025 audited | FY2026 interim | වෙනස / අර්ථය |
+|---|---:|---:|---|
+| Interest-bearing borrowings (LKR mn) | 14,797.33 | 17,324.26 | **+2,526.93 / +17.08%** |
+| Cash and bank (LKR mn) | 27.89 | 32.07 | +4.18 |
+| Borrowings less cash (mechanical, LKR mn) | 14,769.44 | 17,292.19 | **+2,522.75 / +17.08%** |
+| Gross debt / cash | 530.56× | 540.20× | liquidity warning එකක් පමණි; **covenant ratio නොවේ** |
+
+මෙය insolvency, default හෝ covenant breach සනාථ නොකරයි. Parent borrowing සැලකිය යුතු ලෙස ඉහළ ගිය අතර cash ණයට සාපේක්ෂව ඉතා කුඩා බව පෙන්වයි. FY2026 signed audit, maturity schedule සහ covenant definitions තවම OPEN. [SCAP-AR-2025](../../../sources/records/SCAP-AR-2025.md) · [SCAP-FY2026-YE-INTERIM](../../../sources/records/SCAP-FY2026-YE-INTERIM.md).
+
+### Cash flow සහ accrual income එකම දෙයක් නොවේ
+
+FY2025 audited parent cash flow හි **3,273.55m dividends received** සහ **2,549.88m interest paid** ඇත; historical cash ratio **1.28×**. FY2026 interim income statement හි **635.18m dividend income** සහ **1,810.84m interest expense** ඇත; mechanical ratio **0.35×**. මේවා like-for-like නොවේ: පළමුවැන්න cash-flow lines, දෙවැන්න accrual income-statement lines. එබැවින් 0.35× FY2026 cash debt-service coverage ලෙස නම් කළ නොහැක. ඒ සඳහා FY2026 standalone cash-flow statement අවශ්‍යය.
+
+**පර්යේෂණ නිගමනය:** FY2025 operating cash flow **−4,605.10m**, subsidiary dividends/new commercial paper පිළිබඳ going-concern disclosure සහ FY2026 interim parent borrowing +17.08% නිසා refinancing සහ subsidiary cash-upstream capacity වැදගත් parent-level අවදානම්ය. මෙය payment failure සනාථ කිරීමක් නොවේ. ඊළඟ සාක්ෂි: signed FY2026 audit; CP tranche maturity/rate/covenant; FY2026 standalone cash flow; NDB/DFCC Life-share collateral release.

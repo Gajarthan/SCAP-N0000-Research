@@ -64,3 +64,22 @@ flowchart LR
 [மூல அறிக்கைகள்](../../../sources/SOURCE-REGISTER.md) · [ஆய்வு முன்னேற்றம்](../../../ta/RESEARCH-QUEUE.md)
 
 இது நிதித் தகவல் ஆய்வு; பங்குகளை வாங்க/விற்க பரிந்துரை அல்ல.
+
+## FY2025 → FY2026 தாய் நிறுவன liquidity bridge (01-10-2026)
+
+இந்த ஒப்பீடு **SCAP தனி தாய் நிறுவனத்தை** மட்டுமே பயன்படுத்துகிறது; Group எண்கள் சேர்க்கப்படவில்லை. FY2025 audited; FY2026 என்பது 27-05-2026 year-end interim, இன்னும் **subject to audit**.
+
+| Parent அளவுகோல் | FY2025 audited | FY2026 interim | மாற்றம் / பொருள் |
+|---|---:|---:|---|
+| வட்டியுள்ள கடன் (LKR mn) | 14,797.33 | 17,324.26 | **+2,526.93 / +17.08%** |
+| Cash and bank (LKR mn) | 27.89 | 32.07 | +4.18 |
+| கடன் கழித்து cash (mechanical, LKR mn) | 14,769.44 | 17,292.19 | **+2,522.75 / +17.08%** |
+| Gross debt / cash | 530.56× | 540.20× | liquidity warning மட்டும்; **covenant ratio அல்ல** |
+
+இது insolvency, default அல்லது covenant breach-ஐ நிரூபிக்கவில்லை. Parent borrowing கணிசமாக உயர்ந்தபோதும் cash மிகவும் குறைவாக இருந்ததை மட்டும் காட்டுகிறது. FY2026 signed audit, maturity schedule, covenant definitions இன்னும் OPEN. [SCAP-AR-2025](../../../sources/records/SCAP-AR-2025.md) · [SCAP-FY2026-YE-INTERIM](../../../sources/records/SCAP-FY2026-YE-INTERIM.md).
+
+### Cash flow மற்றும் accrual income ஒன்றாகக் கருதக்கூடாது
+
+FY2025 audited parent cash flow-ல் **3,273.55m dividend received** மற்றும் **2,549.88m interest paid**; வரலாற்று cash ratio **1.28×**. FY2026 interim income statement-ல் **635.18m dividend income**, **1,810.84m interest expense**; mechanical ratio **0.35×**. இவை like-for-like அல்ல: முதலாவது cash-flow வரிகள்; இரண்டாவது accrual income-statement வரிகள். ஆகவே 0.35×-ஐ FY2026 cash debt-service coverage என்று அழைக்கக் கூடாது. அதற்கு FY2026 standalone cash-flow statement தேவை.
+
+**ஆய்வு முடிவு:** FY2025 operating cash flow **−4,605.10m**, subsidiary dividends/new commercial paper பற்றிய going-concern disclosure, மற்றும் FY2026 interim parent borrowing +17.08% என்பதால் refinancing மற்றும் subsidiary cash upstream capacity முக்கிய parent-level risk. இது payment failure-ன் ஆதாரம் அல்ல. அடுத்த ஆதாரங்கள்: signed FY2026 audit; CP tranche maturity/rate/covenant; FY2026 standalone cash flow; NDB/DFCC Life-share collateral release.

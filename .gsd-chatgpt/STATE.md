@@ -51,3 +51,10 @@ Added a multilingual homepage **Source trust & verification** panel, distinguish
 - **Targeted original search:** still did not retrieve signed SCAP issuer-1100 FY2026 audit or SCAP June original. Found a distinct later primary: Softlogic Holdings issuer-1075 FY2025/26 annual report p.56.
 - **Substantive Business Analysis result:** later Holdings primary corroborates rounded SCAP Company operating income **LKR 1.5bn**, reports assets **LKR 28.1bn vs 21.2bn**, and confirms SR One asset-transfer restructuring. Holdings Financial Services **42.5bn revenue / 5.5bn operating profit / 3.7bn PAT** are explicitly separated from SCAP Group **51.31bn / 3.371bn / owners 0.974bn** because the consolidation scopes differ.
 - **Status:** Business Analysis remains PARTIAL; no audit status upgraded. One new source card added; external original only. Next: reconcile exact final SCAP assets/borrowings/equity and June quarter from issuer-1100 originals when retrievable; otherwise use later primary subsidiary filings for debt/capital evidence.
+
+
+## GSD substantive slice — 2026-10-01: parent liquidity bridge
+- Added a trilingual SCAP standalone-parent liquidity reconciliation using existing primary evidence: FY2025 audited vs FY2026 year-end interim.
+- Parent borrowings: 14,797.33m → 17,324.26m (+17.08%); cash: 27.89m → 32.07m; mechanical borrowings-less-cash: 14,769.44m → 17,292.19m.
+- Preserved accounting discipline: FY2025 dividend cash received/interest cash paid (1.28×) is not directly comparable with FY2026 dividend income/interest expense (0.35× mechanical). FY2026 cash debt-service coverage remains OPEN pending standalone cash flow.
+- Risk remains PARTIAL, not FILLED. No insolvency/default/covenant-breach claim. Next: signed FY2026 audit, June original, CP maturity/rate/covenant detail and current collateral-release evidence.
