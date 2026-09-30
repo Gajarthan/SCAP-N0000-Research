@@ -1,5 +1,15 @@
 # Research log — SCAP.N0000
 
+## 30 Sep 2026 — Published 15 Business Analysis visuals and corrected an inconsistent segment number
+
+**Report:** [15-source-labelled Business Analysis visuals](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [Tamil](ta/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [Sinhala](si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md). Every language report includes ownership, business model, segments, profit attribution, parent cash pathway, timeline, insurer customer and distribution figures, market share, related-party income, regulators and an evidence-balanced opportunity/constraint view.
+
+**Correction:** An earlier report incorrectly transcribed FY2026 “Other” segment revenue as **LKR 4,019.94 million**. Insurance **48,425.96** + finance **1,384.78** + the earlier Other figure − eliminations **1,260.09** did not match published group revenue **51,310.49**. The **derived reconciling amount is LKR 2,759.84 million** and is consistent with [StockAnalysis's “Other” figure rounded to 2,760 million](https://stockanalysis.com/quote/cose/SCAP.N0000/financials/). Its **precise original CSE segment-line transcription remains OPEN** because the original PDF line could not be re-opened in this pass. Treat this as a documented derived cross-check, not an independently reread audited number.
+
+**Additional calendar-2025 insurer data:** [Softlogic Life issuer news](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/) reports GWP **LKR 40.1bn**, **18.4% insurer GWP market share**, **1.3m lives**, and **LKR 19.4bn claims/benefits**; the [2025 insurer annual report](https://softlogiclife.lk/wp-content/uploads/sites/3/2026/04/Softlogic-Life-Integrated-Annual-Report-2025-3.pdf) lists **880,706 policies in force** and **88.7% retention**. The insurer has a **December 2025** year-end, not SCAP's March 2026 group period.
+
+**Still OPEN:** SCAP fully audited FY2025/26 annual and June 2026 original quarter, exact contemporary broker/asset-management interests, parent cash-upstream mechanics, independent peer comparisons. Mermaid syntax and repository links were validated statically; live GitHub-browser visual inspection could not be completed.
+
 ## 30 Sep 2026 — Original SCAP financial statement reconciliation
 
 **Source reviewed:** [SCAP original CSE interim statement approved 27 May 2026](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf), FY ended 31 Mar 2026. **2026 figures subject to audit; FY25 comparatives audited.** The [English business analysis](01-Fundamental-Analysis/01-Business-Analysis/README.md) has been filled with page-specific evidence and matched in Tamil and Sinhala.

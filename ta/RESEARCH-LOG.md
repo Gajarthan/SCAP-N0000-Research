@@ -1,5 +1,15 @@
 # ஆய்வு மாற்றப் பதிவு — SCAP.N0000
 
+## 30-09-2026 — 15 வணிகக் காட்சிகள் மற்றும் பிரிவு வருமானத் திருத்தம்
+
+**அறிக்கை:** [தமிழில் 15 தரவு சார்ந்த Mermaid காட்சிகள்](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [English](../01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [සිංහල](../si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md). உரிமைப் பங்கு, வணிக மாதிரி, வருமானம், இலாபம், தாய் நிறுவனப் பணப் பாதை, வரலாறு, காப்பீட்டு வாடிக்கையாளர்கள், சேவை இடங்கள், சந்தைப் பங்கு, related-party, ஒழுங்குமுறை மற்றும் வாய்ப்பு/கட்டுப்பாடு ஆகியவை ஆதாரத்துடன் பதிவு செய்யப்பட்டுள்ளன.
+
+**திருத்தம்:** பழைய FY2026 Other segment வருமானம் **LKR 4,019.94mn** என்று தவறாகப் பதிவாகியிருந்தது; இது group revenue **51,310.49mn** உடன் பொருந்தவில்லை. காப்பீடு **48,425.96**, finance **1,384.78**, eliminations **−1,260.09** என்ற பதிவுகளிலிருந்து கணக்கிட்ட இதர வருமானம் **LKR 2,759.84mn**; [மூன்றாம் தரப்பு](https://stockanalysis.com/quote/cose/SCAP.N0000/financials/) அதை சுமார் **2,760mn** எனக் காட்டுகிறது. **அசல் CSE segment PDF வரியில் துல்லியமான தொகையை மீண்டும் உறுதி செய்யவில்லை**; இது கணக்கிட்ட தொகை எனக் குறிக்கப்பட்டுள்ளது.
+
+**காப்பீட்டின் வேறு நிதியாண்டு:** [Life நிறுவனம் 2025 செய்தி](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/) **GWP LKR 40.1bn**, காப்பீட்டுச் சந்தைப் பங்கு **18.4%**, **1.3m மக்கள்**, claims/benefits **LKR 19.4bn** எனக் கூறுகிறது. [Life ஆண்டு அறிக்கை](https://softlogiclife.lk/wp-content/uploads/sites/3/2026/04/Softlogic-Life-Integrated-Annual-Report-2025-3.pdf) **880,706 செயல்பாட்டு பாலிசிகள்**, **88.7% retention** எனப் பதிவு செய்கிறது. Life ஆண்டு **2025 டிசம்பர்** முடிகிறது; SCAP நிதியாண்டு **2026 மார்ச்** முடிகிறது.
+
+**இன்னும் தேவை:** SCAP FY2026 இறுதி audited அறிக்கை, 2026 ஜூன் அசல் ஆவணம், தற்போதைய பங்குரிமை, parent cash flow, போட்டியாளர் ஒப்பீடு. Mermaid மற்றும் link code சரிபார்க்கப்பட்டது; browser render முழுமையாகப் பார்க்க முடியவில்லை.
+
 ## 30-09-2026 — SCAP அசல் CSE அறிக்கை அடிப்படையில் ஆய்வு
 
 **[SCAP 27 மே 2026 இடைக்கால CSE நிதி அறிக்கை](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf)** ஆய்வு செய்யப்பட்டது. FY2026 எண்கள் **தணிக்கைக்கு உட்பட்டவை**; FY2025 ஒப்பீடுகள் Audited எனக் குறிக்கப்பட்டுள்ளன. [தமிழ் நிரப்பப்பட்ட வணிக ஆய்வு](01-Fundamental-Analysis/01-Business-Analysis/README.md).

@@ -1,5 +1,15 @@
 # පර්යේෂණ සටහන් — SCAP.N0000
 
+## 2026-09-30 — ව්‍යාපාර දෘශ්‍ය වාර්තා 15ක් සහ අංශ ආදායම් නිවැරදි කිරීම
+
+**වාර්තා:** [සිංහල දත්ත සහිත Mermaid දෘශ්‍ය වාර්තා 15ක්](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [English](../01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [தமிழ்](../ta/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md). හිමිකාරීත්වය, ආදායම් මාර්ග, segment profit, මව් මුදල්, ඉතිහාසය, රක්ෂණ ගනුදෙනුකරුවන්, distribution, වෙළෙඳපොළ කොටස, related parties, නියාමනය සහ සාක්ෂි-පාදක සීමා සටහන් කර ඇත.
+
+**නිවැරදි කිරීම:** පෙර FY2026 Other segment ආදායම **LKR 4,019.94mn** ලෙස වැරදිව දක්වා තිබුණි; සමූහ ආදායම **51,310.49mn** සමඟ නොගැළපුණි. රක්ෂණ **48,425.96**, finance **1,384.78**, eliminations **−1,260.09** අගයන් අනුව **ගණනය කළ Other අගය 2,759.84mn** යි; [ද්විතීයික දත්ත](https://stockanalysis.com/quote/cose/SCAP.N0000/financials/) 2,760mn ලෙස වටකර දක්වයි. **මුල් CSE segment PDF පේළියේ නිශ්චිත අගය නැවත පරීක්ෂා කර නැත**; මෙය ගණනය කළ අගයක් බවට ලකුණු කර ඇත.
+
+**වෙනම calendar-2025 රක්ෂණ දත්ත:** [Life නිකුත්කරු ප්‍රකාශය](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/) අනුව **GWP LKR 40.1bn**, insurer GWP වෙළෙඳපොළ කොටස **18.4%**, ආවරණය වන ජනතාව **මිලියන 1.3**, ගෙවූ claims/benefits **LKR 19.4bn** යි. [Life 2025 වාර්තාව](https://softlogiclife.lk/wp-content/uploads/sites/3/2026/04/Softlogic-Life-Integrated-Annual-Report-2025-3.pdf) **880,706 ක්‍රියාත්මක policies** සහ **88.7% retention** දක්වයි. Life වර්ෂය **2025 දෙසැම්බර්**, SCAP සමූහ වර්ෂය **2026 මාර්තු** අවසන් වේ.
+
+**තව අවශ්‍යයි:** SCAP අවසන් FY2026 audited ගොනුව, 2026 ජූනි මුල් interim, වත්මන් අනුබද්ධ අයිතිය, මව් cash upstream සහ සැසඳිය හැකි peers. Mermaid syntax හා Markdown links static පරීක්ෂාවෙන් සමත් විය; browser rendering පූර්ණ ලෙස බලන්න නොහැකි විය.
+
 ## 2026-09-30 — SCAP මුල් CSE ප්‍රකාශනයේ ව්‍යාපාර පරීක්ෂාව
 
 **[2026 මැයි 27 SCAP මුල් CSE අතුරු මූල්‍ය ගොනුව](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf)** පරීක්ෂා කරන ලදී. FY2026 අගයන් **විගණනයට යටත්වේ**, FY2025 සංසන්දන Audited ලෙස දක්වයි. [සිංහල සම්පූර්ණ කළ ව්‍යාපාර විශ්ලේෂණය](01-Fundamental-Analysis/01-Business-Analysis/README.md).
