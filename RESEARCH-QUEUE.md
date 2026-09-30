@@ -106,3 +106,7 @@ Fresh searches of the [SCAP issuer annual index](https://softlogiccapital.lk/fin
 ### 2026-09-30 — Shareholding substantial reconciliation slice
 
 [English shareholding bridge](01-Fundamental-Analysis/10-Shareholding/README.md) compares **81,049,704** FY2025 historical pledged Life shares with **158,714,972** June 2026 Life shares (cross-date **51.07%**, not current pledge status) and computes conditional Life gross dividend **LKR 841.189m** at LKR 5.30/share. Matched Tamil/Sinhala chapters and source records. **Shareholding remains PARTIAL**, no extra FILLED topic; SCAP receipt, charges and FY2026 original audited documents OPEN.
+
+### 2026-09-30 — Business Analysis later-primary cross-check
+
+New primary **Softlogic Holdings FY2025/26 annual report p.56** corroborates SCAP Company operating income at rounded **LKR 1.5bn**, reports assets **28.1bn vs 21.2bn**, and confirms SR One restructuring context. Holdings-sector **42.5bn revenue / 5.5bn operating profit / 3.7bn PAT** are explicitly different scope from SCAP Group. Business Analysis remains **PARTIAL**: issuer-1100 signed audit, exact final SCAP balance sheet and June original remain OPEN.

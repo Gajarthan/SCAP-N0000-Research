@@ -43,3 +43,11 @@
 ## Website trust transparency — 2026-09-30
 
 Added a multilingual homepage **Source trust & verification** panel, distinguishing historical FY2025 audited issuer evidence, FY2026 subject-to-audit interim, the missing signed FY2026 and June 2026 SCAP originals, and current topic completion (9 PARTIAL / 11 pending / 0 FILLED). Explicitly **NOT YET SCORED**: no arbitrary numerical confidence score is assigned to incomplete original verification. Links point to the registered sources, research queue and evidence standards. No financial results changed; no workflow changes. Next: develop a reproducible, per-claim verification rubric before publishing a numerical score.
+
+## GSD substantive slice — 2026-09-30: Holdings annual-report SCAP cross-check
+
+- **Skill note:** installed-skill discovery returned no skills in this runtime, so the repository's existing GSD plan/state/decisions were followed directly; no guessed skill URI used.
+- **Inspected main:** `879817687b9b56305672f7e5ec79f0cc00d7de92`; open PRs zero; website and research validation for that SHA completed/success.
+- **Targeted original search:** still did not retrieve signed SCAP issuer-1100 FY2026 audit or SCAP June original. Found a distinct later primary: Softlogic Holdings issuer-1075 FY2025/26 annual report p.56.
+- **Substantive Business Analysis result:** later Holdings primary corroborates rounded SCAP Company operating income **LKR 1.5bn**, reports assets **LKR 28.1bn vs 21.2bn**, and confirms SR One asset-transfer restructuring. Holdings Financial Services **42.5bn revenue / 5.5bn operating profit / 3.7bn PAT** are explicitly separated from SCAP Group **51.31bn / 3.371bn / owners 0.974bn** because the consolidation scopes differ.
+- **Status:** Business Analysis remains PARTIAL; no audit status upgraded. One new source card added; external original only. Next: reconcile exact final SCAP assets/borrowings/equity and June quarter from issuer-1100 originals when retrievable; otherwise use later primary subsidiary filings for debt/capital evidence.

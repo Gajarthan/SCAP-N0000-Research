@@ -104,3 +104,7 @@ ChatGPT task ஒவ்வொரு முறையும் இந்த மு�
 ### 2026-09-30 — பங்குரிமை கணக்குப் பாலம்
 
 [தமிழ் ஆய்வு](01-Fundamental-Analysis/10-Shareholding/README.md): FY2025 அடமானம் **81,049,704** பங்குகள், 2026 ஜூன் Life உரிமை **158,714,972**, வேறு தேதிகளின் விகிதம் **51.07%**; நிபந்தனை மொத்த ஈவுத்தொகை **LKR 841.189m**. தற்போதைய அடமானம்/SCAP பணவரவு தெரியாது. **PARTIAL** தொடர்கிறது; FILLED உயர்வு இல்லை.
+
+### 2026-09-30 — Business Analysis பின்னைய primary cross-check
+
+Softlogic Holdings FY2025/26 ஆண்டு அறிக்கை ப.56: SCAP Company operating income **LKR 1.5bn**, assets **28.1bn vs 21.2bn**, SR One restructuring. Holdings sector **42.5bn / 5.5bn / 3.7bn** SCAP Group-க்கு வேறு scope. Business Analysis **PARTIAL**; SCAP issuer-1100 signed audit மற்றும் June original இன்னும் OPEN.

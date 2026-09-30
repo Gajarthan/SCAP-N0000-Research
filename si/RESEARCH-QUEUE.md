@@ -104,3 +104,7 @@ ChatGPT කාර්යය සෑම ධාවනයකදීම මෙම statu
 ### 2026-09-30 — හිමිකම් ගණිතමය සංසන්දනය
 
 [සිංහල විශ්ලේෂණය](01-Fundamental-Analysis/10-Shareholding/README.md): FY2025 ඓතිහාසික ඇප කොටස් **81,049,704**, 2026 ජූනි Life හිමිකම **158,714,972**, වෙනස් දිනවල අනුපාතය **51.07%**; උපකල්පිත දළ ලාභාංශය **LKR 841.189m**. වත්මන් ඇප/SCAP මුදල් ලැබීම තහවුරු නැත. **PARTIAL** තවමත්; FILLED වෙනසක් නැත.
+
+### 2026-09-30 — Business Analysis පසුව ලැබුණු primary cross-check
+
+Softlogic Holdings FY2025/26 පි.56: SCAP Company operating income **LKR 1.5bn**, assets **28.1bn vs 21.2bn**, SR One restructuring. Holdings sector **42.5bn / 5.5bn / 3.7bn** SCAP Group එකට වෙනස් scope. Business Analysis **PARTIAL**; SCAP issuer-1100 signed audit සහ June original තවම OPEN.

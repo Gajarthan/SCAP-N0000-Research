@@ -62,3 +62,7 @@ New stable records: [SCAP issuer financial indexes](sources/records/SCAP-OFFICIA
 ### 2026-09-30 — Historical collateral versus later Life shareholding
 
 [SCAP audited FY2025 p.149](sources/records/SCAP-AR-2025.md) + [Life June 2026 note 19](sources/records/SLIFE-Q2-2026-REGISTER.md) + [Life 22 June dividend notice](sources/records/SLIFE-JUN2026-DIVIDEND.md) support a **cross-date arithmetic bridge**, not a 2026 pledge-release or cash receipt assertion. [English shareholding analysis](01-Fundamental-Analysis/10-Shareholding/README.md): 81,049,704 historical pledged shares, 158,714,972 later Life holding, 51.07% illustrative ratio, conditional gross dividend LKR 841.189m. Original PDFs external only; SCAP record-date holdings and parent bank receipts OPEN.
+
+### 2026-09-30 — Softlogic Holdings FY2025/26 primary cross-check
+
+[Holdings annual report p.56](sources/records/SHL-AR-2026-FINANCIAL-SERVICES.md) reports SCAP Company operating income **LKR 1.5bn** and assets **LKR 28.1bn** (from **21.2bn**), and describes the SR One asset-transfer restructuring. Holdings Financial Services sector revenue **42.5bn**, operating profit **5.5bn** and PAT **3.7bn** are a **different consolidation scope** from SCAP Group figures. This is issuer **1075**, not the missing signed SCAP issuer-1100 FY2026 audit.

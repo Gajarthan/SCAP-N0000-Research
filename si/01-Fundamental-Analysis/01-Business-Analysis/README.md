@@ -175,3 +175,20 @@ FY2026 **SCAP තනි සමාගමේ related-party note** අනුව Sof
 - **[S6] 2026 ජූනි SCAP ප්‍රතිඵල පිළිබඳ ද්විතීයික සාරාංශය:** https://www.marketscreener.com/news/softlogic-capital-plc-reports-earnings-results-for-the-first-quarter-ended-june-30-2026-ce7859dfd88af521 — SCAP මුල් CSE වාර්තාව වෙනුවට භාවිත නොකරන්න.
 
 **පර්යේෂණ තත්ත්වය 2026-09-30:** පසුකාලීන විගණිත වාර්තා වෙනස් නම් මෙම දින සහිත සටහන යාවත්කාලීන කළ යුතුය.
+
+## 🆕 FY2025/26 Softlogic Holdings වාර්තාවෙන් SCAP cross-check
+
+නව **Softlogic Holdings PLC** FY2025/26 වාර්තාව Financial Services කොටස තුළ **Softlogic Capital PLC** නමින්ම සඳහන් කරයි. මෙය පසුව නිකුත් වූ ප්‍රාථමික මූලාශ්‍රයකි; නමුත් issuer **1075 (Softlogic Holdings)** — තවම නොලැබුණු SCAP issuer-1100 අවසන් විගණිත වාර්තාව නොවේ. [CSE මුල් PDF, මුද්‍රිත පි.56](https://cdn.cse.lk/cmt/upload_report_file/1075_1789667078173.pdf).
+
+| Holdings වාර්තාවේ ප්‍රකාශය | අගය / සිදුවීම | නිවැරදි අර්ථය |
+|---|---:|---|
+| SCAP **Company-level operating income** | **LKR 1.5 bn** | SCAP පෙර subject-to-audit **LKR 1,485.72m** අගයට ආසන්න rounded figure; එය SCAP interim එක audited-final නොකරයි. |
+| SCAP **Company-level total assets** | **LKR 28.1 bn**, පෙර **LKR 21.2 bn** | SCAP parent පරිමාණයට පසුව ලැබුණු Holdings සාක්ෂිය; issuer-1100 audited balance sheet තවම අවශ්‍යය. |
+| Holdings **Financial Services sector revenue** | **LKR 42.5 bn**, **LKR 32.4 bn** සිට +31% | SCAP Group **LKR 51.31bn** සමඟ වෙනස් consolidation scope; එකම revenue ලෙස නොසලකන්න. |
+| Holdings Financial Services operating profit | **LKR 5.5 bn**, +38% | Holdings-sector මිනුම; SCAP owner PAT නොවේ. |
+| Holdings Financial Services PAT | **LKR 3.7 bn**, +25% | SCAP Group PAT **LKR 3.371bn** හෝ owner PAT **LKR 0.974bn** නොවේ. |
+| Softlogic Finance restructuring | හඳුනාගත් financial assets **SR One (Pvt) Ltd** වෙත මාරු කළ බවත් එය CBSL-approved framework යටතේ wholly-owned SPV බවත් සඳහන් | restructuring context තහවුරු කරයි; recovery හෝ SCAP cash proceeds ප්‍රමාණය තහවුරු නොකරයි. |
+
+**Scope අවවාදය:** Life insurance ප්‍රධාන වර්ධන ධාවකය වූ බවත් Softlogic Finance සාමාන්‍ය මෙහෙයුම් නැවත ආරම්භ කිරීමෙන් පසු scale rebuild කරන බවත් Holdings වාර්තාව කියයි. මෙය **Softlogic Holdings** වාර්තාවක් නිසා sector perimeter එක SCAP consolidation එකෙන් වෙනස් විය හැක. එබැවින් **42.5bn vs 51.31bn** වෙනස මුලින් scope reconciliation ප්‍රශ්නයකි; ස්වයංක්‍රීයව දෝෂයක් නොවේ.
+
+**නිගමනය:** SCAP parent FY2026 operating income ආසන්න වශයෙන් **LKR 1.5bn** බවට පසුව ලැබුණු primary corroboration ඇත; SR One restructuring context ද ශක්තිමත් වේ. එහෙත් FY2026 අගයන් audited-final ලෙස උසස් කිරීමට SCAP issuer-1100 signed annual report තවම අවශ්‍යය.

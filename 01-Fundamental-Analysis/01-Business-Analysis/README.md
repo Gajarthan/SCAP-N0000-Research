@@ -178,3 +178,20 @@ No such assumption is justified. **The insurer's restricted one-off surplus is s
 
 **As-of discipline:** This research was compiled on **30 September 2026**. FY2026 annual and June 2026 interim publications are reported elsewhere, but their underlying **SCAP issuer PDFs have not been fully reconciled for this document**. The verified original used here is the earlier **27 May 2026 filing**; do not represent its balances as 30 September balances.
 
+
+## 🆕 FY2025/26 parent-group annual report cross-check — Softlogic Holdings, not SCAP audit
+
+A newly located **Softlogic Holdings PLC** FY2025/26 annual report provides a later primary-group narrative about its Financial Services sector and specifically names **Softlogic Capital PLC**. This is useful corroboration, but it is issuer **1075 (Softlogic Holdings)** — **not** the still-missing signed SCAP issuer-1100 FY2025/26 audit. [Original CSE PDF, printed p.56](https://cdn.cse.lk/cmt/upload_report_file/1075_1789667078173.pdf).
+
+| Holdings annual-report statement | FY2025/26 value / event | What it does — and does not — establish |
+|---|---:|---|
+| SCAP **Company-level total operating income** | **LKR 1.5 bn** | Rounded parent-company figure; broadly consistent with SCAP's earlier subject-to-audit **LKR 1,485.72m**. It does **not** turn that earlier SCAP filing into an audited SCAP final. |
+| SCAP **Company-level total assets** | **LKR 28.1 bn**, from **LKR 21.2 bn** | Later Holdings narrative about SCAP parent scale; exact SCAP final balance-sheet line still needs issuer-1100 audit. |
+| Holdings **Financial Services sector revenue** | **LKR 42.5 bn**, +31% from **LKR 32.4 bn** | **Different consolidation scope** from SCAP Group revenue **LKR 51.31bn**; do not compare as if identical revenue definitions. |
+| Holdings Financial Services sector operating profit | **LKR 5.5 bn**, +38% | Holdings-sector measure, not SCAP owner-attributable PAT. |
+| Holdings Financial Services sector PAT | **LKR 3.7 bn**, +25% | Holdings-sector PAT, not SCAP Group PAT **LKR 3.371bn** or SCAP-owner PAT **LKR 0.974bn**. |
+| Softlogic Finance restructuring | Identified financial assets transferred to **SR One (Pvt) Ltd**, described as a wholly-owned SPV under a CBSL-approved restructuring framework | Independently strengthens the business/restructuring narrative; it does not quantify asset recoverability or SCAP cash proceeds. |
+
+**Scope warning:** the annual report says the sector improvement was driven principally by the life-insurance business and discusses rebuilding Softlogic Finance after resumption of normal operations. Because the report belongs to **Softlogic Holdings**, its sector totals may include a different perimeter and consolidation treatment from SCAP's own statements. Therefore the apparent **LKR 42.5bn vs LKR 51.31bn** revenue difference is a **scope reconciliation question**, not an error by itself.
+
+**Evidence conclusion:** this later primary document raises confidence that SCAP's parent-company FY2026 operating income was approximately **LKR 1.5bn** and confirms the SR One restructuring context, while simultaneously making it more important to obtain the signed **SCAP issuer-1100** annual report before promoting FY2026 figures to audited-final status.

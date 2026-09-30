@@ -33,6 +33,8 @@
 | `IRCSL-INSURANCE-SECTOR-2024-Q1-2025` | [Insurance sector performance 2020–2024 and Q1 2025](https://ircsl.gov.lk/wp-content/uploads/2025/08/PRESS-RELEASE-_-Reviewing-Sri-Lankas-Insurance-Sector-Performance-2020-to-2024-and-Q1-2025.pdf) | Insurance industry; calendar 2024 provisional and Q1 2025 | REGULATOR SECTOR DATA, not Softlogic Life audited accounts | [View evidence](records/IRCSL-INSURANCE-SECTOR-2024-Q1-2025.md) | **No — external original** |
 | `CBSL-FINANCIAL-SECTOR-PERFORMANCE-2025` | [CBSL financial-sector performance in 2025](https://www.cbsl.gov.lk/en/node/20110) | Sri Lankan finance industry; calendar 2025 | REGULATOR SECTOR COMMENTARY, not SCAP or Softlogic Finance audited accounts | [View evidence](records/CBSL-FINANCIAL-SECTOR-PERFORMANCE-2025.md) | **No — external original** |
 
+| `SHL-AR-2026-FINANCIAL-SERVICES` | [Softlogic Holdings FY2025/26 annual report — Financial Services p.56](https://cdn.cse.lk/cmt/upload_report_file/1075_1789667078173.pdf) | Holdings issuer 1075 · FY2025/26 | PRIMARY annual-report cross-check; not SCAP issuer-1100 audit | [View evidence](records/SHL-AR-2026-FINANCIAL-SERVICES.md) | **No — external original** |
+
 ## Source priority and exception handling
 
 1. **Issuer or regulator original** for historical and current claims; separate SCAP group/parent/insurer/finance accounts.

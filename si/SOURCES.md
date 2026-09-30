@@ -62,3 +62,7 @@
 ### 2026-09-30 — ඓතිහාසික ඇප / පසුව Life හිමිකම් සංසන්දනය
 
 [SCAP FY2025 පි.149](../sources/records/SCAP-AR-2025.md), [Life 2026 ජූනි පි.19](../sources/records/SLIFE-Q2-2026-REGISTER.md), [ලාභාංශ නිවේදනය](../sources/records/SLIFE-JUN2026-DIVIDEND.md): පැරණි ඇප **81,049,704** කොටස්; පසුව Life හිමිකම **158,714,972**; වෙනස් දිනවල ගණිත අනුපාතය **51.07%**; වාර්තා දිනයේ එම හිමිකම තිබුණහොත් උපකල්පිත දළ ලාභාංශය **LKR 841.189m**. [සම්පූර්ණ සිංහල විශ්ලේෂණය](01-Fundamental-Analysis/10-Shareholding/README.md). වත්මන් ඇප/මුදල් ලැබීම් **OPEN**; මුල් PDF ගොනු බාහිරව පමණි.
+
+### 2026-09-30 — Softlogic Holdings FY2025/26 primary cross-check
+
+[Holdings වාර්තාව පි.56](../sources/records/SHL-AR-2026-FINANCIAL-SERVICES.md): SCAP Company operating income **LKR 1.5bn**, assets **LKR 28.1bn** (පෙර **21.2bn**) සහ SR One asset-transfer restructuring. Holdings Financial Services **42.5bn revenue / 5.5bn operating profit / 3.7bn PAT** යනු SCAP Group එකට වෙනස් consolidation scope එකකි. මෙය issuer **1075**; SCAP issuer-1100 signed audit නොවේ.

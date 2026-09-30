@@ -62,3 +62,7 @@
 ### 2026-09-30 — வரலாற்று அடமானம் / புதிய Life பங்குரிமை ஒப்பீடு
 
 [SCAP FY2025 ப.149](../sources/records/SCAP-AR-2025.md), [Life 2026 ஜூன் ப.19](../sources/records/SLIFE-Q2-2026-REGISTER.md), [ஈவுத்தொகை அறிவிப்பு](../sources/records/SLIFE-JUN2026-DIVIDEND.md): பழைய அடமானம் **81,049,704** பங்குகள்; புதிய Life பங்குரிமை **158,714,972**; இரு தேதிகளின் கணித விகிதம் **51.07%**; பதிவுத் தேதியில் அதே உரிமை இருந்தால் கற்பனையான மொத்த ஈவுத்தொகை **LKR 841.189m**. [முழு தமிழ் ஆய்வு](01-Fundamental-Analysis/10-Shareholding/README.md). தற்போதைய அடமானம்/பணவரவு **OPEN**; அசல் PDF-கள் வெளியில் மட்டுமே.
+
+### 2026-09-30 — Softlogic Holdings FY2025/26 primary cross-check
+
+[Holdings ஆண்டு அறிக்கை ப.56](../sources/records/SHL-AR-2026-FINANCIAL-SERVICES.md): SCAP Company operating income **LKR 1.5bn**, assets **LKR 28.1bn** (முன்பு **21.2bn**) மற்றும் SR One asset-transfer restructuring. Holdings Financial Services **42.5bn revenue / 5.5bn operating profit / 3.7bn PAT** என்பது SCAP Group-க்கு வேறு consolidation scope. இது issuer **1075**; SCAP issuer-1100 signed audit அல்ல.
