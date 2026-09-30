@@ -1,5 +1,13 @@
 # Sources and provenance
 
+## New primary source — SCAP FY2026 interim filing (30 September 2026 review)
+
+**[SCAP's original 20-page CSE filing — interim financial statements for year ended 31 March 2026, board-approved 27 May 2026](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).** Direct issuer primary source. **2026 figures are subject to audit unless stated otherwise**; FY2025 comparative columns are labelled audited. Use the PDF's numbered pages (e.g. p. 2 = group income, p. 3 = company-only income, p. 6 = group/company balance sheets, p. 10 = segment note, pp. 15–16 = SCAP shareholdings, p. 17 = related parties, p. 19 = subsidiary ownership). [Filled English business analysis](01-Fundamental-Analysis/01-Business-Analysis/README.md).
+
+**[Softlogic Finance original CSE filing (31 March 2026)](https://cdn.cse.lk/cmt/upload_report_file/863_1779879284133.pdf)** independently documents the finance company's dated 81.71% shareholding line. Confirm any nominee/pledge terms before treating it as a current free-and-clear holding.
+
+**Important correction to earlier third-party snapshot:** the SCAP issuer's **FY2025 audited comparative group revenue is LKR 42,383.72 million**, not LKR 39,794 million shown on this repository's earlier third-party financial snapshot and visual charts. **FY2026 interim group revenue is LKR 51,310.49 million**; group PAT **LKR 3,371.26 million**, owners' attributed profit **LKR 973.77 million**, and minorities' attributed profit **LKR 2,397.49 million**. The older figure needs line-definition/provider reconciliation, and the original annual report and June 2026 quarter have not yet been fully tied out. **[SCAP filing, pp. 2–3, 10](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf)**.
+
 **Research pass:** 30 September 2026. A URL is a research source, not proof that every underlying PDF has been downloaded and audited. Company materials describe the issuer's position, not independent validation.
 
 | Source | Research use | Authority / limitation |
