@@ -1,6 +1,8 @@
 # SCAP.N0000 — தமிழ் முதலீட்டு ஆய்வு
 
-**புதிய காட்சி அறிக்கை: [SCAP வணிகப் பகுப்பாய்வு — 15 தரவுடன் கூடிய Markdown வரைபடங்கள்](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)** ([English](../01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [සිංහල](../si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)).
+**[🧭 வணிக SWOT: நான்கு பகுதிகள், 12 சான்றுச் சோதனைகள்](01-Fundamental-Analysis/01-Business-Analysis/SWOT-ANALYSIS.md)**
+
+**புதிய காட்சி அறிக்கை: [SCAP வணிகப் பகுப்பாய்வு — 16 தரவுடன் கூடிய Markdown வரைபடங்கள்](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)** ([English](../01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [සිංහල](../si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)).
 
 [← முதன்மை GitHub பக்கம்](../README.md) · [English](../en/README.md) · **தமிழ்** · [සිංහල](../si/README.md)
 

@@ -1,4 +1,4 @@
-# 📊 SCAP.N0000 — வணிகப் பகுப்பாய்வு: தரவுடன் 15 காட்சி அறிக்கைகள்
+# 📊 SCAP.N0000 — வணிகப் பகுப்பாய்வு: தரவுடன் 16 காட்சி அறிக்கைகள்
 
 [← வணிகப் பகுப்பாய்வு](README.md) · [English](../../../01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [සිංහල](../../../si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)
 
@@ -23,6 +23,7 @@
 | 13 | [குழும நிறுவனங்களுக்கிடையேயான பணப் பரிவர்த்தனைகள்](#v13) | FY2026 parent-only |
 | 14 | [ஒழுங்குமுறை கட்டுப்பாட்டு வரைபடம்](#v14) | Insurer 2025 / sector regulation |
 | 15 | [வாய்ப்புகளும் கட்டுப்பாடுகளும்](#v15) | Mixed historical periods |
+| 16 | [SWOT — நான்கு சான்றுப் பகுதிகள்](#v16) | 2025 insurer / Mar 2026 parent / Jul 2026 acquisition |
 
 > **ஆதார வகை:** *SCAP CSE interim* = 27-05-2026 வெளியீடு, FY2026 எண்கள் **தணிக்கைக்கு உட்பட்டவை**; *Insurer 2025* = Softlogic Life, நிதியாண்டு **டிசம்பர்** முடிவு; *தேதியற்ற நிறுவனம் இணையதளம்* = தொழில் விளக்கம் மட்டும்; *இரண்டாம் நிலை* = தனியாக உறுதி செய்ய வேண்டிய செய்தி/தரவுத்தளம். 'Other segment' எண் குழுமக் கூட்டுத்தொகையைப் பொருத்திக் **கணக்கிடப்பட்டது**; வரைபடம் 04 பார்க்கவும்.
 
@@ -302,6 +303,26 @@ flowchart TB
 தரவுடன் பார்க்க வேண்டிய சாத்திய வாய்ப்புகள்: Life FY2025 **GWP 40.1bn (+27%)**, விநியோகம், Life கையகப்படுத்தல். கட்டுப்பாடுகள்: FY2026 finance பிரிவு இழப்பு **136.24mn**, SCAP தனி வட்டிச் செலவு **1,810.84mn**, கடன் **17,324.26mn**, insurer cash upstream விதிகள். **வெவ்வேறு காலத்தின் இத்தகவல்கள் முன்னறிவிப்பு அல்லது மதிப்பெண் அல்ல.**
 
 **ஆதாரம் / காலம்:** [ஆதாரம் 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) · [ஆதாரம் 2](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/).
+
+
+<a id="v16"></a>
+
+## 16 · SWOT — ஆதாரமுள்ள நான்கு பகுதி ஆய்வு
+
+```mermaid
+flowchart TB
+  C["SCAP வணிக SWOT"]
+  C --> S["STRENGTHS<br/>Life GWP 40.1bn<br/>Life CAR 245%"]
+  C --> W["WEAKNESSES<br/>SCAP கடன் 17.32bn<br/>தனி இழப்பு 722.49mn"]
+  C --> O["OPPORTUNITIES<br/>Diamond Life 60%<br/>Finance மீட்பு வாய்ப்பு"]
+  C --> T["THREATS<br/>கடன் மறுநிதியளிப்பு<br/>FX / regulatory"]
+```
+
+**தேதியுள்ள தரவு:** Life FY2025 GWP **LKR 40.1bn**, CAR **245%**; SCAP தனி FY2026 இடைக்காலக் கடன் **LKR 17,324.26mn**, இழப்பு **LKR 722.49mn**; Bangladesh காப்பீட்டு நிறுவனம் **60%** ஜூலை 2026 கையகப்படுத்தல். **இவை வெவ்வேறு நிறுவனங்களின்/காலங்களின் தரவுகள்.**
+
+நான்கு SWOT பகுதிகள், 12 ஆதார ஆய்வுகள் மற்றும் அடுத்த சோதனைக்குப் பார்க்கவும்: **[SWOT ஆய்வறிக்கை](SWOT-ANALYSIS.md)**. [Softlogic Life 2025 issuer release](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/) · [Finance July 2026 update](https://softlogicfinance.lk/news/building-a-stronger-more-resilient-softlogic-finance/) · [Diamond Life overview](https://diamondlifebd.com/overview/) · [SCAP interim March 2026](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
+
+> **முக்கிய எல்லை:** Life GWP/CAR மற்றும் Finance capital ஆகியவை துணை நிறுவன எண்கள். அவை SCAP குழும வருமானம் அல்லது SCAP தாய் நிறுவனக் கையிருப்பு அல்ல.
 
 ## 📚 ஆதாரங்கள் மற்றும் வரம்புகள்
 

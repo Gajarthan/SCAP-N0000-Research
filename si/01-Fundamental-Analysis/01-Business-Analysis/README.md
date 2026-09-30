@@ -1,5 +1,7 @@
 # 01 · ව්‍යාපාර විශ්ලේෂණය — Softlogic Capital PLC
 
+**[🧭 SWOT — සාක්ෂි සහිත ශක්තීන්, දුර්වලතා, අවස්ථා සහ අවදානම්](SWOT-ANALYSIS.md)**
+
 **[📊 දත්ත සහිත දෘශ්‍ය වාර්තා 15 බලන්න — හිමිකාරීත්වය, ආදායම, ලාභය, අවදානම් සහ වෙළෙඳපොළ](VISUAL-REPORT.md)**
 
 [← මූලික විශ්ලේෂණය](../README.md) · [English](../../../01-Fundamental-Analysis/01-Business-Analysis/README.md) · [தமிழ்](../../../ta/01-Fundamental-Analysis/01-Business-Analysis/README.md) · **සිංහල**

@@ -1,6 +1,8 @@
 # 01 · வணிகப் பகுப்பாய்வு — Softlogic Capital PLC
 
-**[📊 தரவுடன் 15 காட்சி அறிக்கைகளைத் திறக்கவும் — பங்குரிமை, வருமானம், இலாபம், இடர்கள், சந்தை பங்கு](VISUAL-REPORT.md)**
+**[🧭 SWOT — ஆதாரமுள்ள பலங்கள், பலவீனங்கள், வாய்ப்புகள், அபாயங்கள்](SWOT-ANALYSIS.md)**
+
+**[📊 தரவுடன் 16 காட்சி அறிக்கைகளைத் திறக்கவும் — பங்குரிமை, வருமானம், இலாபம், இடர்கள், சந்தை பங்கு](VISUAL-REPORT.md)**
 
 [← அடிப்படைப் பகுப்பாய்வு](../README.md) · [English](../../../01-Fundamental-Analysis/01-Business-Analysis/README.md) · **தமிழ்** · [සිංහල](../../../si/01-Fundamental-Analysis/01-Business-Analysis/README.md)
 

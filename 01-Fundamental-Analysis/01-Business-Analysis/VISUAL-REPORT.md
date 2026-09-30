@@ -1,8 +1,8 @@
-# 📊 SCAP.N0000 — Business Analysis: 15 data-backed visuals
+# 📊 SCAP.N0000 — Business Analysis: 16 data-backed visuals
 
 [← Business Analysis](README.md) · [தமிழ்](../../../ta/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [සිංහල](../../../si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)
 
-> **Scope:** 15 editable GitHub Markdown visualizations built from SCAP's March 2026 CSE **year-end interim**, Softlogic Life's **calendar-year 2025** disclosures, issuer web pages and clearly identified secondary observations. **Reviewed 30 Sep 2026.** Numbers have different reporting periods and legal-entity scopes; figures are **not** a live quote or an investment recommendation.
+> **Scope:** 16 editable GitHub Markdown visualizations built from SCAP's March 2026 CSE **year-end interim**, Softlogic Life's **calendar-year 2025** disclosures, issuer web pages and clearly identified secondary observations. **Reviewed 30 Sep 2026.** Numbers have different reporting periods and legal-entity scopes; figures are **not** a live quote or an investment recommendation.
 
 ## 🧭 Visual index
 
@@ -23,6 +23,7 @@
 | 13 | [Related-party flow of funds](#v13) | FY2026 parent-only |
 | 14 | [Regulatory dependency map](#v14) | Insurer 2025 / sector regulation |
 | 15 | [Opportunities and constraints](#v15) | Mixed historical periods |
+| 16 | [SWOT — evidence-based quadrants](#v16) | 2025 insurer / Mar 2026 parent / Jul 2026 acquisition |
 
 > **Source label key:** *CSE interim* = SCAP's 27 May 2026 company disclosure, FY2026 **subject to audit**; *Insurer 2025* = Softlogic Life, a different reporting entity with a **December** year-end; *issuer site, undated* = operating description, not a 2026 audited count; *secondary* = unverified news/data vendor. "Other segment" is a **derived rounded reconciliation**—see chart 04.
 
@@ -302,6 +303,26 @@ flowchart TB
 The documented **potential drivers** are FY2025 insurer GWP **LKR 40.1bn (+27%)**, its service footprint, and insurer acquisition integration. The documented **constraints** include FY2026 non-bank-finance segment loss **LKR 136.24mn**, parent interest expense **LKR 1,810.84mn**, parent borrowing **LKR 17,324.26mn**, and regulatory cash-upstream limits. These are different-period observations and **not a forecast or a ranking**.
 
 **Provenance:** [Source 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) · [Source 2](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/).
+
+
+<a id="v16"></a>
+
+## 16 · SWOT — evidence-based quadrant
+
+```mermaid
+flowchart TB
+  C["SCAP Business SWOT"]
+  C --> S["STRENGTHS<br/>Life FY25 GWP 40.1bn<br/>Life CAR 245%"]
+  C --> W["WEAKNESSES<br/>Parent FY26 borrowings 17.32bn<br/>Parent FY26 loss 722.49mn"]
+  C --> O["OPPORTUNITIES<br/>Diamond Life 60% acquisition<br/>Finance recovery hypothesis"]
+  C --> T["THREATS<br/>Refinancing, claims and credit<br/>FX and regulatory changes"]
+```
+
+**Key dated inputs:** insurer FY2025 GWP **LKR 40.1bn**, CAR **245%**; parent FY2026 interim borrowings **LKR 17,324.26mn**, loss **LKR 722.49mn**; Bangladesh insurer acquisition **60%** completed July 2026. **The insurer and parent are different legal/reporting entities.**
+
+For all four quadrants, 12 sourced observations and unresolved tests, open **[SWOT Analysis](SWOT-ANALYSIS.md)**. [Softlogic Life 2025 issuer release](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/) · [Finance July 2026 update](https://softlogicfinance.lk/news/building-a-stronger-more-resilient-softlogic-finance/) · [Diamond Life overview](https://diamondlifebd.com/overview/) · [SCAP interim March 2026](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
+
+> **Scope boundary:** Insurer GWP, insurer capital and finance-company capital are subsidiary indicators; they are not SCAP consolidated sales or cash in the listed parent's bank account.
 
 ## 📚 Sources and limitations
 

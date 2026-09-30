@@ -1,6 +1,8 @@
 # 01 · Business Analysis — Softlogic Capital PLC
 
-**[📊 Open the complete Business Visual Report: 15 source-labelled charts, ownership diagrams, money flows and market maps](VISUAL-REPORT.md)**
+**[🧭 SWOT Analysis — dated strengths, weaknesses, opportunities and threats](SWOT-ANALYSIS.md)**
+
+**[📊 Open the complete Business Visual Report: 16 source-labelled charts, ownership diagrams, money flows and market maps](VISUAL-REPORT.md)**
 
 [← Fundamental analysis](../README.md) · **English** · [தமிழ்](../../../ta/01-Fundamental-Analysis/01-Business-Analysis/README.md) · [සිංහල](../../../si/01-Fundamental-Analysis/01-Business-Analysis/README.md)
 

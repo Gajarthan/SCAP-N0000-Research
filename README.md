@@ -1,6 +1,8 @@
 # SCAP.N0000 — Investment Research
 
-**New: [SCAP Business Analysis — 15 evidence-backed interactive Markdown visuals](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)** (also available in [Tamil](ta/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) and [Sinhala](si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)).
+**[🧭 Business SWOT: 4 quadrants + 12 evidence-led tests](01-Fundamental-Analysis/01-Business-Analysis/SWOT-ANALYSIS.md)**
+
+**New: [SCAP Business Analysis — 16 evidence-backed editable Markdown visuals](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)** (also available in [Tamil](ta/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) and [Sinhala](si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)).
 
 **Softlogic Capital PLC** · Colombo Stock Exchange (CSE) · `SCAP.N0000`
 
