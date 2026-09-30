@@ -85,7 +85,7 @@ jobs:
 
       - name: Prepare Mermaid parser
         if: steps.diagrams.outputs.present == 'true'
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: '22'
 
@@ -97,7 +97,7 @@ jobs:
           npm install --global @mermaid-js/mermaid-cli@11.4.1
           for chart in .scap-validation/mermaid/*.mmd; do
             echo "Mermaid validation: $chart"
-            if ! mmdc --input "$chart" --output "$chart.svg" --quiet; then
+            if ! mmdc --input "$chart" --output "$chart.svg" --puppeteerConfigFile scripts/puppeteer-ci.json --quiet; then
               echo "::error title=Broken Mermaid syntax::Failed to render $chart"
               exit 1
             fi
