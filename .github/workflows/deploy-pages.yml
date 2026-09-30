@@ -10,7 +10,7 @@ on:
 
 concurrency:
   group: github-pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 # Deployment can be triggered by docs changes or manually from Actions.
 # Uses a GitHub-hosted Ubuntu runner; no self-hosted runner is required.
