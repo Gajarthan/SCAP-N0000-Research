@@ -1,5 +1,15 @@
 # ஆய்வு மாற்றப் பதிவு — SCAP.N0000
 
+## 30-09-2026 — மூன்று மொழிகளில் நிதி அறிக்கை ஆய்வும் 12 காட்சி வரைபடங்களும்
+
+**புதிய ஆவணம்:** [தமிழ் நிதி அறிக்கை ஆய்வு](01-Fundamental-Analysis/02-Financial-Statements/README.md), [12 Mermaid வரைபடங்கள்](01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md), [English](../01-Fundamental-Analysis/02-Financial-Statements/README.md) மற்றும் [සිංහල](../si/01-Fundamental-Analysis/02-Financial-Statements/README.md). Group, SCAP சாதாரணப் பங்குதாரர், minority மற்றும் SCAP தனி நிறுவன வருமானம்/கடன்/பணப்புழக்கம் வேறுபடுகின்றன.
+
+**ஆதாரம்:** [SCAP FY2025 அசல் audited அறிக்கை](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) உள்ள EY unmodified கருத்து, insurance liabilities, IT controls, ECL, கடன் ஆகிய 4 முக்கிய audit விடயங்கள், ப.63 இலாபம், ப.65–66 இருப்புநிலை, ப.69–70 cash flow ஒப்பிடப்பட்டன. PDF screenshot சேவை வேலை செய்யாததால் படக்காட்சி ஒப்பீடு நடந்ததாகக் கூறவில்லை.
+
+**FY2026 எச்சரிக்கை:** [27 மே 2026 இடைக்கால அறிக்கை](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) **subject to audit**. அதில் உள்ள எண்கள் முந்தைய repo ஆய்விலிருந்து; இம்முறை PDF மீண்டும் திறக்க முடியவில்லை. FY2026 இறுதி audited மற்றும் 2026 ஜூன் அசல் SCAP அறிக்கைகள் இன்னும் ஒப்பிடப்படவில்லை.
+
+**FY2025 audited முக்கிய எண்கள் (LKR mn):** group income **42,383.72**, group PAT **+1,694.15**, SCAP-owner PAT **−280.42**; SCAP தனி operating CFO **−4,605.10**, குழும CFO **+427.54**; SCAP தனிக் கடன் **14,797.33**, cash **27.89**, group owner equity **−2,440.85**. மூன்றாம் தரப்பு normalized FY2025 revenue **39,794** என்ற வேறுபாடு திறந்துள்ளது.
+
 ## 30-09-2026 — 15 வணிகக் காட்சிகள் மற்றும் பிரிவு வருமானத் திருத்தம்
 
 **அறிக்கை:** [தமிழில் 15 தரவு சார்ந்த Mermaid காட்சிகள்](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [English](../01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [සිංහල](../si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md). உரிமைப் பங்கு, வணிக மாதிரி, வருமானம், இலாபம், தாய் நிறுவனப் பணப் பாதை, வரலாறு, காப்பீட்டு வாடிக்கையாளர்கள், சேவை இடங்கள், சந்தைப் பங்கு, related-party, ஒழுங்குமுறை மற்றும் வாய்ப்பு/கட்டுப்பாடு ஆகியவை ஆதாரத்துடன் பதிவு செய்யப்பட்டுள்ளன.
