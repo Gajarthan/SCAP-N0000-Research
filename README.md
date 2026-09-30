@@ -1,6 +1,10 @@
 # SCAP.N0000 — Investment Research
 
-> 🌐 **Read in your language / உங்கள் மொழியில் படிக்க / ඔබගේ භාෂාවෙන් කියවන්න**\n>\n> **[தமிழ் — Tamil](ta/README.md) · [සිංහල — Sinhala](si/README.md) · [English](en/README.md)**\n\n**Company:** Softlogic Capital PLC · **Exchange:** Colombo Stock Exchange (CSE) · **Ticker:** `SCAP.N0000`
+> 🌐 **Read in your language / உங்கள் மொழியில் படிக்க / ඔබගේ භාෂාවෙන් කියවන්න**
+>
+> **[தமிழ் — Tamil](ta/README.md) · [සිංහල — Sinhala](si/README.md) · [English](en/README.md)**
+
+**Company:** Softlogic Capital PLC · **Exchange:** Colombo Stock Exchange (CSE) · **Ticker:** `SCAP.N0000`
 
 An evolving, public, **evidence-first** research notebook. The scope is deliberately broader than fundamental analysis: company background, business economics, financial statements, valuation, technical charts, news, corporate actions, and a dated investment thesis.
 
