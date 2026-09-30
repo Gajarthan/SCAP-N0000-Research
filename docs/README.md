@@ -27,6 +27,8 @@ GitHub's official recommended Pages actions are `actions/checkout`, `actions/con
 - [assets/favicon.svg](assets/favicon.svg) — project icon.
 - `.nojekyll` — disables unnecessary Jekyll processing.
 
+**Appearance:** The default theme is **light** on desktop and mobile. A visible toggle allows switching to dark mode, and manual theme preferences are stored locally in the browser.
+
 ## Data and security
 
 The original research is maintained in the three-language Markdown folders and `sources/` in the same repository. The site reads those public files from GitHub raw URLs and includes links to original publishers. Source records should not be mistaken for stored original PDF binaries.
