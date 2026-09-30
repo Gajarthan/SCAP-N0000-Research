@@ -6,6 +6,12 @@
 
 [தமிழ்](../ta/README.md) · [සිංහල](README.md) · [English](../en/README.md)
 
+## 📊 දෘශ්‍ය පර්යේෂණ වාර්තා (Mermaid)
+
+**[සිංහල දෘශ්‍ය ප්‍රධාන වාර්තාව](reports/README.md)** · [ව්‍යාපාර සිතියම](reports/business-model.md) · [මූල්‍ය ප්‍රස්තාර](reports/financial-pulse.md) · [අවදානම් සිතියම](reports/risk-map.md) · [පර්යේෂණ සැලැස්ම](reports/research-roadmap.md).
+
+සියලු ප්‍රස්තාර Markdown තුළ සංස්කරණය කළ හැකිය. මූල්‍ය අගයන් **මූලික** වන අතර මුල් CSE ගොනු සමඟ තවමත් සසඳා නැත.
+
 ## පර්යේෂණ අංශ
 
 | අංශය | සිංහල ලේඛනය |

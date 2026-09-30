@@ -6,6 +6,12 @@
 
 [மொழிகள்: தமிழ்](README.md) · [සිංහල](../si/README.md) · [English](../en/README.md)
 
+## 📊 காட்சி ஆய்வறிக்கைகள் (Mermaid)
+
+**[தமிழ் காட்சி டாஷ்போர்டைத் திறக்கவும்](reports/README.md)** · [வணிக வரைபடம்](reports/business-model.md) · [நிதி charts](reports/financial-pulse.md) · [இடர் வரைபடம்](reports/risk-map.md) · [ஆய்வுத் திட்டம்](reports/research-roadmap.md).
+
+அனைத்து charts-களும் Markdown-இல் திருத்தக்கூடியவை. நிதித் தரவு **ஆரம்ப நிலை**, அசல் CSE-யுடன் ஒப்புச்சரிபார்க்கப்படவில்லை.
+
 ## ஆய்வுப் பிரிவுகள்
 
 | பிரிவு | தமிழ் ஆவணம் |
