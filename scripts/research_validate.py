@@ -44,7 +44,8 @@ class Results:
             self.warnings += 1
         path = file.relative_to(ROOT).as_posix() if file.is_relative_to(ROOT) else str(file)
         message = message.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
-        print(f"::{kind} file={path},line={max(1,line)},title={title}::{message}", flush=True)
+        if os.environ.get("SCAP_VALIDATOR_TESTING") != "1":
+            print(f"::{kind} file={path},line={max(1,line)},title={title}::{message}", flush=True)
 
 
 def changed_markdown(base):
@@ -150,8 +151,11 @@ def validate_record(file, out):
             out.report(file, 1, "error", "Source records", "Missing required source field: " + name)
         if name == "source id" and value and value.strip().strip("\x60") != file.stem:
             out.report(file, 1, "error", "Source records", "Stable source ID does not match filename")
-    original = values.get("original url") or re.search(r"\*\*Original document:\*\*[^\n]+", text)
-    if not original or not re.search(r"https?://\S+", str(original)):
+    original = values.get("original url")
+    if not original:
+        match = re.search(r"\*\*Original document:\*\*[^\n]+", text)
+        original = match.group(0) if match else ""
+    if not original or not re.search(r"https?://\S+", original):
         out.report(file, 1, "error", "Source records", "Missing original publisher URL")
     if re.search(r"Original document copied into repository:\*\* \*\*YES", text, re.I):
         sha = values.get("sha-256") or values.get("original sha-256 / size") or ""

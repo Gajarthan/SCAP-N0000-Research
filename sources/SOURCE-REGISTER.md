@@ -2,7 +2,7 @@
 
 [← Source archive guide](README.md) · [← Research queue](../RESEARCH-QUEUE.md) · [English sources](../SOURCES.md) · [தமிழ்](../ta/SOURCES.md) · [සිංහල](../si/SOURCES.md)
 
-**Initialized:** 2026-09-30 · **18 provenance records (11 original + 7 new).** Entries below are **stored Markdown source/evidence records** in this GitHub repository. **None of the original PDFs or full copyrighted website articles is currently mirrored in GitHub.** For each, follow the original publisher link. A source card can be complete as a citation record while its *financial tie-out* still remains OPEN.
+**Initialized:** 2026-09-30 · **20 source/evidence records (18 indexed filings/leads + 2 secondary discovery notes).** Entries below are **stored Markdown source/evidence records** in this GitHub repository. **None of the original PDFs or full copyrighted website articles is currently mirrored in GitHub.** For each, follow the original publisher link. A source card can be complete as a citation record while its *financial tie-out* still remains OPEN.
 
 | Stable ID | Original work | Entity / date | Evidence type | Repo record | Raw document in GitHub? |
 |---|---|---|---|---|---|
@@ -25,6 +25,9 @@
 | `UA-AR-2025-CAR` | [Union Assurance 2025 insurer CAR 215%](https://unionassurance.com/DigitalAnnualReport2025/Union-Assurance-AR-2025.pdf) | Insurance peer · 31 December 2025 | ISSUER annual report peer CAR | [View evidence](records/UA-AR-2025-CAR.md) | **No — external original** |
 | `CBSL-FC-Q1-2026` | [CBSL Q1 2026 finance-company sector CAR 18.4%](https://www.cbsl.gov.lk/en/node/20440) | Finance-company SECTOR · 31 March 2026 | REGULATOR release, company/sector difference | [View evidence](records/CBSL-FC-Q1-2026.md) | **No — external original** |
 | `SFIN-UPDATE-JUL2026` | [Softlogic Finance issuer 28 July 2026 capital and funding statement](https://softlogicfinance.lk/news/building-a-stronger-more-resilient-softlogic-finance/) | Softlogic Finance · FY2025/26 | ISSUER management update, not standalone SCAP | [View evidence](records/SFIN-UPDATE-JUL2026.md) | **No — external original** |
+
+| `SCAP-AR-2026-DISCOVERY` | [SCAP FY2025/26 audited PDF discovery lead — ORIGINAL NOT RETRIEVED](https://lankadata.net/listed-companies/) | SCAP FY2026; index only | SECONDARY DISCOVERY; original signed SCAP audited PDF OPEN | [View evidence](records/SCAP-AR-2026-DISCOVERY.md) | **No — original unlocated** |
+| `SCAP-FY2027-Q1-DISCOVERY` | [SCAP first quarter to 30 June 2026 — secondary earnings discovery](https://www.marketscreener.com/news/softlogic-capital-plc-reports-earnings-results-for-the-first-quarter-ended-june-30-2026-ce7859dfd88af521) | SCAP FY2027 Q1, 30 June 2026 | SECONDARY DISCOVERY; original SCAP June CSE PDF OPEN | [View evidence](records/SCAP-FY2027-Q1-DISCOVERY.md) | **No — original unlocated** |
 
 ## Source priority and exception handling
 
