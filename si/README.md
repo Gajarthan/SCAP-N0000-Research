@@ -1,8 +1,8 @@
 # SCAP.N0000 — සිංහල ආයෝජන පර්යේෂණය
 
-**🌐 GitHub Pages + Actions:** [ප්‍රකාශන workflow](../.github/workflows/deploy-pages.yml) · [Actions ධාවන](https://github.com/Gajarthan/SCAP-N0000-Research/actions/workflows/deploy-pages.yml) · [Pages සැකසුම්](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages). **සාර්ථක ප්‍රකාශනය තවමත් තහවුරු කළ යුතුයි.** [උපදෙස්](../docs/README.md).
+**🌐 GitHub Pages + Actions:** [ප්‍රකාශන workflow](../.github/workflows/deploy-pages.yml) · [Actions ධාවන](https://github.com/Gajarthan/SCAP-N0000-Research/actions/workflows/deploy-pages.yml) · [Pages සැකසුම්](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages). **GitHub Pages Actions deployment සාර්ථකයි; පොදු වෙබ් URL වෙනම පරීක්ෂා කළ යුතුයි.** [උපදෙස්](../docs/README.md).
 
-**[📚 GitHub තුළ සුරැකි මූලාශ්‍ර සටහන්](../sources/SOURCE-REGISTER.md)** — Markdown මූලාශ්‍ර 11ක්; මුල් PDF තවම බාහිර සබැඳි පමණි.
+**[📚 GitHub තුළ සුරැකි මූලාශ්‍ර සටහන්](../sources/SOURCE-REGISTER.md)** — Markdown මූලාශ්‍ර 20ක් (discovery-only 2ක්); මුල් PDF තවම බාහිර සබැඳි පමණි.
 
 **[📋 පර්යේෂණ ප්‍රගතිය හා පිරවීමේ සැලැස්ම — මාතෘකා 20 / භාෂා 3](RESEARCH-QUEUE.md)**
 
@@ -17,6 +17,12 @@
 **Softlogic Capital PLC** · කොළඹ කොටස් වෙළෙඳපොළ (CSE) · `SCAP.N0000`
 
 > **පර්යේෂණ තත්ත්වය: 2026-09-30 වන විට මූලික අදියරේය.** නවතම නිල මූල්‍ය වාර්තා, අනුබද්ධ ආයතනවල වත්මන් හිමිකාරීත්වය, SCAP හිමියන්ට අයත් ලාභය සහ නවතම කොටස් මිල මුල් ලේඛන සමඟ තවමත් සම්පූර්ණයෙන් තහවුරු කර නැත. **මෙය මිලදී ගැනීමට හෝ විකිණීමට නිර්දේශයක් නොවේ.**
+
+
+## GitHub Actions — පර්යේෂණ ස්වයංක්‍රීයකරණය
+
+[මූලාශ්‍ර තත්ත්ව පරීක්ෂාව](../.github/workflows/research-validation.yml), [භාෂා තුනේ මූල්‍ය අගය සසඳීම](../.github/workflows/translation-consistency.yml), [නව මුල් SCAP PDF නිරීක්ෂණය — දිනපතා 09:13](../.github/workflows/source-monitoring.yml), [අංක/කාල/සමූහ-මව් ගිණුම් සැසඳීම](../.github/workflows/financial-reconciliation.yml), [දිනපතා බාගත කළ හැකි සාරාංශය — 00:17](../.github/workflows/research-snapshots.yml). GitHub-hosted Ubuntu යොදයි. අවසන් FY2026 audited SCAP ගොනුව තහවුරු කළ පසු පමණක් එහි අගයන් විගණිත ලෙස සලකන්න.
+
 
 ## 🧭 ප්‍රධාන විශ්ලේෂණ අංශ දෙක
 

@@ -1,8 +1,8 @@
 # SCAP.N0000 — தமிழ் முதலீட்டு ஆய்வு
 
-**🌐 GitHub Pages + Actions:** [வெளியீட்டு workflow](../.github/workflows/deploy-pages.yml) · [Actions இயக்கங்கள்](https://github.com/Gajarthan/SCAP-N0000-Research/actions/workflows/deploy-pages.yml) · [Pages அமைப்புகள்](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages). **வெற்றிகரமான deployment இன்னும் உறுதி செய்ய வேண்டும்.** [வழிமுறை](../docs/README.md).
+**🌐 GitHub Pages + Actions:** [வெளியீட்டு workflow](../.github/workflows/deploy-pages.yml) · [Actions இயக்கங்கள்](https://github.com/Gajarthan/SCAP-N0000-Research/actions/workflows/deploy-pages.yml) · [Pages அமைப்புகள்](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages). **GitHub Pages deployment Action வெற்றிகரமாக முடிந்தது; இணையதள URL-ஐ தனியாகச் சரிபார்க்க வேண்டும்.** [வழிமுறை](../docs/README.md).
 
-**[📚 GitHub-இல் சேமித்த ஆதாரப் பதிவுகள்](../sources/SOURCE-REGISTER.md)** — 11 Markdown ஆதாரங்கள்; அசல் PDF கோப்புகள் இன்னும் வெளிப்புற இணைப்புகள் மட்டுமே.
+**[📚 GitHub-இல் சேமித்த ஆதாரப் பதிவுகள்](../sources/SOURCE-REGISTER.md)** — 20 Markdown ஆதாரங்கள் (2 discovery-only); அசல் PDF கோப்புகள் இன்னும் வெளிப்புற இணைப்புகள் மட்டுமே.
 
 **[📋 ஆய்வு முன்னேற்றம் மற்றும் நிரப்பும் வரிசை — 20 தலைப்புகள் / 3 மொழிகள்](RESEARCH-QUEUE.md)**
 
@@ -17,6 +17,12 @@
 **Softlogic Capital PLC** · கொழும்பு பங்குச் சந்தை (CSE) · `SCAP.N0000`
 
 > **ஆய்வு நிலை: 2026-09-30 அன்று ஆரம்பம்.** சமீபத்திய அதிகாரப்பூர்வ நிதி அறிக்கை, துணை நிறுவனங்களின் தற்போதைய உரிமைப் பங்கு, SCAP உரிமையாளருக்குரிய இலாபம், நடப்பு பங்கு விலை ஆகியவை இன்னும் முழுமையாக உறுதி செய்யப்படவில்லை. **இது பங்குகளை வாங்க/விற்க பரிந்துரை அல்ல.**
+
+
+## GitHub Actions — ஆய்வு தன்னியக்கம்
+
+[ஆதாரத் தரச் சோதனை](../.github/workflows/research-validation.yml), [மூன்று மொழிகளின் நிதி எண் ஒற்றுமை](../.github/workflows/translation-consistency.yml), [புதிய SCAP அசல் PDF கண்காணிப்பு — தினமும் 09:13](../.github/workflows/source-monitoring.yml), [நிதிக் கூட்டுத்தொகை/காலம் சரிபார்ப்பு](../.github/workflows/financial-reconciliation.yml), [தினசரி பதிவிறக்கக்கூடிய ஆய்வு அறிக்கை — 00:17](../.github/workflows/research-snapshots.yml). அனைத்தும் GitHub-hosted Ubuntu-வில் இயங்கும். அசல் FY2026 audited அறிக்கை இன்னும் உறுதிப்படுத்தப்படவில்லை; புதிய ஆதாரம் வந்தால் தானாக audited எனக் குறிக்காது.
+
 
 ## 🧭 இரண்டு முக்கிய ஆய்வு வகைகள்
 

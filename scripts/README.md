@@ -21,3 +21,16 @@ python3 scripts/research_validate.py --base HEAD^ --mermaid-dir .scap-validation
 Check results in Actions → Research quality gates; errors fail the workflow and appear as annotations. **This does not itself block direct pushes or guarantee audited accounting correctness.** If you want rejected pull-request merges until validation passes, separately enable a protected-branch ruleset requiring the Research quality gates status.
 
 Maintaining source declarations, periods, group-versus-parent distinctions, and actual original PDF access remains the responsibility of the research process. The validator never fabricates citations or replaces source verification.
+
+## Additional automation (installed and verified 30 September 2026)
+
+| Workflow | Scope | Example successful run |
+|---|---|---|
+| [Check English Tamil Sinhala parity](../.github/workflows/translation-consistency.yml) | All 20 topic triplets + companion chart counts + selected financial literals; other differences produce warnings | [Translation run](https://github.com/Gajarthan/SCAP-N0000-Research/actions/runs/36678792792) |
+| [Monitor SCAP original filings](../.github/workflows/source-monitoring.yml) | Daily 09:13 Asia/Colombo; scans issuer annual/quarterly, CSE company profile and a third-party *discovery* catalog. Only issuer-specific, signature-verified new PDF URLs create deduplicated review Issues | [Source monitor](https://github.com/Gajarthan/SCAP-N0000-Research/actions/runs/36678508842) |
+| [Reconcile SCAP financials](../.github/workflows/financial-reconciliation.yml) | On financial data/relevant report changes, verifies group PAT=NCI+owners, parent debt decomposition, owner-profit share, entity scope, fiscal dates and signed-audit distinction | [Reconciliation](https://github.com/Gajarthan/SCAP-N0000-Research/actions/runs/36678792793) |
+| [Daily SCAP research snapshot](../.github/workflows/research-snapshots.yml) | Daily 00:17 Asia/Colombo; saves date-stamped Markdown/JSON/CSV as downloadable Action artifacts (90-day retention) | [Download from Artifacts](https://github.com/Gajarthan/SCAP-N0000-Research/actions/runs/36678792857) |
+
+**Operational caveats:** The first monitor run fetched **3 of 4** configured indexes; the CSE profile URL returned **404**, and the accessible indexes exposed **zero new eligible original PDF links**. This is best-effort monitoring, **not exhaustive CSE filing surveillance**. Its output is an Issue for review, not a claim of audited evidence. Scheduled Actions can be delayed or dropped by GitHub. The financial ledger retains FY2026 as *subject to audit*; a verified final audited report should be added as a **separate period**, not silently overwrite the interim. See [machine-readable financial evidence](../data/financial-facts.json) and [monitored URL list](../sources/watchlist.json).
+
+**Protection and publication:** These Actions report checks but cannot prohibit direct commits. To require successful checks before PR merge, separately configure a GitHub branch ruleset. Dated artifacts are not automatically published on the website.

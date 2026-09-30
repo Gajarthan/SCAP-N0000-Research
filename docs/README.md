@@ -1,11 +1,11 @@
 # SCAP Research — GitHub Pages via GitHub Actions
 
 **Repository:** [Gajarthan/SCAP-N0000-Research](https://github.com/Gajarthan/SCAP-N0000-Research)  
-**Expected Pages URL, subject to live verification:** https://gajarthan.github.io/SCAP-N0000-Research/
+**Pages URL, deployment successful but independent browser verification outstanding:** https://gajarthan.github.io/SCAP-N0000-Research/
 
 ## Current configuration
 
-As of 30 September 2026 the public repository has a GitHub Pages site enabled (`has_pages = true`), and all static site files are committed in `main/docs`. A dedicated workflow is now stored at [`.github/workflows/deploy-pages.yml`](../.github/workflows/deploy-pages.yml). A successful publishing run and the actual public URL must still be confirmed before declaring the site live.
+As of 30 September 2026 the public repository has a GitHub Pages site enabled (`has_pages = true`), and all static site files are committed in `main/docs`. A dedicated workflow is now stored at [`.github/workflows/deploy-pages.yml`](../.github/workflows/deploy-pages.yml). A GitHub-hosted Pages deployment run completed successfully (e.g. [deployment run](https://github.com/Gajarthan/SCAP-N0000-Research/actions/runs/36671888854)). Independent browser-level reachability and public URL display still need verification.
 
 ## Run it with GitHub Actions
 
@@ -42,7 +42,7 @@ The original research is maintained in the three-language Markdown folders and `
 - [x] GitHub Pages Actions workflow configured for GitHub-hosted `ubuntu-latest`.
 - [ ] Pages publishing source is **GitHub Actions** (requires confirmation in Settings).
 - [x] GitHub-hosted `ubuntu-latest` runner configured; no self-hosted runner needed.
-- [ ] At least one deployment run succeeds.
+- [x] At least one deployment run succeeds.
 - [ ] The published URL is checked in English, Tamil and Sinhala with Markdown and Mermaid reports.
 
 **If the setup workflow fails at Configure GitHub Pages:** ensure the Pages source is **GitHub Actions**. `GITHUB_TOKEN` alone cannot be used by `configure-pages` to enable a previously disabled Pages site using its optional `enablement` input; a separately privileged token is required. The repository-level Pages flag was already enabled during this setup.

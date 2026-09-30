@@ -1,8 +1,8 @@
 # SCAP.N0000 — Investment Research
 
-**🌐 GitHub Pages with Actions:** [Deployment workflow](.github/workflows/deploy-pages.yml) · [View Actions runs](https://github.com/Gajarthan/SCAP-N0000-Research/actions/workflows/deploy-pages.yml) · [Choose publishing source](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages). Site publishing is **pending a successful run**. [Website setup](docs/README.md).
+**🌐 GitHub Pages with Actions:** [Deployment workflow](.github/workflows/deploy-pages.yml) · [View Actions runs](https://github.com/Gajarthan/SCAP-N0000-Research/actions/workflows/deploy-pages.yml) · [Choose publishing source](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages). The GitHub Pages deployment workflow has completed successfully; public URL should be checked independently. [Website setup](docs/README.md).
 
-**[📚 Stored source records](sources/SOURCE-REGISTER.md)** — 11 stable-ID evidence files; full original PDFs remain externally linked, not mirrored.
+**[📚 Stored source records](sources/SOURCE-REGISTER.md)** — 20 Markdown source/evidence cards (including 2 discovery-only records); full original PDFs remain externally linked, not mirrored.
 
 **[📋 Research coverage & scheduled fill queue — 20 topics / 3 languages](RESEARCH-QUEUE.md)**
 
@@ -19,6 +19,23 @@ A public, multilingual research notebook covering **company fundamentals** and *
 **Languages:** [English](en/README.md) · [தமிழ்](ta/README.md) · [සිංහල](si/README.md)
 
 > **Research status — 30 September 2026:** Educational research in progress, **not** investment advice. FY2025 audited issuer figures and FY2026 year-end interim figures have been added to the research, but the final FY2026 audited statements and later quarter still require source reconciliation; disputed third-party historical figures are marked. No verified current price, trading signal or SCAP valuation is presented.
+
+
+## GitHub Actions research automation
+
+These workflows run on **GitHub-hosted `ubuntu-latest`**; no self-hosted runner is required:
+
+| Action | When | Result |
+|---|---|---|
+| [Research validation](.github/workflows/research-validation.yml) | Relevant Markdown commits/PRs | Checks links, citations, provenance and Mermaid syntax. |
+| [Translation consistency](.github/workflows/translation-consistency.yml) | Research commits/PRs | Enforces 20 English/Tamil/Sinhala topic triplets, companion diagrams and designated shared financial figures. |
+| [Source monitoring](.github/workflows/source-monitoring.yml) | Daily **09:13 Sri Lanka**; on demand | Best-effort watches issuer/CSE/public catalogs; opens **deduplicated review Issues** only for newly found, signature-verified SCAP PDFs. A catalogue listing alone never becomes audited evidence. |
+| [Financial reconciliation](.github/workflows/financial-reconciliation.yml) | Financial data or applicable research changes | Checks group PAT attribution, parent debt sums, ratio, group/parent scope and audit/interim periods against [versioned figures](data/financial-facts.json). |
+| [Research snapshots](.github/workflows/research-snapshots.yml) | Daily **00:17 Sri Lanka**, and on demand | Generates Markdown, JSON and CSV in a **90-day downloadable Actions artifact**; does not silently rewrite repository research. |
+| [GitHub Pages](.github/workflows/deploy-pages.yml) | Website files in `docs/` change | Deploys the light-first public research website. |
+
+[Workflow setup, check limitations and manual instructions](scripts/README.md). Scheduled runs are best-effort and may be delayed. **No script can independently certify an audit opinion, financial data accuracy or translation meaning.** Missing original FY2026 SCAP audited/June filings remain OPEN until actual verification.
+
 
 ## Start with one of two analysis branches
 
@@ -76,4 +93,4 @@ These original notes are **preserved at their existing paths** to avoid breaking
 4. Mark missing or conflicting information **OPEN**. Do not present secondary data as audited, an old shareholding as current, or historical technical patterns as predictions.
 5. Keep private brokerage accounts, personal positions and trade receipts **out of this public repository**.
 
-No GitHub Actions or scheduled workflows are required.
+GitHub Actions are used for website deployment, research validation, trilingual consistency, source monitoring, financial reconciliation and downloadable daily snapshots.
