@@ -1,39 +1,44 @@
-# SCAP Research — public website
+# SCAP Research — GitHub Pages
 
-**Live site:** https://scap-public-research.thisanthan02.workers.dev/
+**Publishing target:** GitHub Pages for [Gajarthan/SCAP-N0000-Research](https://github.com/Gajarthan/SCAP-N0000-Research).
 
-**Source of truth:** This public repository, `main` branch. The site uses the Markdown reports and source cards under the existing folders; it does not maintain another copy of those detailed analyses.
+**Status checked on 30 September 2026:** the repository is public and the website files are already committed under main → /docs. The GitHub repository currently has **has_pages = false**. Publishing is **not enabled or live yet**.
 
-## Features
+## Enable GitHub Pages
 
-- Responsive editorial dashboard, historical FY2025/FY2026 comparison and owner-versus-minority profit chart.
-- Searchable 15-subject fundamental and 5-subject technical research library.
-- English / தமிழ் / සිංහල language navigation.
-- In-browser Markdown reader with sanitized HTML and Mermaid visualization support, loading the latest public research directly from GitHub when opened.
-- Live topic statuses from `RESEARCH-QUEUE.md` and evidence cards from `sources/SOURCE-REGISTER.md`.
-- Dark and light themes. No visitor login or brokerage integration.
+1. Open [Settings → Pages](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages) while signed in with repository administrator permissions.
+2. Under **Build and deployment**, choose **Deploy from a branch**.
+3. Choose branch **main** and folder **/docs**.
+4. Click **Save**.
+5. Once GitHub confirms publication, open its website URL and check the homepage, all three languages, charts and original-source links.
 
-## Deployment (verified 30 September 2026)
+**Expected URL after enabling, not yet confirmed live:** https://gajarthan.github.io/SCAP-N0000-Research/
 
-The live site is **served through a Cloudflare Worker** named `scap-public-research` on the connected account's `thisanthan02.workers.dev` subdomain. The script is preserved at [site-hosting/cloudflare-worker.js](../site-hosting/cloudflare-worker.js).
+GitHub Pages runs a **GitHub-managed internal Actions deployment** even for branch-based publishing. There are **no custom GitHub Actions workflow YAML files** in this repository, and you do not need to create any.
 
-This Worker proxies **only** the five static site assets from the public GitHub `docs/` directory, with a short cache. Detailed reports are fetched by the client's browser from GitHub's public raw Markdown endpoints and rendered with the pinned marked, DOMPurify and Mermaid libraries from jsDelivr. A Cloudflare Browser Rendering check verified the live homepage and the Tamil 20-topic library on 30 September 2026. Other individual article views were not browser-verified during that check because the Browser Rendering service returned a rate-limit error.
+## Files ready to publish
 
-**No custom GitHub Actions, workflow YAML, GitHub-hosted runner or build service was created.** Cloudflare Worker request usage may be subject to the connected account's plan and limits.
+- [index.html](index.html) — accessible, responsive public dashboard.
+- [assets/site.css](assets/site.css) — dark/light layout and mobile navigation.
+- [assets/config.js](assets/config.js) — all 20 subjects, English / தமிழ் / සිංහල labels.
+- [assets/app.js](assets/app.js) — report library, financial comparisons, Markdown reader and Mermaid rendering.
+- [assets/favicon.svg](assets/favicon.svg) — project icon.
+- .nojekyll — skip Jekyll processing.
 
-## Optional GitHub Pages deployment
+The website uses the existing Markdown reports and source records from this same public repository as the authoritative research. It fetches readable Markdown on main from raw.githubusercontent.com and reads the current research-queue and source-register files on site load. A GitHub fallback opens the original report when CDN dependencies are unavailable.
 
-The same static files are ready for GitHub Pages if wanted:
+## Evidence limits
 
-1. Open [repository Settings → Pages](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages).
-2. Select **Deploy from a branch** → **main** → **/docs** → **Save**.
-3. GitHub's expected project URL is `https://gajarthan.github.io/SCAP-N0000-Research/`, **but Pages is not currently verified as enabled**.
+The homepage FY2025 figures come from audited issuer statements; FY2026 figures are from the 27 May 2026 year-end **interim, subject to audit**, not verified final audited statements. This is not live pricing or investment advice. The public source register holds Markdown provenance records, not mirrored complete original PDFs.
 
-GitHub Pages internally runs a GitHub-managed Actions deployment, even with branch-based publishing. This is different from the deployed Cloudflare Worker, which requires no GitHub Actions.
+## Publication checklist
 
-## Evidence and limits
+- [x] Site source code committed to main/docs.
+- [x] Relative site asset links suitable for GitHub Pages subdirectory.
+- [x] Canonical URL now points to the proposed GitHub Pages URL.
+- [ ] Enable Pages using **main → /docs** in GitHub Settings.
+- [ ] Confirm GitHub displays the published URL.
+- [ ] Check Tamil, Sinhala and English reports plus Mermaid diagrams.
+- [ ] Confirm the GitHub repository's has_pages property is true.
 
-- Figures on the homepage are historical, sourced to the repository's earlier SCAP financial analysis. FY2025 is from audited comparative statements. FY2026 figures come from the **27 May 2026 interim**, and are **subject to audit**. The final FY2026 audited report and later quarter may revise them.
-- The source archive holds Markdown provenance records and publisher URLs; the original PDF documents have **not** been mirrored as files.
-- Site visitors do not log in; only a local theme preference may be stored.
-- Hosting and third-party CDN availability can affect report rendering; every report has a link back to the canonical GitHub file.
+The connected GitHub tools used in this chat can commit website files, but currently do **not** provide a GitHub Pages settings/write action.

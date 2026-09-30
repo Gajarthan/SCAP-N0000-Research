@@ -1,6 +1,6 @@
 # SCAP.N0000 — Investment Research
 
-**🌐 [Open the public SCAP Research website](https://scap-public-research.thisanthan02.workers.dev/)** — interactive dashboard, 20 research chapters, source records and live GitHub Markdown reader in English, Tamil and Sinhala. [Website source and hosting notes](docs/README.md).
+**🌐 GitHub Pages website — setup pending:** [Enable GitHub Pages](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages) using **main → /docs**. [Website source](docs/) · [Publishing instructions](docs/README.md). The GitHub Pages URL is **not yet verified live**.
 
 **[📚 Stored source records](sources/SOURCE-REGISTER.md)** — 11 stable-ID evidence files; full original PDFs remain externally linked, not mirrored.
 

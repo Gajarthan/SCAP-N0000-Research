@@ -1,6 +1,6 @@
 # SCAP.N0000 — தமிழ் முதலீட்டு ஆய்வு
 
-**🌐 [SCAP பொது ஆய்வு இணையதளத்தைத் திறக்கவும்](https://scap-public-research.thisanthan02.workers.dev/?lang=ta)** — 20 ஆய்வுகள், ஆதாரங்கள், வரைபடங்கள் மற்றும் English / தமிழ் / සිංහල Markdown வாசிப்பான். [இணையதள மூலக் கோப்புகள்](../docs/README.md).
+**🌐 GitHub Pages இணையதளம் — வெளியிடும் அமைப்பு மீதமுள்ளது:** [GitHub Pages-ஐ இயக்கவும்](https://github.com/Gajarthan/SCAP-N0000-Research/settings/pages) → **main → /docs**. [இணையதள மூலக் கோப்புகள்](../docs/) · [வழிமுறை](../docs/README.md). GitHub Pages இணையதளம் இன்னும் நேரடியாகச் சரிபார்க்கப்படவில்லை.
 
 **[📚 GitHub-இல் சேமித்த ஆதாரப் பதிவுகள்](../sources/SOURCE-REGISTER.md)** — 11 Markdown ஆதாரங்கள்; அசல் PDF கோப்புகள் இன்னும் வெளிப்புற இணைப்புகள் மட்டுமே.
 
