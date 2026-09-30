@@ -1,0 +1,25 @@
+# Local-only configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.key
+credentials*.json
+secrets*.json
+
+# Editor, OS and disposable build files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+
+# Private research material (never commit identifiable brokerage data)
+private/
+personal/
