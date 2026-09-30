@@ -1,0 +1,105 @@
+name: Validate SCAP research
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**/*.md"
+      - "scripts/research_validate.py"
+      - "scripts/tests/**"
+      - ".github/workflows/research-validation.yml"
+  pull_request:
+    paths:
+      - "**/*.md"
+      - "scripts/research_validate.py"
+      - "scripts/tests/**"
+      - ".github/workflows/research-validation.yml"
+  workflow_dispatch:
+    inputs:
+      full_scan:
+        description: Check all Markdown files, including older research
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-scap-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Research quality gates
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out research history
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Unit tests
+        run: python3 -m unittest discover -s scripts/tests -p 'test_*.py' -v
+
+      - name: Identify previous commit
+        id: diff
+        shell: bash
+        env:
+          KIND: ${{ github.event_name }}
+          PUSH_BEFORE: ${{ github.event.before }}
+          PR_BASE: ${{ github.event.pull_request.base.sha }}
+        run: |
+          if [[ "$KIND" == "pull_request" ]]; then
+            echo "base=$PR_BASE" >> "$GITHUB_OUTPUT"
+          elif [[ "$KIND" == "push" ]]; then
+            echo "base=$PUSH_BEFORE" >> "$GITHUB_OUTPUT"
+          else
+            echo "base=HEAD^" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Check local links, numeric citations, source fields and Mermaid fences
+        shell: bash
+        env:
+          BASE: ${{ steps.diff.outputs.base }}
+          FULL: ${{ inputs.full_scan }}
+        run: |
+          set -euo pipefail
+          if [[ "$FULL" == "true" ]]; then
+            python3 scripts/research_validate.py --all --mermaid-dir .scap-validation/mermaid
+          else
+            python3 scripts/research_validate.py --base "$BASE" --mermaid-dir .scap-validation/mermaid
+          fi
+
+      - name: Detect Mermaid diagrams
+        id: diagrams
+        shell: bash
+        run: |
+          if compgen -G ".scap-validation/mermaid/*.mmd" >/dev/null; then
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "present=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Prepare Mermaid parser
+        if: steps.diagrams.outputs.present == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Parse and render each changed Mermaid diagram
+        if: steps.diagrams.outputs.present == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          npm install --global @mermaid-js/mermaid-cli@11.4.1
+          for chart in .scap-validation/mermaid/*.mmd; do
+            echo "Mermaid validation: $chart"
+            if ! mmdc --input "$chart" --output "$chart.svg" --quiet; then
+              echo "::error title=Broken Mermaid syntax::Failed to render $chart"
+              exit 1
+            fi
+          done
+          echo "All Mermaid diagrams rendered successfully."
