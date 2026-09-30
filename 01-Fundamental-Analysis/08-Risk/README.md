@@ -1,41 +1,66 @@
-# 08 · Risk Analysis
+# 08 · Financing, collateral, regulatory and credit risks
 
 [← Fundamental analysis](../README.md) · [English](README.md) · [தமிழ்](../../ta/01-Fundamental-Analysis/08-Risk/README.md) · [සිංහල](../../si/01-Fundamental-Analysis/08-Risk/README.md)
 
-> **SCAP.N0000 · Softlogic Capital PLC** · **Status:** Research methodology only; no fresh SCAP conclusion is implied. **Reference date: 2026-09-30**.
+> **SCAP.N0000 · Original research · as of 30 Sep 2026 · LKR million unless explicitly stated.** **OPEN: SCAP final FY2025/26 audited and June 2026 original filings not reconciled. Current changes and covenants must not be inferred from FY2025.**
 
 ## 🎯 Research question
 
-Which financial, operating, regulatory, governance and equity-market exposures could permanently impair owner value?
+What did audited financial statements actually expose at the listed SCAP parent level, and which risks remain conditional?
 
-## 🔎 What to verify
+**Entity discipline:** at 31 March 2025 the SCAP **standalone parent** reported interest-bearing borrowing **14,797.33** (audited note 39, PDF p.148) versus the **consolidated group's 19,467.97**. The two are not interchangeable. The later 31 March 2026 **year-end interim** parent borrowing **17,324.26** and cash/bank **32.07** are **subject to audit**. [SCAP-AR-2025](../../sources/records/SCAP-AR-2025.md) · [SCAP-FY2026-YE-INTERIM](../../sources/records/SCAP-FY2026-YE-INTERIM.md).
 
-- [ ] Separate probability from possible severity; record observed exposure rather than assigning made-up scores.
-- [ ] Review parent borrowing and guarantees, insurer claims/solvency, finance credit/funding, liquidity and related-party risks.
-- [ ] Build a scenario, mitigation, early-warning metric, filing reference and reassessment trigger for each mechanism.
+## 🔎 Dated evidence
 
-## 🧭 Research logic
+| Audited FY2025 parent item | LKR mn | Source and exact limitation |
+|---|---|---|
+| Bank loans | 1,950.22 | Note 39 p.148; **426.02 due within one year**, **1,524.20 after one year** (p.149) |
+| Commercial paper | 11,676.64 | Note 39 p.148; **instrument maturity-by-date OPEN** |
+| Securitisation | 1,154.54 | Note 39 p.148; cash flow/collateral, contractual schedule need separate verification |
+| Lease creditors | 15.93 | Note 39 p.148; ~3.07 within one year, 12.86 after |
+| Debentures & subordinated debt (parent) | 0.00 | As at 31 March 2025 only; may have changed later |
+| Total parent interest-bearing borrowing | 14,797.33 | Sum of parent-only note 39 columns |
+| Parent contingent guarantees | 75.00 | Note 44 p.161; RPT note 47.4 p.168 names Softlogic Stockbrokers; FY2024 amount 150.00 |
+| Life shares securing parent bank facilities | 48,559,000 NDB / 32,490,704 DFCC shares | Note 39.1.2 p.149; numbers are **shares, not LKR millions** |
+| Parent operating cash flow | −4,605.10 | FY25 audited p.70; cash flow ≠ profit |
+| Parent cash dividend received / interest paid | +3,273.55 / −2,549.88 | FY25 audited p.70; receipts/payments not future capacity |
+
+### Refinancing and pledged equity
+
+At FY2025 SCAP directors described interest servicing as depending partly on dividends from subsidiaries and new commercial-paper issuance, reporting approximately **82% commercial-paper renewal experience** in going-concern note 2.1.2 (PDF p.71). That **82% was management's historical observation**, not a contractual roll guarantee or a forecast. FY2025 collateral note 39.1.2 listed NDB/DFCC Life share pledges. An issuer's later Life-share register cannot determine whether bank security has been released. [SCAP-AR-2025](../../sources/records/SCAP-AR-2025.md).
+
+### Separate insurer and finance company constraints
+
+Softlogic Life's **2025 calendar-year risk-based CAR was 245%** (Life original issuer report); this is **insurer capital**, not SCAP parent available cash. FY2025 SCAP note 41.7, p.157 discloses a **798.004 restricted one-off surplus** with IRCSL distribution conditions. Softlogic Finance's **July 2026 issuer business update** reports an approximately **61% finance-company CAR** and roughly 3.7bn deposits; those are **NBFI** figures subject to financial-statement tie-out. The Life and Finance capital ratios must **never be added** or interpreted as parent-level cash resources. [SLIFE-AR-2025](../../sources/records/SLIFE-AR-2025.md) · [SFIN-UPDATE-JUL2026](../../sources/records/SFIN-UPDATE-JUL2026.md).
+
+### Ownership, collateral and dividend transmission
+
+SCAP FY2025 note 44 (p.161) reports **75.00m parent guarantees**, with related-party note 47.4 (p.168) specifying Softlogic Stockbrokers. The same related-party note shows SCAP's dividend income **3,273.546m from Softlogic Life**. SCAP ordinary shareholder dividends require **separate** solvency, bank-covenant and board checks. New 2026 Life dividend announcements are not proof of parent receipt. [SLIFE-JUN2026-DIVIDEND](../../sources/records/SLIFE-JUN2026-DIVIDEND.md).
+
+## Evidence map
 
 ```mermaid
 flowchart LR
-  A["Risk source"] --> B["Exposure"] --> C["Evidence test"]
+ CP["FY25 parent CP 11676.64m"] --> R["Refinancing requirement"]
+ P["Life share collateral, 2025"] --> R
+ L["Subsidiary dividends"] --> C["SCAP cash receipts"]
+ R --> C
+ C --> I["Interest and debt service"]
+ I --> O["Ordinary dividend capacity OPEN"]
+ F["IRCSL / CBSL capital rules"] --> O
 ```
 
-## ⚠️ What not to assume
+## ⚠️ Missing evidence
 
-A risk register describes possible channels; it does not prove an incident has occurred or a particular outcome will happen.
+- [ ] Reconcile FY26 final audited **commercial-paper tranches, settlement dates, rates, covenants and debt maturity** with June 2026 issuer original.
+- [ ] Check 2026 bank filings for collateral release/new Life share pledges and parent guarantees.
+- [ ] Source FY26 standalone cash flow, deposit-funding duration at Finance and regulatory solvency/distributable reserves at Life.
+- [ ] Do not mislabel consolidated group maturity schedule as SCAP standalone borrowing.
 
-## 🛠️ SCAP application
+**Source IDs:** [SCAP-AR-2025](../../sources/records/SCAP-AR-2025.md) · [SCAP-FY2026-YE-INTERIM](../../sources/records/SCAP-FY2026-YE-INTERIM.md) · [SLIFE-AR-2025](../../sources/records/SLIFE-AR-2025.md) · [SFIN-UPDATE-JUL2026](../../sources/records/SFIN-UPDATE-JUL2026.md) · [SLIFE-JUN2026-DIVIDEND](../../sources/records/SLIFE-JUN2026-DIVIDEND.md) · [SCAP-AR-2026-CATALOGUE](../../sources/records/SCAP-AR-2026-CATALOGUE.md) · [SCAP-JUN2026-CATALOGUE](../../sources/records/SCAP-JUN2026-CATALOGUE.md).
 
-Reconcile SCAP's risk notes, actual parent debt and current regulator disclosures before estimating the size of exposure.
+[SCAP FY2025 audited original](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) · [SCAP FY2026 interim](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) · [Finance issuer](https://softlogicfinance.lk/news/building-a-stronger-more-resilient-softlogic-finance/).
 
-## 📝 Evidence register
+[Primary sources](../../sources/SOURCE-REGISTER.md) · [Research queue](../../RESEARCH-QUEUE.md)
 
-| Metric or event | Period / scope | Primary citation | Observed result |
-|---|---|---|---|
-| ______ | ______ | ______ | ______ |
-| ______ | ______ | ______ | ______ |
-
-[Earlier SCAP note](../../05-risks-and-questions.md) · [Source register](../../SOURCES.md) · [CSE](https://www.cse.lk/)
-
-**Method:** Record publication date, accounting scope, units and exact page. No market quotation or investment recommendation is implied.
+This is evidence-based financial research, not a buy/sell recommendation.
