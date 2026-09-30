@@ -46,3 +46,7 @@
 වැදගත් අගයකට **ප්‍රකාශන දිනය + ගිණුම් කාලය + පිටුව/සටහන + ඒකකය + සමූහ/තනි සමාගම** සටහන් කරන්න.
 
 [English source index](../SOURCES.md).
+
+## 2026-09-30 — කර්මාන්ත මූලාශ්‍ර සහ සත්‍යාපනය
+
+[SCAP නිල වාර්තා දර්ශකය](../sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md), [IRCSL රක්ෂණ කර්මාන්ත දත්ත](../sources/records/IRCSL-INSURANCE-SECTOR-2024-Q1-2025.md), [CBSL මූල්‍ය ක්ෂේත්‍ර තොරතුරු](../sources/records/CBSL-FINANCIAL-SECTOR-PERFORMANCE-2025.md), [සිංහල කර්මාන්ත අධ්‍යයනය](01-Fundamental-Analysis/04-Industry/INDUSTRY-EVIDENCE-2026-09-30.md). **මූලාශ්‍ර සටහන් 23ක්**; මුල් ලේඛන බාහිර URL පමණි. SCAP FY2026 අවසන් විගණනය සහ 2026 ජූනි මුල් වාර්තාව **OPEN**.

@@ -2,7 +2,7 @@
 
 [← Source archive guide](README.md) · [← Research queue](../RESEARCH-QUEUE.md) · [English sources](../SOURCES.md) · [தமிழ்](../ta/SOURCES.md) · [සිංහල](../si/SOURCES.md)
 
-**Initialized:** 2026-09-30 · **20 source/evidence records (18 indexed filings/leads + 2 secondary discovery notes).** Entries below are **stored Markdown source/evidence records** in this GitHub repository. **None of the original PDFs or full copyrighted website articles is currently mirrored in GitHub.** For each, follow the original publisher link. A source card can be complete as a citation record while its *financial tie-out* still remains OPEN.
+**Initialized:** 2026-09-30 · **23 source/evidence records (including 2 secondary discovery notes and 3 additional issuer/regulator index and sector references).** Entries below are **stored Markdown source/evidence records** in this GitHub repository. **None of the original PDFs or full copyrighted website articles is currently mirrored in GitHub.** For each, follow the original publisher link. A source card can be complete as a citation record while its *financial tie-out* still remains OPEN.
 
 | Stable ID | Original work | Entity / date | Evidence type | Repo record | Raw document in GitHub? |
 |---|---|---|---|---|---|
@@ -28,6 +28,10 @@
 
 | `SCAP-AR-2026-DISCOVERY` | [SCAP FY2025/26 audited PDF discovery lead — ORIGINAL NOT RETRIEVED](https://lankadata.net/listed-companies/) | SCAP FY2026; index only | SECONDARY DISCOVERY; original signed SCAP audited PDF OPEN | [View evidence](records/SCAP-AR-2026-DISCOVERY.md) | **No — original unlocated** |
 | `SCAP-FY2027-Q1-DISCOVERY` | [SCAP first quarter to 30 June 2026 — secondary earnings discovery](https://www.marketscreener.com/news/softlogic-capital-plc-reports-earnings-results-for-the-first-quarter-ended-june-30-2026-ce7859dfd88af521) | SCAP FY2027 Q1, 30 June 2026 | SECONDARY DISCOVERY; original SCAP June CSE PDF OPEN | [View evidence](records/SCAP-FY2027-Q1-DISCOVERY.md) | **No — original unlocated** |
+
+| `SCAP-OFFICIAL-FINANCIALS-INDEX-2026` | [Official SCAP annual index](https://softlogiccapital.lk/financials/) and [quarterly index](https://softlogiccapital.lk/quarterly-data/) | SCAP issuer website; undated index, accessed 30 Sep 2026 | UNASSURED INDEX; FY2026 audited and June original retrieval OPEN | [View evidence](records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md) | **No — external original** |
+| `IRCSL-INSURANCE-SECTOR-2024-Q1-2025` | [Insurance sector performance 2020–2024 and Q1 2025](https://ircsl.gov.lk/wp-content/uploads/2025/08/PRESS-RELEASE-_-Reviewing-Sri-Lankas-Insurance-Sector-Performance-2020-to-2024-and-Q1-2025.pdf) | Insurance industry; calendar 2024 provisional and Q1 2025 | REGULATOR SECTOR DATA, not Softlogic Life audited accounts | [View evidence](records/IRCSL-INSURANCE-SECTOR-2024-Q1-2025.md) | **No — external original** |
+| `CBSL-FINANCIAL-SECTOR-PERFORMANCE-2025` | [CBSL financial-sector performance in 2025](https://www.cbsl.gov.lk/en/node/20110) | Sri Lankan finance industry; calendar 2025 | REGULATOR SECTOR COMMENTARY, not SCAP or Softlogic Finance audited accounts | [View evidence](records/CBSL-FINANCIAL-SECTOR-PERFORMANCE-2025.md) | **No — external original** |
 
 ## Source priority and exception handling
 

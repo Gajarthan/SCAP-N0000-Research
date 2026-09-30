@@ -84,3 +84,7 @@ Primary starting points: [SCAP CSE annual FY2025](https://cdn.cse.lk/cmt/upload_
 > **Reminder:** the SCAP March 2026 interim numbers are subject to audit; some older third-party FY2025 revenue and segment values were disputed or algebraically reconstructed. Source accuracy takes priority over making a dashboard appear complete.
 
 **Next step status:** `SOURCE-CHECK — QUEUED` · **Last source-audit date:** `2026-09-30`.
+
+### 30 Sep 2026 — Industry source evidence / validation repair
+
+[Industry evidence in English](01-Fundamental-Analysis/04-Industry/INDUSTRY-EVIDENCE-2026-09-30.md) · [தமிழ்](ta/01-Fundamental-Analysis/04-Industry/INDUSTRY-EVIDENCE-2026-09-30.md) · [සිංහල](si/01-Fundamental-Analysis/04-Industry/INDUSTRY-EVIDENCE-2026-09-30.md). **PARTIAL**: IRCSL calendar insurance GWP and CBSL calendar finance-sector commentary now have separate source records, not SCAP-specific audited metrics. The register holds **23 Markdown records**; original PDF binaries **0**. The 13 previously template-only chapters have addendums, but their original README topic statuses are not all reconciled; no unsupported **FILLED** promotion. The final SCAP FY2026 signed audit and original June interim are still **OPEN**. Documentation validation-field repairs use existing checks; no workflows were created or changed.

@@ -46,3 +46,7 @@
 ஒவ்வொரு முக்கிய எண்கும் **வெளியீட்டுத் தேதி + கணக்கியல் காலம் + ஆவணப் பக்கம் + அலகு + குழுமமா/தனி நிறுவனமா** என்பதைக் குறிப்பிடவும்.
 
 [English source index](../SOURCES.md).
+
+## 30-09-2026 — தொழிற்துறை மற்றும் ஆதாரச் சரிபார்ப்பு
+
+[SCAP இணையச் சுட்டி](../sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md), [IRCSL காப்பீட்டுத் தொழிற்துறை புள்ளிவிவரங்கள்](../sources/records/IRCSL-INSURANCE-SECTOR-2024-Q1-2025.md), [CBSL நிதித் தொழிற்துறை தகவல்](../sources/records/CBSL-FINANCIAL-SECTOR-PERFORMANCE-2025.md), [தமிழ் தொழிற்துறை ஆய்வு](01-Fundamental-Analysis/04-Industry/INDUSTRY-EVIDENCE-2026-09-30.md). மொத்தம் **23 ஆதாரப் பதிவுகள்**; அசல் ஆவணங்கள் வெளிப்புற URL-கள் மட்டுமே. SCAP FY2026 இறுதி audit, June 2026 அசல் அறிக்கை இன்னும் **OPEN**.

@@ -16,3 +16,18 @@
 - **Reconciliation status:** **OPEN**. Locate canonical SCAP-specific CSE PDFs, inspect signed auditor opinion, compare SCAP Group and standalone Company FY2026 audited numbers against year-end interim, then inspect June 2026 originals, NCI and subsequent events. Do not substitute Softlogic Holdings, Softlogic Finance or Softlogic Life statements.
 - **Related existing source records:** [FY2026 year-end interim](SCAP-FY2026-YE-INTERIM.md), [FY2026 annual catalogue](SCAP-AR-2026-CATALOGUE.md), [June 2026 catalogue](SCAP-JUN2026-CATALOGUE.md).
 - **Relevant report index:** [Financial Statements](../../01-Fundamental-Analysis/02-Financial-Statements/README.md).
+
+## Validator-compatible provenance metadata
+
+| Field | Recorded detail |
+|---|---|
+| Source ID | `SCAP-OFFICIAL-FINANCIALS-INDEX-2026` |
+| Publisher | Softlogic Capital PLC (issuer website) |
+| Period covered | Undated annual- and quarterly-report indexes; indexed periods are historical; not SCAP FY2026 statements |
+| Publication date | Not stated; accessed 30 September 2026 |
+| Reporting entity / accounting scope | SCAP issuer index only; Group vs standalone Company is not determined by index listing |
+| Audit / evidence status | WEBSITE INDEX — UNASSURED; FY2025/26 final audit and June 2026 original statements OPEN |
+| Page references / section | Annual Data listing and Quarterly Data listing; PDF pages N/A (originals not retrieved) |
+| Original URL | https://softlogiccapital.lk/financials/ (also https://softlogiccapital.lk/quarterly-data/) |
+| SHA-256 | N/A; no binary obtained or archived |
+| Redistribution permission | Not established; original website pages are externally linked, not mirrored |

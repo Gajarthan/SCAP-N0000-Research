@@ -9,3 +9,18 @@
 - **Contradictions / limits:** Sector growth cannot be attributed to Softlogic Finance; the 2025 calendar period and SCAP FY2026 are not identical. Compare entity-specific financing costs, asset quality and capital against like-period peers before drawing conclusions.
 - **Archive:** **external original, not stored locally**; no binary, checksum or size. HTML page independently linked, not redistributed.
 - **Linked research:** [Industry English](../../01-Fundamental-Analysis/04-Industry/README.md) · [தமிழ்](../../ta/01-Fundamental-Analysis/04-Industry/README.md) · [සිංහල](../../si/01-Fundamental-Analysis/04-Industry/README.md).
+
+## Validator-compatible provenance metadata
+
+| Field | Recorded detail |
+|---|---|
+| Source ID | `CBSL-FINANCIAL-SECTOR-PERFORMANCE-2025` |
+| Publisher | Central Bank of Sri Lanka (CBSL) |
+| Period covered | Calendar 2025 sector performance, not SCAP fiscal year |
+| Publication date | 17 March 2026 (as recorded in prior research; source-date reconfirmation OPEN) |
+| Reporting entity / accounting scope | Sri Lankan financial sector overview; not SCAP Group or Softlogic Finance issuer accounts |
+| Audit / evidence status | REGULATOR COMMENTARY; not an audited SCAP or Softlogic Finance filing |
+| Page references / section | Publisher HTML section FULL TEXT, first two paragraphs; PDF pages N/A |
+| Original URL | https://www.cbsl.gov.lk/en/node/20110 |
+| SHA-256 | N/A; HTML externally linked; no binary archived |
+| Redistribution permission | Not established; link only, no original document mirrored |

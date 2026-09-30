@@ -37,3 +37,7 @@ No personal portfolio positions, brokerage credentials, copied private datasets,
 ### Newly discovered reports / CI requirements
 
 Every file in `sources/records/`, **including DISCOVERY / index-only notes**, must list a matching stable source ID, source publisher, period, legal entity/scope, assurance status (including **NOT VERIFIED**), page/section (**N/A** when original not retrieved), external original or **explicitly labelled secondary lead URL**, redistribution permission and SHA-256/archival status (**N/A** when no binary). Every source/evidence file is indexed in `SOURCE-REGISTER.md`. This is verified by [Research Validation Actions](../.github/workflows/research-validation.yml).
+
+### 30 September 2026 correction: validator and index
+
+The [register](SOURCE-REGISTER.md) now lists **23** records, including [SCAP issuer financial-report indexes](records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md), [IRCSL insurance industry statistics](records/IRCSL-INSURANCE-SECTOR-2024-Q1-2025.md) and [CBSL 2025 financial-sector commentary](records/CBSL-FINANCIAL-SECTOR-PERFORMANCE-2025.md). Their original documents are **external original, not stored locally** (no PDF redistribution permission established). Source metadata was normalized to the existing `scripts/research_validate.py` schema after three CI failures; the original SCAP FY2026 final audited and 30 June 2026 interim remain OPEN. **No new GitHub Actions or workflows** were authored.

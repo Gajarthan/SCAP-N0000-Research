@@ -9,3 +9,18 @@
 - **Contradictions / limitations:** Calendar industry GWP is **not** SCAP fiscal-year operating income, Softlogic Life company GWP or SCAP ordinary-shareholder profit. These data cannot establish insurer-specific market share, solvency or cash available for dividends. Later 2025/2026 industry handbooks and entity-specific filings require a separate dated comparison.
 - **Archive:** **external original, not stored locally**; binary file, size and SHA-256 N/A; redistribution/GitHub-upload permission not established.
 - **Linked research:** [Industry English](../../01-Fundamental-Analysis/04-Industry/README.md) · [தமிழ்](../../ta/01-Fundamental-Analysis/04-Industry/README.md) · [සිංහල](../../si/01-Fundamental-Analysis/04-Industry/README.md).
+
+## Validator-compatible provenance metadata
+
+| Field | Recorded detail |
+|---|---|
+| Source ID | `IRCSL-INSURANCE-SECTOR-2024-Q1-2025` |
+| Publisher | Insurance Regulatory Commission of Sri Lanka (IRCSL) |
+| Period covered | Calendar 2020–2024 provisional statistics and quarter ended 31 March 2025 |
+| Publication date | August 2025 inferred from publisher URL path; exact day not verified |
+| Reporting entity / accounting scope | Sri Lankan life and general insurance industries; not SCAP or Softlogic Life financial statements |
+| Audit / evidence status | REGULATORY SECTOR STATISTICS; not an audit opinion on any SCAP entity |
+| Page references / section | Original Chart 1, 2020–2024 GWP; adjacent Q1 2025 discussion; original PDF page number not separately verified |
+| Original URL | https://ircsl.gov.lk/wp-content/uploads/2025/08/PRESS-RELEASE-_-Reviewing-Sri-Lankas-Insurance-Sector-Performance-2020-to-2024-and-Q1-2025.pdf |
+| SHA-256 | N/A; no binary obtained or archived |
+| Redistribution permission | Not established; externally linked, not mirrored |

@@ -60,3 +60,7 @@ Log claims **as of a date**. Distinguish a claim about a dated document from a c
 5. Record a dated, sourced valuation rather than guessing intrinsic value.
 
 **No portfolio positions, account identifiers or private brokerage receipts in this public log.**
+
+## 30 Sep 2026 — Industry reference indexing and validator field correction
+
+Added compatible provenance-table fields to [SCAP financial index](sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md), [IRCSL insurance industry](sources/records/IRCSL-INSURANCE-SECTOR-2024-Q1-2025.md) and [CBSL 2025 financial sector](sources/records/CBSL-FINANCIAL-SECTOR-PERFORMANCE-2025.md), and indexed these in the [23-record register](sources/SOURCE-REGISTER.md). The first was the common root cause of failing research validation on commits 65a3bede, 113976b and 425be5f: absent registered ID and schema fields. In these failures all 31 Python unit tests passed; the subsequent documentation gate failed. Industry [English](01-Fundamental-Analysis/04-Industry/INDUSTRY-EVIDENCE-2026-09-30.md), [Tamil](ta/01-Fundamental-Analysis/04-Industry/INDUSTRY-EVIDENCE-2026-09-30.md), [Sinhala](si/01-Fundamental-Analysis/04-Industry/INDUSTRY-EVIDENCE-2026-09-30.md) remain **PARTIAL**; fiscal-year and calendar-year comparisons separated. **Original PDFs stored: zero.** Signed FY2026 SCAP audited originals and SCAP 30 June 2026 interim remain OPEN; no new workflows created.
