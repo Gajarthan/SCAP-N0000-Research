@@ -96,3 +96,7 @@ ChatGPT කාර්යය සෑම ධාවනයකදීම මෙම statu
 ### 2026-09-30 — GSD main ඒකාබද්ධ කිරීම සහ තත්ත්වය
 
 [GSD සැලැස්ම](../.gsd-chatgpt/PLAN.md) · [වත්මන් තත්ත්වය](../.gsd-chatgpt/STATE.md) · [තීරණ](../.gsd-chatgpt/DECISIONS.md). PR #1 `main` වෙත merge කර ඇත. අවම තහවුරු කළ තත්ත්වය: **9 PARTIAL, 11 addendum-only / නැවත පරීක්ෂාව අවශ්‍යයි, 0 FILLED**. මාතෘකා 13ට addendum ඇතත් පූර්ණ පර්යේෂණ අවසන් වී නැත. මූලාශ්‍ර සටහන් **23**, ගබඩා කළ මුල් PDF **0**. SCAP FY2026 අවසන් විගණනය සහ 2026 ජූනි මුල් වාර්තාව **OPEN**. නව workflow නැත.
+
+### 2026-09-30 — GSD මුල් වාර්තා සෙවීම (OPEN)
+
+[SCAP වාර්ෂික දර්ශකය](https://softlogiccapital.lk/financials/), [කාර්තු දර්ශකය](https://softlogiccapital.lk/quarterly-data/) සහ [තෙවන පාර්ශ්ව නාමාවලිය](https://nanayojana.com/company/SCAP.N0000) නැවත පරීක්ෂා කළෙමු. SCAP නිකුත්කරු `1100` සඳහා FY2026 අත්සන් කළ විගණිත PDF හෝ 2026 ජූනි 30 මුල් අතුරු PDF **ලැබුණේ නැත**. Holdings `1075` සහ Life `364` වෙනත් නිකුත්කරුවන්ය. [මූලාශ්‍ර සෙවුම් සටහන](../sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md). නව විගණිත අගයන් තහවුරු කර නැත; **9 PARTIAL, 11 addendum-only, 0 FILLED**; මූලාශ්‍ර සටහන් **23**, මුල් PDF **0**. ඊළඟට SCAP මුල් CSE ගොනුව සොයන්න.

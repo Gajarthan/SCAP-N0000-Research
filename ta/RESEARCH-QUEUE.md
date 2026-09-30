@@ -96,3 +96,7 @@ ChatGPT task ஒவ்வொரு முறையும் இந்த மு�
 ### 30-09-2026 — GSD main இணைப்பு மற்றும் நிலைச் சரிபார்ப்பு
 
 [GSD திட்டம்](../.gsd-chatgpt/PLAN.md) · [தற்போதைய நிலை](../.gsd-chatgpt/STATE.md) · [முடிவுகள்](../.gsd-chatgpt/DECISIONS.md). PR #1 `main`-இல் இணைக்கப்பட்டது. தற்போதைய குறைந்தபட்ச உறுதிப்படுத்தப்பட்ட நிலை: **9 PARTIAL, 11 addendum-only / மேலாய்வு தேவை, 0 FILLED**. 13 தலைப்புகளுக்கு addendum உள்ளது; முழுமையான ஆய்வு முடிந்ததாகக் கருத வேண்டாம். ஆதாரப் பதிவுகள் **23**, சேமிக்கப்பட்ட அசல் PDF **0**. SCAP FY2026 இறுதி தணிக்கை, ஜூன் 2026 அசல் அறிக்கை **OPEN**. புதிய workflow இல்லை.
+
+### 2026-09-30 — GSD அசல் அறிக்கை தேடல் (OPEN)
+
+[SCAP ஆண்டு அறிக்கைச் சுட்டி](https://softlogiccapital.lk/financials/), [காலாண்டுச் சுட்டி](https://softlogiccapital.lk/quarterly-data/) மற்றும் [மூன்றாம் தரப்புப் பட்டியல்](https://nanayojana.com/company/SCAP.N0000) மீண்டும் தேடப்பட்டன. SCAP நிறுவனம் `1100`-க்குரிய FY2026 இறுதி தணிக்கை PDF அல்லது 30 ஜூன் 2026 அசல் இடைக்கால PDF **கிடைக்கவில்லை**. Holdings `1075`, Life `364` ஆகியவை வேறு நிறுவனங்கள். [ஆதாரத் தேடல் பதிவு](../sources/records/SCAP-OFFICIAL-FINANCIALS-INDEX-2026.md). புதிய audit எண்கள் உறுதிப்படுத்தப்படவில்லை; **9 PARTIAL, 11 addendum-only, 0 FILLED**; ஆதாரப் பதிவுகள் **23**, அசல் PDF **0**. அடுத்தது: SCAP அசல் CSE கோப்பைக் கண்டறிதல்.
