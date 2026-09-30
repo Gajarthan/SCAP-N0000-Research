@@ -8,29 +8,31 @@
 
 | # | Visualization | Data basis |
 |---|---|---|
-| 01 | [Ownership tree — dated](#01-ownership-tree-dated) | FY2026 ownership |
-| 02 | [Business ecosystem](#02-business-ecosystem) | Issuer business map |
-| 03 | [Business-model canvas](#03-businessmodel-canvas) | Business mechanisms |
-| 04 | [Segment revenue](#04-segment-revenue) | FY2026 interim + reconciled estimate |
-| 05 | [Segment profit and loss](#05-segment-profit-and-loss) | FY2026 interim |
-| 06 | [Who receives group profit?](#06-who-receives-group-profit) | FY2026 interim |
-| 07 | [Profit-to-cash pathway](#07-profittocash-pathway) | FY2026 parent-only |
-| 08 | [Company milestones](#08-company-milestones) | 2005–2026 events |
-| 09 | [Insurance customers and reach](#09-insurance-customers-and-reach) | Insurer 2023–2025 |
-| 10 | [Distribution-channel map](#10-distributionchannel-map) | Insurer FY25 / undated finance |
-| 11 | [Industry market position](#11-industry-market-position) | Insurer calendar 2025 |
-| 12 | [Competitive-advantage evidence](#12-competitiveadvantage-evidence) | Insurer 2025 / hypotheses |
-| 13 | [Related-party flow of funds](#13-relatedparty-flow-of-funds) | FY2026 parent-only |
-| 14 | [Regulatory dependency map](#14-regulatory-dependency-map) | Insurer 2025 / sector regulation |
-| 15 | [Opportunities and constraints](#15-opportunities-and-constraints) | Mixed historical periods |
+| 01 | [Ownership tree — dated](#v01) | FY2026 ownership |
+| 02 | [Business ecosystem](#v02) | Issuer business map |
+| 03 | [Business-model canvas](#v03) | Business mechanisms |
+| 04 | [Segment revenue](#v04) | FY2026 interim + reconciled estimate |
+| 05 | [Segment profit and loss](#v05) | FY2026 interim |
+| 06 | [Who receives group profit?](#v06) | FY2026 interim |
+| 07 | [Profit-to-cash pathway](#v07) | FY2026 parent-only |
+| 08 | [Company milestones](#v08) | 2005–2026 events |
+| 09 | [Insurance customers and reach](#v09) | Insurer 2023–2025 |
+| 10 | [Distribution-channel map](#v10) | Insurer FY25 / undated finance |
+| 11 | [Industry market position](#v11) | Insurer calendar 2025 |
+| 12 | [Competitive-advantage evidence](#v12) | Insurer 2025 / hypotheses |
+| 13 | [Related-party flow of funds](#v13) | FY2026 parent-only |
+| 14 | [Regulatory dependency map](#v14) | Insurer 2025 / sector regulation |
+| 15 | [Opportunities and constraints](#v15) | Mixed historical periods |
 
 > **Source label key:** *CSE interim* = SCAP's 27 May 2026 company disclosure, FY2026 **subject to audit**; *Insurer 2025* = Softlogic Life, a different reporting entity with a **December** year-end; *issuer site, undated* = operating description, not a 2026 audited count; *secondary* = unverified news/data vendor. "Other segment" is a **derived rounded reconciliation**—see chart 04.
+
+<a id="v01"></a>
 
 ## 01 · Ownership tree — dated
 
 ```mermaid
 flowchart TB
-  H["Softlogic Holdings PLC"] --> P["Listed SCAP\n31 Mar 2026"]
+  H["Softlogic Holdings PLC 69.35%"] --> P["Listed SCAP\n31 Mar 2026"]
   P --> L["Life 50.16%"]
   P --> F["Finance 81.71%"]
   P --> O["SCAP One 100%"]
@@ -42,6 +44,8 @@ flowchart TB
 Softlogic Holdings' **69.35%** of SCAP and SCAP's **50.16%** of Softlogic Life, **81.71%** of Softlogic Finance, and **100%** each of SCAP One and SR One are reported **as at 31 Mar 2026**. **Stockbrokers and Asset Management exact current stakes are unverified**. The acquired life insurer is an *indirect* holding, not an extra 100%-owned SCAP asset.
 
 **Provenance:** [Source 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) · [Source 2](https://softlogiccapital.lk/about-us-overview/).
+
+<a id="v02"></a>
 
 ## 02 · Business ecosystem
 
@@ -60,6 +64,8 @@ flowchart TB
 SCAP's operating exposures include insurance, lending and deposits, equity intermediation, and asset/unit-trust management. These are **categories of activity**, not revenue weights. The insurer reported **LKR 40.1bn GWP in calendar 2025**, which is **not** SCAP group revenue.
 
 **Provenance:** [Source 1](https://softlogiccapital.lk/about-us-overview/) · [Source 2](https://softlogiccapital.lk/subsidiaries/) · [Source 3](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/).
+
+<a id="v03"></a>
 
 ## 03 · Business-model canvas
 
@@ -83,6 +89,8 @@ Customers, fee and interest receipts, costs and regulatory restrictions differ a
 
 **Provenance:** [Source 1](https://softlogiccapital.lk/about-us-overview/) · [Source 2](https://softlogiccapital.lk/subsidiaries/).
 
+<a id="v04"></a>
+
 ## 04 · Segment revenue
 
 ```mermaid
@@ -96,6 +104,8 @@ xychart-beta
 Segment gross revenues for the year ended **31 Mar 2026** in **LKR million**: Insurance **48,425.96**, Finance **1,384.78**, Other **approximately 2,759.84**, then adjustments/eliminations **−1,260.09**, giving group total **51,310.49**. **The Other value is derived algebraically** from previously reviewed CSE-line totals and aligns with a third-party segment figure rounded to 2,760; it has **not** been separately rechecked against the original segment PDF line in this pass. Never add a segment GWP series to this chart.
 
 **Provenance:** [Source 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) · [Source 2](https://stockanalysis.com/quote/cose/SCAP.N0000/financials/) · Other segment is a **derived reconciliation**, not an independently reverified exact PDF line..
+
+<a id="v05"></a>
 
 ## 05 · Segment profit and loss
 
@@ -111,6 +121,8 @@ Segment **profit/(loss) after tax**, LKR million, from the previously reviewed F
 
 **Provenance:** [Source 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
 
+<a id="v06"></a>
+
 ## 06 · Who receives group profit?
 
 ```mermaid
@@ -123,6 +135,8 @@ pie showData
 Of FY2026 interim **group PAT LKR 3,371.26mn**, **LKR 973.77mn (28.88%)** belongs to SCAP owners and **LKR 2,397.49mn (71.12%)** is attributable to non-controlling shareholders. This is **allocation of accounting profit, not cash distributed**.
 
 **Provenance:** [Source 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
+
+<a id="v07"></a>
 
 ## 07 · Profit-to-cash pathway
 
@@ -143,6 +157,8 @@ The **SCAP standalone** company reported **FY2026 dividend income LKR 635.18mn**
 
 **Provenance:** [Source 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
 
+<a id="v08"></a>
+
 ## 08 · Company milestones
 
 ```mermaid
@@ -158,6 +174,8 @@ Dated events: **2005** incorporation, **2010** Softlogic Holdings acquisition, *
 
 **Provenance:** [Source 1](https://softlogiccapital.lk/about-us-overview/) · [Source 2](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
 
+<a id="v09"></a>
+
 ## 09 · Insurance customers and reach
 
 ```mermaid
@@ -171,6 +189,8 @@ xychart-beta
 Softlogic Life's **2025 annual report** records **880,706 policies in force** (2024: **748,101**, 2023: **733,002**) and **88.7% customer retention** (2024: **85.4%**). Its separate 2025 company release describes **1.3 million lives covered** and **LKR 19.4bn claims and benefits paid**. The chart measures **policies**, not unique people or SCAP group customers.
 
 **Provenance:** [Source 1](https://softlogiclife.lk/wp-content/uploads/sites/3/2026/04/Softlogic-Life-Integrated-Annual-Report-2025-3.pdf) · [Source 2](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/).
+
+<a id="v10"></a>
 
 ## 10 · Distribution-channel map
 
@@ -188,6 +208,8 @@ The insurer's **2025 integrated-report portal** lists **159 operating locations*
 
 **Provenance:** [Source 1](https://annualreport.softlogiclife.lk/) · [Source 2](https://softlogiccapital.lk/subsidiaries/).
 
+<a id="v11"></a>
+
 ## 11 · Industry market position
 
 ```mermaid
@@ -200,6 +222,8 @@ pie showData
 Softlogic Life reported **18.4% Sri Lanka life-insurance GWP market share for calendar 2025**; the remaining **81.6%** is a mathematical complement, **not one competitor**. A news report places insurer share at **20.3% at Q2 2026**, but this later **secondary** claim uses a different period and still needs direct insurer/regulator confirmation. SCAP itself does **not** have an equivalent market share across all financial services.
 
 **Provenance:** [Source 1](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/) · [Source 2](https://www.dailymirror.lk/business-news/Softlogic-Life-delivers-Rs-7-2bn-GWP/273-348142).
+
+<a id="v12"></a>
 
 ## 12 · Competitive-advantage evidence
 
@@ -221,6 +245,8 @@ Potential advantages must be tested: 2025 Life **GWP LKR 40.1bn (+27%)**, **cust
 
 **Provenance:** [Source 1](https://softlogiclife.lk/wp-content/uploads/sites/3/2026/04/Softlogic-Life-Integrated-Annual-Report-2025-3.pdf) · [Source 2](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/).
 
+<a id="v13"></a>
+
 ## 13 · Related-party flow of funds
 
 ```mermaid
@@ -235,6 +261,8 @@ flowchart LR
 In the SCAP **company-only related-party FY2026 note**, reported amounts in **LKR million** include interest income from Softlogic Holdings **427.04** and SR One **160.39**, plus consultancy/professional fees from Life **120.00**, Stockbrokers **64.11**, and Asset Management **76.00**. These are **parent-account transactions; they must not be double-counted as external consolidated revenue or assumed to be cash collected**.
 
 **Provenance:** [Source 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
+
+<a id="v14"></a>
 
 ## 14 · Regulatory dependency map
 
@@ -252,6 +280,8 @@ flowchart TB
 The insurance entity is supervised by **IRCSL**; the finance entity by **CBSL**; stockbroking/investment-management by **SEC/CSE** as applicable. Life reports **2025 capital adequacy ratio (CAR) 245%** against its stated **120% requirement**. Those figures are insurer-only and **do not establish parent dividend availability**. A reported **LKR 1,515.80mn restricted insurance reserve at Mar 2026** requires attention to conditions on release.
 
 **Provenance:** [Source 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) · [Source 2](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/) · [Source 3](https://ircsl.gov.lk/) · [Source 4](https://www.cbsl.gov.lk/) · [Source 5](https://www.sec.gov.lk/).
+
+<a id="v15"></a>
 
 ## 15 · Opportunities and constraints
 

@@ -1,5 +1,7 @@
 # SCAP.N0000 — සිංහල ආයෝජන පර්යේෂණය
 
+**නව දෘශ්‍ය වාර්තාව: [SCAP ව්‍යාපාර විශ්ලේෂණය — දත්ත සහිත Markdown සටහන් 15ක්](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)** ([English](../01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [தமிழ்](../ta/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)).
+
 [← ප්‍රධාන GitHub පිටුව](../README.md) · [English](../en/README.md) · [தமிழ்](../ta/README.md) · **සිංහල**
 
 **Softlogic Capital PLC** · කොළඹ කොටස් වෙළෙඳපොළ (CSE) · `SCAP.N0000`

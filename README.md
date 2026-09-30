@@ -1,5 +1,7 @@
 # SCAP.N0000 — Investment Research
 
+**New: [SCAP Business Analysis — 15 evidence-backed interactive Markdown visuals](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)** (also available in [Tamil](ta/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) and [Sinhala](si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)).
+
 **Softlogic Capital PLC** · Colombo Stock Exchange (CSE) · `SCAP.N0000`
 
 A public, multilingual research notebook covering **company fundamentals** and **market technicals**. Documents are editable Markdown; visual reports use Mermaid.

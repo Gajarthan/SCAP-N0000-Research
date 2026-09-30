@@ -1,5 +1,7 @@
 # SCAP.N0000 — தமிழ் முதலீட்டு ஆய்வு
 
+**புதிய காட்சி அறிக்கை: [SCAP வணிகப் பகுப்பாய்வு — 15 தரவுடன் கூடிய Markdown வரைபடங்கள்](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)** ([English](../01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [සිංහල](../si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)).
+
 [← முதன்மை GitHub பக்கம்](../README.md) · [English](../en/README.md) · **தமிழ்** · [සිංහල](../si/README.md)
 
 **Softlogic Capital PLC** · கொழும்பு பங்குச் சந்தை (CSE) · `SCAP.N0000`

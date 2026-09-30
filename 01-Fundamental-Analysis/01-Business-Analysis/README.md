@@ -1,5 +1,7 @@
 # 01 · Business Analysis — Softlogic Capital PLC
 
+**[📊 Open the complete Business Visual Report: 15 source-labelled charts, ownership diagrams, money flows and market maps](VISUAL-REPORT.md)**
+
 [← Fundamental analysis](../README.md) · **English** · [தமிழ்](../../../ta/01-Fundamental-Analysis/01-Business-Analysis/README.md) · [සිංහල](../../../si/01-Fundamental-Analysis/01-Business-Analysis/README.md)
 
 > **CSE: SCAP.N0000** · **Research checked: 30 September 2026** · **Evidence: SCAP's own CSE-filed 27 May 2026 interim statements plus company disclosures.**
@@ -59,9 +61,11 @@ These are **economic mechanisms**, not a claim that every line earned a profit i
 |---|---:|---:|---|
 | Insurance | **LKR 48,425.96 mn** | **+LKR 4,870.86 mn** | Includes large insurance investment and contract-related balances |
 | Non-banking financial institutions | **LKR 1,384.78 mn** | **−LKR 136.24 mn** | Finance operations; investigate asset quality |
-| Others | **LKR 4,019.94 mn** | **−LKR 515.40 mn** | Includes holding-company and other operations; contains inter-segment activity |
+| Others | **LKR 2,759.84 mn** | **−LKR 515.40 mn** | Includes holding-company and other operations; contains inter-segment activity |
 | Consolidation adjustments | **−LKR 1,260.09 mn** | **−LKR 847.95 mn** | Must be included before comparing to group totals |
 | **Group total** | **LKR 51,310.49 mn** | **+LKR 3,371.26 mn** | **Does not all belong to SCAP shareholders** |
+
+**Segment-data correction (30 Sep 2026):** The earlier transcription of Other revenue as LKR 4,019.94mn did **not** reconcile to reported group revenue. The value **approximately LKR 2,759.84mn** is **derived** as 51,310.49 − 48,425.96 − 1,384.78 + 1,260.09 (LKR mn), consistent with a [secondary figure rounded to LKR 2,760mn](https://stockanalysis.com/quote/cose/SCAP.N0000/financials/). The exact Other line still needs rechecking against the original CSE PDF. Do not treat the derived value as independently verified.
 
 The **FY2025 audited comparative group revenue** in this CSE filing is **LKR 42,383.72 mn**, not the **LKR 39,794 mn** value appearing in an older third-party snapshot elsewhere in this repository. This is a **source discrepancy that needs reconciliation**; prefer the original issuer-reported comparator for this document. **[S1, PDF p. 2]**
 

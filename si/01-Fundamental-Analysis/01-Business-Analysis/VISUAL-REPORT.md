@@ -8,29 +8,31 @@
 
 | # | දෘශ්‍ය සටහන | දත්ත පදනම |
 |---|---|---|
-| 01 | [හිමිකාරීත්ව ගස — දින සහිත](#01-හිමිකාරීත්ව-ගස-දින-සහිත) | FY2026 ownership |
-| 02 | [ව්‍යාපාර පද්ධති සිතියම](#02-ව්යාපාර-පද්ධති-සිතියම) | Issuer business map |
-| 03 | [ව්‍යාපාර ආකෘති සිතියම](#03-ව්යාපාර-ආකෘති-සිතියම) | Business mechanisms |
-| 04 | [ව්‍යාපාර අංශ ආදායම](#04-ව්යාපාර-අංශ-ආදායම) | FY2026 interim + reconciled estimate |
-| 05 | [අංශ ලාභ සහ පාඩු](#05-අංශ-ලාභ-සහ-පාඩු) | FY2026 interim |
-| 06 | [සමූහ ලාභය අයත් වන්නේ කාටද?](#06-සමූහ-ලාභය-අයත්-වන්නේ-කාටද) | FY2026 interim |
-| 07 | [ලාභයේ සිට මුදල් දක්වා ගමන් මග](#07-ලාභයේ-සිට-මුදල්-දක්වා-ගමන්-මග) | FY2026 parent-only |
-| 08 | [සමාගම් ඉතිහාසයේ සිදුවීම්](#08-සමාගම්-ඉතිහාසයේ-සිදුවීම්) | 2005–2026 events |
-| 09 | [රක්ෂණ ගනුදෙනුකරුවන් සහ ආවරණය](#09-රක්ෂණ-ගනුදෙනුකරුවන්-සහ-ආවරණය) | Insurer 2023–2025 |
-| 10 | [සේවා බෙදාහැරීමේ මාර්ග](#10-සේවා-බෙදාහැරීමේ-මාර්ග) | Insurer FY25 / undated finance |
-| 11 | [කර්මාන්තයේ වෙළෙඳපොළ තත්ත්වය](#11-කර්මාන්තයේ-වෙළෙඳපොළ-තත්ත්වය) | Insurer calendar 2025 |
-| 12 | [තරඟකාරී වාසි: සාක්ෂි පරීක්ෂාව](#12-තරඟකාරී-වාසි-සාක්ෂි-පරීක්ෂාව) | Insurer 2025 / hypotheses |
-| 13 | [සම්බන්ධිත පාර්ශ්ව මුදල් ගනුදෙනු](#13-සම්බන්ධිත-පාර්ශ්ව-මුදල්-ගනුදෙනු) | FY2026 parent-only |
-| 14 | [නියාමන බැඳීම් සිතියම](#14-නියාමන-බැඳීම්-සිතියම) | Insurer 2025 / sector regulation |
-| 15 | [අවස්ථා සහ සීමාවන්](#15-අවස්ථා-සහ-සීමාවන්) | Mixed historical periods |
+| 01 | [හිමිකාරීත්ව ගස — දින සහිත](#v01) | FY2026 ownership |
+| 02 | [ව්‍යාපාර පද්ධති සිතියම](#v02) | Issuer business map |
+| 03 | [ව්‍යාපාර ආකෘති සිතියම](#v03) | Business mechanisms |
+| 04 | [ව්‍යාපාර අංශ ආදායම](#v04) | FY2026 interim + reconciled estimate |
+| 05 | [අංශ ලාභ සහ පාඩු](#v05) | FY2026 interim |
+| 06 | [සමූහ ලාභය අයත් වන්නේ කාටද?](#v06) | FY2026 interim |
+| 07 | [ලාභයේ සිට මුදල් දක්වා ගමන් මග](#v07) | FY2026 parent-only |
+| 08 | [සමාගම් ඉතිහාසයේ සිදුවීම්](#v08) | 2005–2026 events |
+| 09 | [රක්ෂණ ගනුදෙනුකරුවන් සහ ආවරණය](#v09) | Insurer 2023–2025 |
+| 10 | [සේවා බෙදාහැරීමේ මාර්ග](#v10) | Insurer FY25 / undated finance |
+| 11 | [කර්මාන්තයේ වෙළෙඳපොළ තත්ත්වය](#v11) | Insurer calendar 2025 |
+| 12 | [තරඟකාරී වාසි: සාක්ෂි පරීක්ෂාව](#v12) | Insurer 2025 / hypotheses |
+| 13 | [සම්බන්ධිත පාර්ශ්ව මුදල් ගනුදෙනු](#v13) | FY2026 parent-only |
+| 14 | [නියාමන බැඳීම් සිතියම](#v14) | Insurer 2025 / sector regulation |
+| 15 | [අවස්ථා සහ සීමාවන්](#v15) | Mixed historical periods |
 
 > **සාක්ෂි වර්ග:** *SCAP CSE interim* = 2026-05-27 නිකුත් කළ වාර්තාව; FY2026 අගයන් **විගණනයට යටත්**. *Life 2025* = වෙනත් ව්‍යාපාරයක **දෙසැම්බර්** වර්ෂ අවසානය. *දින රහිත සමාගම් වෙබ් අඩවිය* = මෙහෙයුම් විස්තරයක් පමණි. *ද්විතීයික* = මුල් ගොනුව සමඟ තහවුරු කළ යුතුය. 'Other segment' අගය **එකතුවට ගළපා ගණනය කළ** සංඛ්‍යාවකි; 04 බලන්න.
+
+<a id="v01"></a>
 
 ## 01 · හිමිකාරීත්ව ගස — දින සහිත
 
 ```mermaid
 flowchart TB
-  H["Softlogic Holdings PLC"] --> P["ලැයිස්තුගත SCAP\n31 Mar 2026"]
+  H["Softlogic Holdings PLC 69.35%"] --> P["ලැයිස්තුගත SCAP\n31 Mar 2026"]
   P --> L["Life 50.16%"]
   P --> F["Finance 81.71%"]
   P --> O["SCAP One 100%"]
@@ -42,6 +44,8 @@ flowchart TB
 2026-03-31 දින Softlogic Holdings සතුව SCAP **69.35%**; SCAP සතුව Life **50.16%**, Finance **81.71%**, SCAP One සහ SR One **එක් එක් 100%** ලෙස ගොනුවේ ඇත. **Stockbrokers/asset manager වත්මන් නිවැරදි ප්‍රතිශත තහවුරු වී නැත.** Life විසින් අත්පත් කරගත් ආයතනය SCAP සෘජුව තවත් 100% හිමි සමාගමක් නොවේ.
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) · [මූලාශ්‍රය 2](https://softlogiccapital.lk/about-us-overview/).
+
+<a id="v02"></a>
 
 ## 02 · ව්‍යාපාර පද්ධති සිතියම
 
@@ -60,6 +64,8 @@ flowchart TB
 SCAP වෙත සම්බන්ධ මෙහෙයුම් රක්ෂණ, ණය/තැන්පතු, කොටස් තැරැව්, unit trust කළමනාකරණය යන අංශවලට අයත්ය. මෙය **ව්‍යාපාර කාණ්ඩ සිතියමකි**, ආදායම් බර පෙන්වන්නේ නැත. Life-න් **2025 GWP LKR 40.1bn** යනු SCAP සමූහ ආදායම නොවේ.
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://softlogiccapital.lk/about-us-overview/) · [මූලාශ්‍රය 2](https://softlogiccapital.lk/subsidiaries/) · [මූලාශ්‍රය 3](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/).
+
+<a id="v03"></a>
 
 ## 03 · ව්‍යාපාර ආකෘති සිතියම
 
@@ -83,6 +89,8 @@ flowchart LR
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://softlogiccapital.lk/about-us-overview/) · [මූලාශ්‍රය 2](https://softlogiccapital.lk/subsidiaries/).
 
+<a id="v04"></a>
+
 ## 04 · ව්‍යාපාර අංශ ආදායම
 
 ```mermaid
@@ -96,6 +104,8 @@ xychart-beta
 **2026 මාර්තු 31** අවසන් SCAP සමූහ අංශ ආදායම් (**LKR මිලියන**): රක්ෂණ **48,425.96**, මූල්‍ය **1,384.78**, අනෙකුත් **දළ වශයෙන් 2,759.84**, adjustments **−1,260.09**; සමූහ එකතුව **51,310.49**. **අනෙකුත් අගය එකතුවෙන් වීජීයව ගණනය කළ අගයකි**; ද්විතීයික වගුවක එය 2,760 ලෙස වටකර ඇත. මෙම වාරයේ මුල් segment පේළියෙන් නිශ්චිතව නැවත පරීක්ෂා කර නැත. GWP මෙයට එකතු නොකරන්න.
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) · [මූලාශ්‍රය 2](https://stockanalysis.com/quote/cose/SCAP.N0000/financials/) · අනෙකුත් අගය **එකතුවෙන් ගණනය කළ** අතර මුල් PDF පේළිය නැවත තහවුරු කර නැත..
+
+<a id="v05"></a>
 
 ## 05 · අංශ ලාභ සහ පාඩු
 
@@ -111,6 +121,8 @@ FY2026 අතුරු segment **බදු පසු ලාභ/(පාඩු)**,
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
 
+<a id="v06"></a>
+
 ## 06 · සමූහ ලාභය අයත් වන්නේ කාටද?
 
 ```mermaid
@@ -123,6 +135,8 @@ pie showData
 FY2026 සමූහ PAT **LKR 3,371.26mn**. එයින් **SCAP හිමියන්ට LKR 973.77mn (28.88%)**, **පාලනය නොකරන හිමිකම්වලට LKR 2,397.49mn (71.12%)**. මෙය ගිණුම් ලාභයේ අයිතියයි; මුදල් dividend ගෙවීමක් නොවේ.
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
+
+<a id="v07"></a>
 
 ## 07 · ලාභයේ සිට මුදල් දක්වා ගමන් මග
 
@@ -143,6 +157,8 @@ SCAP **තනි මව් සමාගම** FY2026 **dividend income 635.18mn**
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
 
+<a id="v08"></a>
+
 ## 08 · සමාගම් ඉතිහාසයේ සිදුවීම්
 
 ```mermaid
@@ -158,6 +174,8 @@ flowchart TB
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://softlogiccapital.lk/about-us-overview/) · [මූලාශ්‍රය 2](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
 
+<a id="v09"></a>
+
 ## 09 · රක්ෂණ ගනුදෙනුකරුවන් සහ ආවරණය
 
 ```mermaid
@@ -171,6 +189,8 @@ xychart-beta
 Softlogic Life **2025 වාර්ෂික වාර්තාව:** ක්‍රියාත්මක policies **880,706** (2024 **748,101**, 2023 **733,002**) සහ customer retention **88.7%** (2024 **85.4%**). සමාගම 2025 පිළිබඳ ප්‍රකාශනයෙන් **මිලියන 1.3ක ජනතාව ආවරණය** සහ **LKR 19.4bn claims/benefits** ගෙවූ බව සඳහන් වේ. Chart-හි අගය **policies** පමණි, SCAP සමූහයේ වෙනම පුද්ගලයන් ගණන නොවේ.
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://softlogiclife.lk/wp-content/uploads/sites/3/2026/04/Softlogic-Life-Integrated-Annual-Report-2025-3.pdf) · [මූලාශ්‍රය 2](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/).
+
+<a id="v10"></a>
 
 ## 10 · සේවා බෙදාහැරීමේ මාර්ග
 
@@ -188,6 +208,8 @@ Softlogic Life **2025 annual-report portal** **මෙහෙයුම් ස්�
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://annualreport.softlogiclife.lk/) · [මූලාශ්‍රය 2](https://softlogiccapital.lk/subsidiaries/).
 
+<a id="v11"></a>
+
 ## 11 · කර්මාන්තයේ වෙළෙඳපොළ තත්ත්වය
 
 ```mermaid
@@ -200,6 +222,8 @@ pie showData
 Softlogic Life-න් calendar 2025 රක්ෂණ **GWP වෙළෙඳපොළ කොටස 18.4%** ලෙස සමාගම ප්‍රකාශ කරයි. ඉතිරි **81.6%** යනු අනෙකුත් සියලු රක්ෂණකරුවන්ගේ ගණිතමය එකතුවකි; **එක් තරඟකරුවකු නොවේ**. පුවත් වාර්තාවක් 2026 Q2 හි **20.3%** සඳහන් කළද එය **ද්විතීයික** සහ වෙනත් කාලයකි; මුල් regulator/insurer ගොනුව අවශ්‍යයි. SCAP සමස්ත මූල්‍ය සේවාවලට මෙම market share නොගැළපේ.
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/) · [මූලාශ්‍රය 2](https://www.dailymirror.lk/business-news/Softlogic-Life-delivers-Rs-7-2bn-GWP/273-348142).
+
+<a id="v12"></a>
 
 ## 12 · තරඟකාරී වාසි: සාක්ෂි පරීක්ෂාව
 
@@ -221,6 +245,8 @@ flowchart TB
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://softlogiclife.lk/wp-content/uploads/sites/3/2026/04/Softlogic-Life-Integrated-Annual-Report-2025-3.pdf) · [මූලාශ්‍රය 2](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/).
 
+<a id="v13"></a>
+
 ## 13 · සම්බන්ධිත පාර්ශ්ව මුදල් ගනුදෙනු
 
 ```mermaid
@@ -235,6 +261,8 @@ flowchart LR
 SCAP **තනි related-party FY2026 සටහනේ**, **LKR මිලියන**: Softlogic Holdings වෙතින් පොලී **427.04**, SR One වෙතින් **160.39**, Life වෙතින් consultancy fees **120.00**, Stockbrokers **64.11**, Asset Management **76.00**. මේවා **මව් ගිණුමේ සමූහ අභ්‍යන්තර ආදායම්**, consolidated external revenue ලෙස නැවත එකතු නොකරන්න; මුදල් සැබැවින් ලැබුණු බවටද සමාන නොවේ.
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf).
+
+<a id="v14"></a>
 
 ## 14 · නියාමන බැඳීම් සිතියම
 
@@ -252,6 +280,8 @@ flowchart TB
 රක්ෂණ ආයතනය **IRCSL**, මූල්‍ය ආයතනය **CBSL**, තැරැව් හා කළමනාකරණය අදාළ පරිදි **SEC/CSE** යටතේය. Life-න් **2025 CAR 245%**, තමන් සඳහන් කළ **අවම 120%** සමඟ ප්‍රකාශ කරයි. මෙය insurer-only අගයකි; මව් SCAP වෙත බෙදිය හැකි මුදල් නොවේ. **2026-03-31 restricted insurer reserve LKR 1,515.80mn** මුදාහැරීමේ නියම වෙනම පරීක්ෂා කළ යුතුය.
 
 **මූලාශ්‍ර / කාලය:** [මූලාශ්‍රය 1](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) · [මූලාශ්‍රය 2](https://softlogiclife.lk/news/softlogic-life-surpasses-rs-40-bn-gwp-in-fy25-doubles-key-financial-metrics-over-four-years/) · [මූලාශ්‍රය 3](https://ircsl.gov.lk/) · [මූලාශ්‍රය 4](https://www.cbsl.gov.lk/) · [මූලාශ්‍රය 5](https://www.sec.gov.lk/).
+
+<a id="v15"></a>
 
 ## 15 · අවස්ථා සහ සීමාවන්
 
