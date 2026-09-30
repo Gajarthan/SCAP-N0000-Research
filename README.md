@@ -10,6 +10,14 @@ An evolving, public, **evidence-first** research notebook. The scope is delibera
 
 > **Research status (30 September 2026): preliminary.** Descriptions of businesses are based on issuer sources. The current SCAP annual and interim reports, ownership stakes, parent-attributable profit, recent announcements and market price have **not yet** been reconciled. Nothing here is a buy/sell recommendation.
 
+## 📊 Visual research reports
+
+**[Open the visual dashboard](reports/README.md)** — editable Mermaid diagrams, financial charts, business-exposure maps, risk dependencies, and an evidence-driven research roadmap.
+
+[📈 Financial pulse](reports/financial-pulse.md) · [🏢 Business model](reports/business-model.md) · [🛡️ Risk map](reports/risk-map.md) · [🔬 Research roadmap](reports/research-roadmap.md)
+
+**Languages:** [English](reports/README.md) · [தமிழ்](ta/reports/README.md) · [සිංහල](si/reports/README.md). Financial numbers remain explicitly preliminary, **not** reconciled against audited reports.
+
 ## Research library
 
 | Area | File | Purpose |

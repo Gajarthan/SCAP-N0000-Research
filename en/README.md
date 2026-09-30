@@ -2,6 +2,10 @@
 
 [தமிழ்](../ta/README.md) · [සිංහල](../si/README.md) · [English](README.md)
 
+## 📊 Visual research reports
+
+[**Open the English visual dashboard**](../reports/README.md) · [Financial charts](../reports/financial-pulse.md) · [Business map](../reports/business-model.md) · [Risk map](../reports/risk-map.md) · [Research roadmap](../reports/research-roadmap.md)
+
 The **canonical English research documents remain at the repository root** to preserve existing links. This index provides stable English navigation without duplicating files.
 
 | Topic | English document |
