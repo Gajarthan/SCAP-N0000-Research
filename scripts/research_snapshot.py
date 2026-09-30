@@ -126,7 +126,8 @@ def write_snapshot(destination, current=None, root=ROOT):
     except (FileNotFoundError,subprocess.CalledProcessError):
         sha = "unknown-not-verified"
     pdf_count = sum(p.is_file() and p.suffix.lower() == ".pdf"
-                    for p in (root / "sources/documents").glob("*.pdf"))\n    payload = compose(data,topics,sources,now,sha,pdf_count)
+                    for p in (root / "sources/documents").glob("*.pdf"))
+    payload = compose(data,topics,sources,now,sha,pdf_count)
     path = Path(destination)
     path.mkdir(parents=True,exist_ok=True)
     date = payload["date_sri_lanka"]
