@@ -1,5 +1,17 @@
 # Research log — SCAP.N0000
 
+## 30 Sep 2026 — Completed three-language Financial Statement Analysis and 12-chart dashboards
+
+**New:** [English financial statement analysis](01-Fundamental-Analysis/02-Financial-Statements/README.md) and [12 sourced charts](01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md) with full [Tamil](ta/01-Fundamental-Analysis/02-Financial-Statements/README.md) and [Sinhala](si/01-Fundamental-Analysis/02-Financial-Statements/README.md) versions. The research differentiates Group, NCI, SCAP-owner, and SCAP standalone income/equity/borrowing/cash-flow accounts.
+
+**Assurance:** Original [SCAP FY2025 audited report](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) personally checked via extractable source text for signed EY unmodified opinion, 4 key audit matters (insurance liabilities, IT controls, ECL and debt), income (p.63), assets/equity (pp.65–66), cash flow (pp.69–70). PDF visual screenshot service failed; no claim of successful visual-page verification.
+
+**FY2026 status:** 27 May 2026 [SCAP year-end interim](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) is **subject to audit**, with values carried from earlier repository notes; it could not be reopened in this pass. The FY2026 final annual report and June 2026 original quarter were catalogued but NOT independently retrieved/tied out. Charts explicitly mark FY2026 as interim. A secondary cash-flow provider is only used to cross-check reported FY2026 Group CFO -851.24m.
+
+**Core audited FY2025 facts (LKR mn):** total operating income **42,383.72**, Group PAT **+1,694.15** but owners attributable **−280.42**; SCAP standalone operating CFO **−4,605.10** vs consolidated **+427.54**; parent debt **14,797.33**, parent cash/bank **27.89** and owner-attributable consolidated equity **−2,440.85**. FY2025 original total operating income is not the same line definition as third-party normalized FY2025 'revenue 39,794'.
+
+**OPEN:** obtain signed FY2026 audited SCAP report and original June 2026 SCAP interim; reconcile subsequent restatements, parent cash and debt schedule before valuation.
+
 ## 30 Sep 2026 — Published 15 Business Analysis visuals and corrected an inconsistent segment number
 
 **Report:** [15-source-labelled Business Analysis visuals](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [Tamil](ta/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) · [Sinhala](si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md). Every language report includes ownership, business model, segments, profit attribution, parent cash pathway, timeline, insurer customer and distribution figures, market share, related-party income, regulators and an evidence-balanced opportunity/constraint view.
