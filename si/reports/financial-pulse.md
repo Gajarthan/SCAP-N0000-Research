@@ -1,68 +1,74 @@
-# 📈 SCAP.N0000 — මූලික මූල්‍ය ප්‍රස්තාර
+# 📈 මූල්‍ය දෘශ්‍ය සටහන — මුල් CSE මූලාශ්‍රය
 
-[← ප්‍රධාන ගබඩාව](../../README.md) · [සිංහල](README.md) · [தமிழ்](../../ta/reports/README.md) · [English](../../reports/README.md) · [ප්‍රධාන දෘශ්‍ය පර්යේෂණ වාර්තාව](README.md)
+[← ප්‍රධාන ගබඩාව](../README.md) · [සිංහල ප්‍රධාන වාර්තාව](README.md) · [English](../../reports/financial-pulse.md) · [தமிழ்](../../ta/reports/financial-pulse.md)
 
-⚠️ **පහත අගයන් පෙර සටහන් කළ තෙවන පාර්ශ්ව දත්ත වේ; නිල SCAP/CSE විගණිත වාර්තා සමඟ තවමත් තහවුරු කර නැත.** [සිංහල මූලික මූල්‍ය සටහන](../06-financial-snapshot.md) සහ [StockAnalysis](https://stockanalysis.com/quote/cose/SCAP.N0000/financials/) බලන්න. තහවුරු නොකළ අගයන් ආයෝජන valuation සඳහා භාවිත නොකරන්න.
+> **මූලාශ්‍රය:** [SCAP 2026 මැයි 27 CSE අතුරු ගොනුව](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf). සියලු අගයන් **LKR මිලියන**. FY2025 **Audited** සංසන්දන; FY2026 **විගණනයට යටත්**. පැරණි FY2025 revenue **39,794** වෙනුවට මුල් CSE **42,383.72** භාවිත කර ඇත; පසුකාලීන සංශෝධන හා වත්මන් මිල මෙහි නොමැත.
 
-**ඒකකය: LKR මිලියන. සෑම ප්‍රස්තාරයකම පරිමාණය වෙනස් වේ.** එක් ප්‍රස්තාරයක තීරුවක උස තවත් ප්‍රස්තාරයකට සෘජුව සැසඳිය නොහැක. මෙහි වත්මන් කොටස් මිල, intrinsic value හෝ ගනුදෙනු සංඥාවක් නැත.
+FY2025 audited සංසන්දන / FY2026 අතුරු. **Four independently scaled charts: bar heights between charts cannot be compared.**
 
-## 01 / ආදායම — Revenue
+## 1 · සමූහ මුළු ආදායම
 
 ```mermaid
 xychart-beta
-  title "Revenue | secondary source | LKR million"
+  title "Revenue | LKR million"
   x-axis ["FY25", "FY26"]
   y-axis "LKR mn" 0 --> 60000
-  bar [39794, 51310]
+  bar [42383.72, 51310.49]
 ```
 
-*ගිණුම් වර්ෂ 2025-03-31 සහ 2026-03-31 අවසන් වේ.*
+*සමූහ ආදායම් ප්‍රකාශනය PDF පි. 2.*
 
-## 02 / ශුද්ධ ලාභය — Net income
+## 2 · SCAP මව් හිමියන්ට අයත් ලාභය/පාඩුව
 
 ```mermaid
 xychart-beta
-  title "Net income | secondary source | LKR million"
+  title "Owner profit | LKR million"
   x-axis ["FY25", "FY26"]
   y-axis "LKR mn" -500 --> 1200
   bar [-280.42, 973.77]
 ```
 
-*Net income යනු SCAP සාමාන්‍ය කොටස් හිමියන්ට අයත් අගයදැයි තවදුරටත් බලන්න.*
+*SCAP හිමියන්ට අයත් සමූහ ලාභය PDF පි. 2; **මුළු සමූහ PAT නොවේ**.*
 
-## 03 / මෙහෙයුම් මුදල් ප්‍රවාහය — Operating cash flow
+## 3 · සමූහ මෙහෙයුම් මුදල් ප්‍රවාහය
 
 ```mermaid
 xychart-beta
-  title "Operating cash flow | secondary | LKR million"
+  title "Group operating cash flow | LKR million"
   x-axis ["FY25", "FY26"]
   y-axis "LKR mn" -1000 --> 600
   bar [427.54, -851.24]
 ```
 
-*රක්ෂණ/මූල්‍ය ව්‍යාපාරවල මුදල් ප්‍රවාහය විශේෂයෙන් අර්ථ දැක්විය යුතුය.*
+*සමූහ මෙහෙයුම් මුදල් ප්‍රවාහය PDF පි. 9; **මව් සමාගමට ලැබෙන cash නොවේ**.*
 
-## 04 / මුළු ණය — Total debt
+## 4 · සමූහ පොලී සහිත ණය + overdraft
 
 ```mermaid
 xychart-beta
-  title "Total debt | secondary source | LKR million"
+  title "Group borrowings + overdraft | LKR million"
   x-axis ["FY25", "FY26"]
   y-axis "LKR mn" 0 --> 30000
-  bar [20286, 24781]
+  bar [20285.82, 24781.48]
 ```
 
-*ඒකාබද්ධ ණය හා SCAP තනි මව් සමාගමේ ණය වෙනස් වේ.*
+*සමූහ පොලී සහිත ණය + overdraft PDF පි. 6; **මව් තනි ණය නොවේ**.*
 
-## 📋 Data table / தரவு அட்டவணை / දත්ත වගුව
+## මුල් දත්ත සාරාංශය
 
-| අගය | FY25 | FY26 | තත්ත්වය |
+| මිනුම | FY2025 Audited සංසන්දන | FY2026 අතුරු | මූලාශ්‍රය |
 |---|---:|---:|---|
-| Revenue | 39,794 | 51,310 | ද්විතීයික |
-| Net income | -280.42 | 973.77 | හිමිකරුවන්ට අදාළදැයි නොතහවුරුයි |
-| Operating cash flow | 427.54 | -851.24 | අංශ-විශේෂ අර්ථකථනය අවශ්‍යයි |
-| Total debt | 20,286 | 24,781 | group vs parent විවෘතයි |
+| සමූහ මුළු ආදායම | 42,383.72 | 51,310.49 | සමූහ ආදායම් ප්‍රකාශනය, PDF පි. 2 |
+| SCAP මව් හිමියන්ට අයත් ලාභය/පාඩුව | −280.42 | 973.77 | සමූහ PAT හි මව් හිමියන්ට අයත් කොටස, පි. 2 |
+| සමූහ මෙහෙයුම් මුදල් ප්‍රවාහය | 427.54 | −851.24 | සමූහ මුදල් ප්‍රවාහ ප්‍රකාශනය, පි. 9 |
+| සමූහ පොලී සහිත ණය + overdraft | 20,285.82 | 24,781.48 | සමූහ මූල්‍ය තත්ත්වය, පි. 6; තැන්පතු/රක්ෂණ වගකීම් ඇතුළත් නොවේ |
 
-**[CSE](https://www.cse.lk/)** · [Original financial note](../06-financial-snapshot.md) · [Source register](../SOURCES.md)
+## සමූහය ≠ හිමිකරුවන් ≠ මව් තනි සමාගම
 
-**පර්යේෂණ තත්ත්වය: මූලික · යොමු දිනය: 2026-09-30.** මෙය කොටස් මිලදී ගැනීමට හෝ විකිණීමට නිර්දේශයක් නොවේ. පැරණි හෝ තෙවන පාර්ශ්ව දත්ත අද දින තහවුරු කළ අගයන් ලෙස නොසලකන්න.
+FY2026 සමූහ PAT **LKR 3,371.26mn**; SCAP හිමියන්ට අයත් කොටස **973.77mn**, සුළුතර හිමියන්ට අයත් **2,397.49mn**. SCAP මව් තනි සමාගම FY2026 **722.49mn පාඩුවක්** වාර්තා කරයි. 2026 මාර්තු 31 එහි cash **32.07mn** සහ පොලී සහිත ණය **17,324.26mn**. [ව්‍යාපාර විශ්ලේෂණය](../../si/01-Fundamental-Analysis/01-Business-Analysis/README.md) සහ [මුල් CSE ලේඛනය](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) බලන්න.
+
+**පැරණි දත්ත නිවැරදි කිරීම:** තෙවන පාර්ශ්ව chart එකේ FY2025 revenue **LKR 39,794mn** යි. SCAP මුල් CSE ගොනුවේ **FY2025 Audited සංසන්දන LKR 42,383.72mn** යි. provider හි අර්ථකථන වෙනස තවමත් විසඳා නැත. මෙම අගයන් දැන් මුල් CSE අගය භාවිත කරයි. FY2026 අවසන් විගණිත හා 2026 ජූනි මුල් ගොනු තවදුරටත් සැසඳිය යුතුය.
+
+[මූල්‍ය සංක්ෂිප්තය](../06-financial-snapshot.md) · [මූලාශ්‍ර](../SOURCES.md) · [CSE](https://www.cse.lk/)
+
+රක්ෂණ/මූල්‍ය ආයතන මුදල් ප්‍රවාහය සාමාන්‍ය නිෂ්පාදන සමාගමකට සමානව අර්ථ දැක්විය නොහැක. කොටස් මිල ඉලක්කයක් හෝ නිර්දේශයක් මෙහි නැත.
