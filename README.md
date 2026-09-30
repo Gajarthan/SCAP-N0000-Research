@@ -1,5 +1,7 @@
 # SCAP.N0000 — Investment Research
 
+**[📈 Financial Statement Analysis — 12 sourced charts, audited FY2025 vs interim FY2026](01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md)** ([தமிழ்](ta/01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md) · [සිංහල](si/01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md)).
+
 **[🧭 Business SWOT: 4 quadrants + 12 evidence-led tests](01-Fundamental-Analysis/01-Business-Analysis/SWOT-ANALYSIS.md)**
 
 **New: [SCAP Business Analysis — 16 evidence-backed editable Markdown visuals](01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)** (also available in [Tamil](ta/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md) and [Sinhala](si/01-Fundamental-Analysis/01-Business-Analysis/VISUAL-REPORT.md)).
