@@ -79,7 +79,7 @@ def check(root=ROOT, ledger=None):
             for lang, content in texts.items():
                 normalized = content.replace("\u2212", "-").replace("\u2013", "-")
                 normalized_literal = literal.replace("\u2212", "-").replace("\u2013", "-")
-                if normalized_literal not in normalized:
+                if not re.search(r"(?<![\\d,.+\\-])" + re.escape(normalized_literal) + r"(?![\\d,.%])", normalized):
                     errors.append(f"{common}: {lang} missing required financial figure {literal}")
         english = numeric_tokens(texts["en"])
         for lang in ("ta", "si"):

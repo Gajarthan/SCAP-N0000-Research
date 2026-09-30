@@ -23,7 +23,7 @@ def status(queued):
     return values
 
 
-def compose(data, topics, sources, timestamp, sha):
+def compose(data, topics, sources, timestamp, sha, pdf_count=0):
     periods = data["periods"]
     amounts = {m["id"]:m for m in data["amounts"]}
     def amount(name, period):
@@ -37,7 +37,7 @@ def compose(data, topics, sources, timestamp, sha):
         "note":"Historical research snapshot; not live pricing, and not an investment recommendation.",
         "disclosure":"FY2026 is YEAR-END INTERIM SUBJECT TO AUDIT; final FY2026 SCAP audit and June 2026 SCAP original quarter remain OPEN.",
         "source_cards":sources,
-        "source_pdf_binaries_archived":0,
+        "source_pdf_binaries_archived":pdf_count,
         "periods":periods,
         "chapters":topics,
         "amounts":data["amounts"],
@@ -125,7 +125,8 @@ def write_snapshot(destination, current=None, root=ROOT):
         sha = subprocess.check_output(["git","rev-parse","HEAD"],cwd=root,text=True).strip()
     except (FileNotFoundError,subprocess.CalledProcessError):
         sha = "unknown-not-verified"
-    payload = compose(data,topics,sources,now,sha)
+    pdf_count = sum(p.is_file() and p.suffix.lower() == ".pdf"
+                    for p in (root / "sources/documents").glob("*.pdf"))\n    payload = compose(data,topics,sources,now,sha,pdf_count)
     path = Path(destination)
     path.mkdir(parents=True,exist_ok=True)
     date = payload["date_sri_lanka"]

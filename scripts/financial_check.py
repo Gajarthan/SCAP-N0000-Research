@@ -40,8 +40,8 @@ def run(path=ROOT / "data/financial-facts.json", root=ROOT):
             raise CheckError(f"{name}: period ends after evidence cutoff")
         if date.month != 3 or date.day != 31:
             raise CheckError(f"{name}: SCAP fiscal year-end must be 31 March")
-        if "2026" in name and period["assurance"] == "audited":
-            raise CheckError(f"{name}: FY2026 is NOT established as audited in this ledger")
+        if name == "FY2026_INTERIM" and period["assurance"] == "audited":
+            raise CheckError(f"{name}: a subject-to-audit interim cannot be relabelled audited; preserve it and add a new independently verified FY2026_AUDITED period")
         if name == "FY2025" and period["assurance"] != "audited":
             raise CheckError("FY2025 must retain original audited status")
         if name == "FY2026_INTERIM" and period["assurance"] != "interim_subject_to_audit":
