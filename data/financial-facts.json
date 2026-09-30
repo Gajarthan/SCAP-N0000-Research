@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-09-30",
+  "currency": "LKR",
+  "unit": "million",
+  "scope_note": "Historical extracted figures from existing issuer-source research. FY2026 is year-end interim, subject to audit; not the final FY2026 signed audit.",
+  "periods": {
+    "FY2025": {
+      "end": "2025-03-31",
+      "assurance": "audited",
+      "source_id": "SCAP-AR-2025",
+      "original_page": "p.63, p.70, note 39"
+    },
+    "FY2026_INTERIM": {
+      "end": "2026-03-31",
+      "assurance": "interim_subject_to_audit",
+      "source_id": "SCAP-FY2026-YE-INTERIM",
+      "original_page": "pp.2, 6 and 9; operating CFO page remains to be independently rechecked"
+    }
+  },
+  "amounts": [
+    {
+      "id": "group_income",
+      "scope": "group",
+      "values": {
+        "FY2025": 42383.72,
+        "FY2026_INTERIM": 51310.49
+      }
+    },
+    {
+      "id": "group_PAT",
+      "scope": "group",
+      "values": {
+        "FY2025": 1694.15,
+        "FY2026_INTERIM": 3371.26
+      }
+    },
+    {
+      "id": "owners_PAT",
+      "scope": "group",
+      "values": {
+        "FY2025": -280.42,
+        "FY2026_INTERIM": 973.77
+      }
+    },
+    {
+      "id": "NCI_PAT",
+      "scope": "group",
+      "values": {
+        "FY2025": 1974.57,
+        "FY2026_INTERIM": 2397.49
+      }
+    },
+    {
+      "id": "group_operating_cash_flow",
+      "scope": "group",
+      "values": {
+        "FY2025": 427.54,
+        "FY2026_INTERIM": -851.24
+      },
+      "review": "FY26 operating cash original p.9 requires recheck"
+    },
+    {
+      "id": "parent_borrowings",
+      "scope": "parent",
+      "values": {
+        "FY2025": 14797.33,
+        "FY2026_INTERIM": 17324.26
+      }
+    },
+    {
+      "id": "parent_cash",
+      "scope": "parent",
+      "values": {
+        "FY2025": 27.89,
+        "FY2026_INTERIM": 32.07
+      }
+    },
+    {
+      "id": "parent_bank_loans",
+      "scope": "parent",
+      "values": {
+        "FY2025": 1950.22
+      }
+    },
+    {
+      "id": "parent_commercial_paper",
+      "scope": "parent",
+      "values": {
+        "FY2025": 11676.64
+      }
+    },
+    {
+      "id": "parent_securitisation",
+      "scope": "parent",
+      "values": {
+        "FY2025": 1154.54
+      }
+    },
+    {
+      "id": "parent_lease_creditors",
+      "scope": "parent",
+      "values": {
+        "FY2025": 15.93
+      }
+    },
+    {
+      "id": "parent_dividends_received",
+      "scope": "parent",
+      "values": {
+        "FY2025": 3273.55
+      }
+    },
+    {
+      "id": "parent_interest_paid",
+      "scope": "parent",
+      "values": {
+        "FY2025": 2549.88
+      }
+    },
+    {
+      "id": "parent_operating_cash_flow",
+      "scope": "parent",
+      "values": {
+        "FY2025": -4605.1
+      }
+    }
+  ],
+  "equations": [
+    {
+      "id": "FY25_Group_PAT_attribution",
+      "period": "FY2025",
+      "scope": "group",
+      "result": "group_PAT",
+      "components": [
+        "owners_PAT",
+        "NCI_PAT"
+      ],
+      "tolerance": 0.02
+    },
+    {
+      "id": "FY26_interim_Group_PAT_attribution",
+      "period": "FY2026_INTERIM",
+      "scope": "group",
+      "result": "group_PAT",
+      "components": [
+        "owners_PAT",
+        "NCI_PAT"
+      ],
+      "tolerance": 0.02
+    },
+    {
+      "id": "FY25_parent_interest_bearing_debt",
+      "period": "FY2025",
+      "scope": "parent",
+      "result": "parent_borrowings",
+      "components": [
+        "parent_bank_loans",
+        "parent_commercial_paper",
+        "parent_securitisation",
+        "parent_lease_creditors"
+      ],
+      "tolerance": 0.03
+    }
+  ],
+  "ratios": [
+    {
+      "id": "FY26_interim_owners_PAT_pct",
+      "period": "FY2026_INTERIM",
+      "scope": "group",
+      "numerator": "owners_PAT",
+      "denominator": "group_PAT",
+      "as_percent": 28.89,
+      "tolerance_percentage_points": 0.05
+    }
+  ],
+  "translation_required": {
+    "01-Fundamental-Analysis/02-Financial-Statements/README.md": [
+      "42,383.72",
+      "51,310.49",
+      "1,694.15",
+      "−280.42",
+      "1,974.57",
+      "3,371.26",
+      "973.77",
+      "2,397.49",
+      "−4,605.10",
+      "14,797.33",
+      "17,324.26"
+    ],
+    "01-Fundamental-Analysis/08-Risk/README.md": [
+      "14,797.33",
+      "17,324.26",
+      "11,676.64",
+      "48,559,000",
+      "32,490,704"
+    ],
+    "01-Fundamental-Analysis/09-Dividends/README.md": [
+      "3,273.55",
+      "2,549.88",
+      "841.19"
+    ],
+    "01-Fundamental-Analysis/10-Shareholding/README.md": [
+      "50.16%",
+      "48,559,000",
+      "32,490,704",
+      "80.10%"
+    ],
+    "01-Fundamental-Analysis/05-Competitors/README.md": [
+      "245%",
+      "215%",
+      "18.4%"
+    ],
+    "01-Fundamental-Analysis/12-Forensic-Accounting/README.md": [
+      "42,383.724",
+      "39,794",
+      "2,589.724"
+    ]
+  }
+}
