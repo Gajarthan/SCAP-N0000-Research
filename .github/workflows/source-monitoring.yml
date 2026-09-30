@@ -1,0 +1,52 @@
+name: Monitor SCAP original filings
+
+on:
+  schedule:
+    - cron: "43 3 * * *" # daily 09:13 Asia/Colombo; avoid GitHub peak minute 0
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        type: boolean
+        description: Only inspect public indexes; do not create GitHub Issues
+        required: false
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - "scripts/source_monitor.py"
+      - "scripts/tests/test_source_monitor.py"
+      - "sources/watchlist.json"
+      - ".github/workflows/source-monitoring.yml"
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: scap-source-monitor
+  cancel-in-progress: false
+
+jobs:
+  inspect-issuer:
+    name: Check original SCAP PDF links
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Test issuer filters and deduplication rules
+        run: python3 -m unittest discover -s scripts/tests -p 'test_source_monitor.py' -v
+      - name: Poll official issuer, CSE and supplemental catalogs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ "$DRY_RUN" == "true" ]]; then
+            python3 scripts/source_monitor.py --dry-run
+          else
+            python3 scripts/source_monitor.py
+          fi
