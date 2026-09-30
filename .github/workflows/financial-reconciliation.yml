@@ -1,0 +1,41 @@
+name: Reconcile SCAP financials
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/financial-facts.json"
+      - "01-Fundamental-Analysis/02-Financial-Statements/**"
+      - "ta/01-Fundamental-Analysis/02-Financial-Statements/**"
+      - "si/01-Fundamental-Analysis/02-Financial-Statements/**"
+      - "01-Fundamental-Analysis/08-Risk/**"
+      - "sources/records/SCAP-AR-2025.md"
+      - "sources/records/SCAP-FY2026-YE-INTERIM.md"
+      - "scripts/financial_check.py"
+      - "scripts/tests/test_financial_check.py"
+      - ".github/workflows/financial-reconciliation.yml"
+  pull_request:
+    paths:
+      - "data/financial-facts.json"
+      - "**/02-Financial-Statements/**"
+      - "scripts/financial_check.py"
+      - "scripts/tests/test_financial_check.py"
+      - ".github/workflows/financial-reconciliation.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  reconcile:
+    name: Financial arithmetic and assurance
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Test errors and required invariants
+        run: python3 -m unittest discover -s scripts/tests -p 'test_financial_check.py' -v
+      - name: Reconcile current evidence ledger
+        run: python3 scripts/financial_check.py
