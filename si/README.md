@@ -1,5 +1,7 @@
 # SCAP.N0000 — සිංහල ආයෝජන පර්යේෂණය
 
+**[📋 පර්යේෂණ ප්‍රගතිය හා පිරවීමේ සැලැස්ම — මාතෘකා 20 / භාෂා 3](RESEARCH-QUEUE.md)**
+
 **[📈 මූල්‍ය ප්‍රකාශන විශ්ලේෂණය — මූලාශ්‍ර සහිත ප්‍රස්තාර 12ක්](01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md)** ([English](../01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md) · [தமிழ்](../ta/01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md)).
 
 **[🧭 ව්‍යාපාර SWOT: කාණ්ඩ හතරක් සහ සාක්ෂි පරීක්ෂණ 12ක්](01-Fundamental-Analysis/01-Business-Analysis/SWOT-ANALYSIS.md)**

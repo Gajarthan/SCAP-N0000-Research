@@ -1,5 +1,7 @@
 # SCAP.N0000 — Investment Research
 
+**[📋 Research coverage & scheduled fill queue — 20 topics / 3 languages](RESEARCH-QUEUE.md)**
+
 **[📈 Financial Statement Analysis — 12 sourced charts, audited FY2025 vs interim FY2026](01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md)** ([தமிழ்](ta/01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md) · [සිංහල](si/01-Fundamental-Analysis/02-Financial-Statements/VISUAL-REPORT.md)).
 
 **[🧭 Business SWOT: 4 quadrants + 12 evidence-led tests](01-Fundamental-Analysis/01-Business-Analysis/SWOT-ANALYSIS.md)**
@@ -12,7 +14,7 @@ A public, multilingual research notebook covering **company fundamentals** and *
 
 **Languages:** [English](en/README.md) · [தமிழ்](ta/README.md) · [සිංහල](si/README.md)
 
-> **Research status — 30 September 2026:** Educational research in progress, **not** investment advice. The FY2025/FY2026 figures in older snapshots are secondary-provider figures awaiting reconciliation with official CSE filings. No verified current price, trading signal or SCAP valuation is presented.
+> **Research status — 30 September 2026:** Educational research in progress, **not** investment advice. FY2025 audited issuer figures and FY2026 year-end interim figures have been added to the research, but the final FY2026 audited statements and later quarter still require source reconciliation; disputed third-party historical figures are marked. No verified current price, trading signal or SCAP valuation is presented.
 
 ## Start with one of two analysis branches
 

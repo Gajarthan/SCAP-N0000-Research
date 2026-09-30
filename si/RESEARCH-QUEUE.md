@@ -1,0 +1,77 @@
+# SCAP පර්යේෂණ ප්‍රගතිය හා සම්පූර්ණ කිරීමේ සැලැස්ම
+
+[← සිංහල මුල් පිටුව](README.md) · [English](../RESEARCH-QUEUE.md) · [தமிழ்](../ta/RESEARCH-QUEUE.md) · **සිංහල**
+
+> **පරීක්ෂණ දිනය: 2026-09-30.** සම්පූර්ණයෙන් **පර්යේෂණ මාතෘකා 20 × භාෂා 3 = මූලික මාර්ගෝපදේශ 60ක්**. මෙය ලේඛන තත්ත්ව අගයකි; කොටස් ශ්‍රේණිගත කිරීමක් නොවේ. ව්‍යාපාර හා මූල්‍ය වාර්තා දෙකක් දත්ත සහිතව පවතින නමුත් අවසන් FY2026 විගණිත ලේඛන සමඟ තවත් ගළපා ගත යුතුය; අනෙකුත් 18 ප්‍රධාන වශයෙන් හිස් ක්‍රමවේද ආකෘති වේ. මෙය පොදු GitHub repo එකකි.
+
+**වත්මන් තත්ත්වය:** කොටස් වශයෙන් පර්යේෂණ කළ මාතෘකා 2ක්; පුරවිය යුතු ආකෘති 18ක්; මුළුමනින්ම ගළපා අවසන් කළ 0ක්. Business visual report හි රූප සටහන් 16ක්, Financial report හි 12ක්, SWOT වෙනම ලේඛනයක් ලෙස ඇත.
+
+## මාතෘකා අනුව තත්ත්වය
+
+| මාතෘකාව | තත්ත්වය | අවශ්‍ය මූලාශ්‍ර / ඊළඟ කාර්යය |
+|---|---|---|
+| [ව්‍යාපාර විශ්ලේෂණය](01-Fundamental-Analysis/01-Business-Analysis/README.md) | **අර්ධ පර්යේෂණ — මූලාශ්‍ර නැවත පරීක්ෂාව** | 16 business visuals and SWOT exist; source refresh remains |
+| [මූල්‍ය ප්‍රකාශන](01-Fundamental-Analysis/02-Financial-Statements/README.md) | **අර්ධ පර්යේෂණ — මූලාශ්‍ර නැවත පරීක්ෂාව** | 12 charts; final audited FY2026 and June quarter need tie-out |
+| [වටිනාකම් තක්සේරුව](01-Fundamental-Analysis/03-Valuation/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Parent NAV / minorities / debt / audited inputs |
+| [කර්මාන්තය](01-Fundamental-Analysis/04-Industry/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Insurance, NBFI, brokerage market structure |
+| [තරඟකරුවන්](01-Fundamental-Analysis/05-Competitors/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Like-for-like peer metric comparisons |
+| [සාර්ව ආර්ථිකය](01-Fundamental-Analysis/06-Macroeconomics/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Sri Lanka rates, FX, inflation and segment transmission |
+| [කළමනාකරණය සහ පාලනය](01-Fundamental-Analysis/07-Management-Governance/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Board changes, audit committees, related parties |
+| [අවදානම](01-Fundamental-Analysis/08-Risk/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Parent refinancing, credit losses, insurer solvency |
+| [ලාභාංශ](01-Fundamental-Analysis/09-Dividends/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Paid vs proposed; subsidiary cash vs parent payouts |
+| [හිමිකාරීත්වය](01-Fundamental-Analysis/10-Shareholding/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Current dated ownership, direct vs indirect stakes |
+| [ආයතනික ක්‍රියා](01-Fundamental-Analysis/11-Corporate-Actions/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | CSE notices, rights, acquisitions and effective dates |
+| [විමර්ශනාත්මක ගිණුම්](01-Fundamental-Analysis/12-Forensic-Accounting/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Original-versus-vendor discrepancies; restatements |
+| [නියාමනය](01-Fundamental-Analysis/13-Regulatory/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Latest CBSL/IRCSL/SEC/CSE entity-specific notices |
+| [අවස්ථා / සංවේදීතාව](01-Fundamental-Analysis/14-Scenario-Analysis/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Conditional verified inputs, no unsupported probabilities |
+| [මූලික ප්‍රමාණාත්මක](01-Fundamental-Analysis/15-Quantitative/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Period-consistent time series and robustness checks |
+| [මිල හැසිරීම](02-Technical-Analysis/01-Price-Action/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | CSE sourced timestamped OHLCV and corporate adjustments |
+| [ප්‍රවණතා සහ වේගය](02-Technical-Analysis/02-Trend-Momentum/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Indicators after verifiable OHLCV; avoid false signals |
+| [පරිමාව / ද්‍රවශීලතාව](02-Technical-Analysis/03-Volume-Liquidity/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | No-trade days, turnover, bid/ask depth and slippage |
+| [රටා සහ දර්ශක](02-Technical-Analysis/04-Patterns-Indicators/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Reproducible rules, costs and out-of-sample checks |
+| [ප්‍රමාණාත්මක / මනෝභාව](02-Technical-Analysis/05-Quantitative-Sentiment/README.md) | **ක්‍රමවේද ආකෘතිය — පුරවිය යුතුයි** | Dated events, objective tests, no future leaks |
+
+## ඉටුකිරීමේ අනුපිළිවෙළ
+
+**මුල් පියවර:** SCAP **FY2025/26 අවසන් audited annual report** හා **2026 ජූනි 30 මුල් SCAP අතුරු ගොනුව** ලබාගෙන auditor opinion සහ මූල්‍ය අගයන් ගළපා Business/Financial ලේඛන යාවත්කාලීන කරන්න. මුල් වාර්තා නොලැබේ නම් **OPEN** ලෙස සටහන් කරන්න; ද්විතීයික අගයන් මුල් සාක්ෂි ලෙස නොපෙන්වන්න.
+
+1. [හිමිකාරීත්වය](01-Fundamental-Analysis/10-Shareholding/README.md) — Current dated ownership, direct vs indirect stakes.
+2. [ලාභාංශ](01-Fundamental-Analysis/09-Dividends/README.md) — Paid vs proposed; subsidiary cash vs parent payouts.
+3. [නියාමනය](01-Fundamental-Analysis/13-Regulatory/README.md) — Latest CBSL/IRCSL/SEC/CSE entity-specific notices.
+4. [අවදානම](01-Fundamental-Analysis/08-Risk/README.md) — Parent refinancing, credit losses, insurer solvency.
+5. [ආයතනික ක්‍රියා](01-Fundamental-Analysis/11-Corporate-Actions/README.md) — CSE notices, rights, acquisitions and effective dates.
+6. [කළමනාකරණය සහ පාලනය](01-Fundamental-Analysis/07-Management-Governance/README.md) — Board changes, audit committees, related parties.
+7. [විමර්ශනාත්මක ගිණුම්](01-Fundamental-Analysis/12-Forensic-Accounting/README.md) — Original-versus-vendor discrepancies; restatements.
+8. [කර්මාන්තය](01-Fundamental-Analysis/04-Industry/README.md) — Insurance, NBFI, brokerage market structure.
+9. [තරඟකරුවන්](01-Fundamental-Analysis/05-Competitors/README.md) — Like-for-like peer metric comparisons.
+10. [සාර්ව ආර්ථිකය](01-Fundamental-Analysis/06-Macroeconomics/README.md) — Sri Lanka rates, FX, inflation and segment transmission.
+11. [වටිනාකම් තක්සේරුව](01-Fundamental-Analysis/03-Valuation/README.md) — Parent NAV / minorities / debt / audited inputs.
+12. [අවස්ථා / සංවේදීතාව](01-Fundamental-Analysis/14-Scenario-Analysis/README.md) — Conditional verified inputs, no unsupported probabilities.
+13. [මූලික ප්‍රමාණාත්මක](01-Fundamental-Analysis/15-Quantitative/README.md) — Period-consistent time series and robustness checks.
+14. [මිල හැසිරීම](02-Technical-Analysis/01-Price-Action/README.md) — CSE sourced timestamped OHLCV and corporate adjustments.
+15. [පරිමාව / ද්‍රවශීලතාව](02-Technical-Analysis/03-Volume-Liquidity/README.md) — No-trade days, turnover, bid/ask depth and slippage.
+16. [ප්‍රවණතා සහ වේගය](02-Technical-Analysis/02-Trend-Momentum/README.md) — Indicators after verifiable OHLCV; avoid false signals.
+17. [රටා සහ දර්ශක](02-Technical-Analysis/04-Patterns-Indicators/README.md) — Reproducible rules, costs and out-of-sample checks.
+18. [ප්‍රමාණාත්මක / මනෝභාව](02-Technical-Analysis/05-Quantitative-Sentiment/README.md) — Dated events, objective tests, no future leaks.
+
+## සම්පූර්ණ කළ මාතෘකාවක් ලෙස සටහන් කිරීමට අවශ්‍ය දේ
+
+- [ ] දින සහිත SCAP-විශේෂිත මුල් මූලාශ්‍ර, වැදගත් අගයන්ට URL, පිටුව, ඒකකය සහ විෂය පථය සඳහන් කරන්න.
+- [ ] SCAP Group, මව් තනි සමාගම, අනුබද්ධ ආයතන සහ minority හිමිකම් වෙන් කරන්න; GWP/AUM මව් cash ලෙස නොසලකන්න.
+- [ ] සත්‍ය දත්ත සහිත Markdown වගු, Mermaid සටහන් සපයන්න; තහවුරු නැති මිල ඉතිහාස, ratios හෝ indicators නිර්මාණය නොකරන්න.
+- [ ] English, தமிழ், සිංහල **එකම අවස්ථාවේ** අගයන්, දින සහ මූලාශ්‍ර ගළපා යාවත්කාලීන කරන්න.
+- [ ] භාෂා තුනේ SOURCES.md සහ RESEARCH-LOG.md යාවත්කාලීන කරන්න; අතුරුදන් තොරතුරු OPEN ලෙස සලකුණු කර links/commits පරීක්ෂා කරන්න.
+- [ ] සාක්ෂි අනුව TEMPLATE → PARTIAL → FILLED ලෙස ලකුණු කරන්න. FILLED කියන්නේ ලබාගත හැකි සාක්ෂි පදනමින් විශ්ලේෂණය කළ බවයි; සියලු නොදන්නා කරුණු විසඳා ඇති බව නොවේ.
+- [ ] පෞද්ගලික brokerage ගිණුම්, portfolio තොරතුරු එක් නොකරන්න; GitHub Actions/workflows නිර්මාණය නොකරන්න.
+
+## සැලසුම් කළ පර්යේෂණ කාර්යය
+
+ChatGPT කාර්යය සෑම ධාවනයකදීම මෙම status ගොනුව සහ නවතම GitHub ලේඛන කියවා **එක් සම්පූර්ණ නොකළ මාතෘකාවක්** (හෝ මූලාශ්‍ර ගළපීමක්) භාෂා තුනේ යාවත්කාලීන කර මූලාශ්‍ර, links, commits පරීක්ෂා කළ යුතුය. GitHub Actions/workflows නිර්මාණය නොකරයි. සියලු මාතෘකා නිම වූ විට අවසන් තත්ත්වය දැනුම් දිය යුතුය.
+
+## මූලාශ්‍ර සහ මූලික තත්ත්වය
+
+මුල් මූලාශ්‍ර: [SCAP FY2025 විගණිත වාර්තාව](https://cdn.cse.lk/cmt/upload_report_file/1100_1764673838964.03.2025%20-%20Annual%20Report.pdf) · [2026 මැයි 27 interim](https://cdn.cse.lk/cmt/upload_report_file/1100_1779968696398.pdf) · [CSE](https://www.cse.lk/) · [CBSL](https://www.cbsl.gov.lk/) · [IRCSL](https://ircsl.gov.lk/) · [SEC](https://www.sec.gov.lk/). තාක්ෂණික විශ්ලේෂණයට නීත්‍යානුකූල, දින සහිත SCAP **OHLCV** දත්ත අවශ්‍යයි; repo හි ඒවා තවමත් නැත.
+
+> **සැලකිල්ල:** SCAP මාර්තු 2026 අතුරු අගයන් විගණනයට යටත්ය. පැරණි provider revenue/segment අගයන් තුළ නොගැළපීම් තිබුණි; අලංකාර ග්‍රාෆ් එකකට වඩා මූලාශ්‍ර නිවැරදි බව වැදගත්ය.
+
+**ඊළඟ කාර්යයේ තත්ත්වය:** `SOURCE-CHECK — QUEUED` · **Last source-audit date:** `2026-09-30`.
