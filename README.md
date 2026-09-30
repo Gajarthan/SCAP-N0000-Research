@@ -1,5 +1,7 @@
 # SCAP.N0000 — Investment Research
 
+**🌐 [Open the public SCAP Research website](https://scap-public-research.thisanthan02.workers.dev/)** — interactive dashboard, 20 research chapters, source records and live GitHub Markdown reader in English, Tamil and Sinhala. [Website source and hosting notes](docs/README.md).
+
 **[📚 Stored source records](sources/SOURCE-REGISTER.md)** — 11 stable-ID evidence files; full original PDFs remain externally linked, not mirrored.
 
 **[📋 Research coverage & scheduled fill queue — 20 topics / 3 languages](RESEARCH-QUEUE.md)**
