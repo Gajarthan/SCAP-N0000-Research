@@ -42,7 +42,7 @@ flowchart LR
   R --> DIV["Dividends actually<br/>received by SCAP"]
   DIV --> PARENT["Parent cash balance"]
   PARENT --> USE["Parent borrowing costs,<br/>reinvestment or distributions"]
-  AP -. "Not the same measure" .-> DIV
+  AP -.-> DIV
 ```
 
 **Critical distinction:** Consolidated earnings, profit attributable to SCAP shareholders, and cash that can be distributed to SCAP are **three different concepts**. Do not add unadjusted subsidiary income or AUM to an equity valuation.
