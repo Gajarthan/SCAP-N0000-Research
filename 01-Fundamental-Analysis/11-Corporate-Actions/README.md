@@ -2,7 +2,7 @@
 
 [← Fundamental analysis](../README.md) · [English](README.md) · [தமிழ்](../../ta/01-Fundamental-Analysis/11-Corporate-Actions/README.md) · [සිංහල](../../si/01-Fundamental-Analysis/11-Corporate-Actions/README.md)
 
-> **SCAP.N0000 · Softlogic Capital PLC** · **Status:** Research methodology only; no fresh SCAP conclusion is implied. **Reference date: 2026-09-30**.
+> **SCAP.N0000 · Softlogic Capital PLC** · **Status: PARTIAL** · **Reference date: 2026-10-02**.
 
 ## 🎯 Research question
 
